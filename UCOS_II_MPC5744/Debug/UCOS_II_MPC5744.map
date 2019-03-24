@@ -1,0 +1,3167 @@
+Archive member included to satisfy reference by file (symbol)
+
+d:/nxp/s32ds_power_v1.2/cross_tools/powerpc-eabivle-4_9/bin/../lib/gcc/powerpc-eabivle/4.9.4/e200z4/fp\libgcc.a(eabivle.o)
+                              ./src/main.o (__eabi)
+
+Allocating common symbols
+Common symbol       size              file
+
+OSTmrFreeList       0x4               ./src/os_core.o
+OSTmrWheelTbl       0x38              ./src/os_core.o
+OSLockNesting       0x1               ./src/os_core.o
+OSTmrSemSignal      0x4               ./src/os_core.o
+OSTaskRegNextAvailID
+                    0x1               ./src/os_core.o
+OSRunning           0x1               ./src/os_core.o
+OSIdleCtr           0x4               ./src/os_core.o
+OSTmrUsed           0x2               ./src/os_core.o
+OS_CPU_ISRStk       0x400             ./src/os_cpu_c.o
+OSPrioHighRdy       0x1               ./src/os_core.o
+OSFlagTbl           0x50              ./src/os_core.o
+OS_CPU_ISRStkBase   0x4               ./src/os_cpu_c.o
+OSTmrTbl            0x280             ./src/os_core.o
+Mem_SegHeadPtr      0x4               ./src/lib_mem.o
+OSPrioCur           0x1               ./src/os_core.o
+Math_RandSeedCur    0x4               ./src/lib_math.o
+OSTCBList           0x4               ./src/os_core.o
+OSTickStepState     0x1               ./src/os_core.o
+OSMemTbl            0x78              ./src/os_core.o
+OSTaskStatStk       0x200             ./src/os_core.o
+OSCtxSwCtr          0x4               ./src/os_core.o
+OSTmrFree           0x2               ./src/os_core.o
+OSIdleCtrMax        0x4               ./src/os_core.o
+OS_CPU_ISRNestingCtr
+                    0x4               ./src/os_cpu_c.o
+OSTCBFreeList       0x4               ./src/os_core.o
+OSCPUUsage          0x1               ./src/os_core.o
+OSTaskCtr           0x1               ./src/os_core.o
+OSMemFreeList       0x4               ./src/os_core.o
+OSQTbl              0x60              ./src/os_core.o
+OSTCBHighRdy        0x4               ./src/os_core.o
+OSQFreeList         0x4               ./src/os_core.o
+OSRdyGrp            0x1               ./src/os_core.o
+CPU_Cache_Linesize  0x4               ./src/cpu_cache_powerpc_e200z4204n3.o
+OSRdyTbl            0x8               ./src/os_core.o
+OSTmrTaskStk        0x200             ./src/os_core.o
+OSEventFreeList     0x4               ./src/os_core.o
+OSIntNesting        0x1               ./src/os_core.o
+OSTCBCur            0x4               ./src/os_core.o
+OSTmrTime           0x4               ./src/os_core.o
+OSTime              0x4               ./src/os_core.o
+OSTmrSem            0x4               ./src/os_core.o
+OSTaskIdleStk       0x200             ./src/os_core.o
+OSEventTbl          0xf0              ./src/os_core.o
+OSTCBTbl            0x790             ./src/os_core.o
+OSFlagFreeList      0x4               ./src/os_core.o
+OSStatRdy           0x1               ./src/os_core.o
+OSTCBPrioTbl        0x100             ./src/os_core.o
+OSIdleCtrRun        0x4               ./src/os_core.o
+
+Discarded input sections
+
+ .text          0x00000000        0x0 d:/nxp/s32ds_power_v1.2/cross_tools/powerpc-eabivle-4_9/bin/../lib/gcc/powerpc-eabivle/4.9.4/e200z4/fp/ecrti.o
+ .data          0x00000000        0x0 d:/nxp/s32ds_power_v1.2/cross_tools/powerpc-eabivle-4_9/bin/../lib/gcc/powerpc-eabivle/4.9.4/e200z4/fp/ecrti.o
+ .bss           0x00000000        0x0 d:/nxp/s32ds_power_v1.2/cross_tools/powerpc-eabivle-4_9/bin/../lib/gcc/powerpc-eabivle/4.9.4/e200z4/fp/ecrti.o
+ .fixup         0x00000000        0x0 d:/nxp/s32ds_power_v1.2/cross_tools/powerpc-eabivle-4_9/bin/../lib/gcc/powerpc-eabivle/4.9.4/e200z4/fp/ecrti.o
+ .sbss          0x00000000        0x0 d:/nxp/s32ds_power_v1.2/cross_tools/powerpc-eabivle-4_9/bin/../lib/gcc/powerpc-eabivle/4.9.4/e200z4/fp/ecrti.o
+ .sbss2         0x00000000        0x0 d:/nxp/s32ds_power_v1.2/cross_tools/powerpc-eabivle-4_9/bin/../lib/gcc/powerpc-eabivle/4.9.4/e200z4/fp/ecrti.o
+ .gcc_except_table
+                0x00000000        0x0 d:/nxp/s32ds_power_v1.2/cross_tools/powerpc-eabivle-4_9/bin/../lib/gcc/powerpc-eabivle/4.9.4/e200z4/fp/ecrti.o
+ .data          0x00000000        0x4 d:/nxp/s32ds_power_v1.2/cross_tools/powerpc-eabivle-4_9/bin/../lib/gcc/powerpc-eabivle/4.9.4/e200z4/fp/crtbegin.o
+ .text          0x00000000        0x0 ./Project_Settings/Startup_Code/startup.o
+ .data          0x00000000        0x0 ./Project_Settings/Startup_Code/startup.o
+ .bss           0x00000000        0x0 ./Project_Settings/Startup_Code/startup.o
+ .group         0x00000000        0x8 ./src/os_tmr.o
+ .group         0x00000000        0x8 ./src/os_tmr.o
+ .group         0x00000000        0x8 ./src/os_tmr.o
+ .group         0x00000000        0x8 ./src/os_tmr.o
+ .group         0x00000000        0x8 ./src/os_tmr.o
+ .group         0x00000000        0x8 ./src/os_tmr.o
+ .group         0x00000000        0x8 ./src/os_tmr.o
+ .group         0x00000000        0x8 ./src/os_tmr.o
+ .group         0x00000000        0x8 ./src/os_tmr.o
+ .group         0x00000000        0x8 ./src/os_tmr.o
+ .group         0x00000000        0x8 ./src/os_tmr.o
+ .group         0x00000000        0x8 ./src/os_tmr.o
+ .group         0x00000000        0x8 ./src/os_tmr.o
+ .group         0x00000000        0x8 ./src/os_tmr.o
+ .group         0x00000000        0x8 ./src/os_tmr.o
+ .group         0x00000000        0x8 ./src/os_tmr.o
+ .group         0x00000000        0x8 ./src/os_tmr.o
+ .group         0x00000000        0x8 ./src/os_tmr.o
+ .group         0x00000000        0x8 ./src/os_tmr.o
+ .group         0x00000000        0x8 ./src/os_tmr.o
+ .group         0x00000000        0x8 ./src/os_tmr.o
+ .group         0x00000000        0x8 ./src/os_tmr.o
+ .group         0x00000000        0x8 ./src/os_tmr.o
+ .text          0x00000000        0x0 ./src/os_tmr.o
+ .data          0x00000000        0x0 ./src/os_tmr.o
+ .bss           0x00000000        0x0 ./src/os_tmr.o
+ .text.OSTmrCreate
+                0x00000000      0x190 ./src/os_tmr.o
+ .text.OSTmrDel
+                0x00000000      0x13a ./src/os_tmr.o
+ .rodata.OSTmrDel
+                0x00000000       0x10 ./src/os_tmr.o
+ .text.OSTmrNameGet
+                0x00000000      0x160 ./src/os_tmr.o
+ .text.OSTmrRemainGet
+                0x00000000      0x1a6 ./src/os_tmr.o
+ .rodata.OSTmrRemainGet
+                0x00000000       0x10 ./src/os_tmr.o
+ .text.OSTmrStateGet
+                0x00000000       0xea ./src/os_tmr.o
+ .text.OSTmrStart
+                0x00000000      0x13e ./src/os_tmr.o
+ .rodata.OSTmrStart
+                0x00000000       0x10 ./src/os_tmr.o
+ .text.OSTmrStop
+                0x00000000      0x206 ./src/os_tmr.o
+ .rodata.OSTmrStop
+                0x00000000       0x10 ./src/os_tmr.o
+ .text.OSTmr_Alloc
+                0x00000000       0x90 ./src/os_tmr.o
+ .text.OSTmr_Free
+                0x00000000       0x98 ./src/os_tmr.o
+ .group         0x00000000        0x8 ./src/os_time.o
+ .group         0x00000000        0x8 ./src/os_time.o
+ .group         0x00000000        0x8 ./src/os_time.o
+ .group         0x00000000        0x8 ./src/os_time.o
+ .group         0x00000000        0x8 ./src/os_time.o
+ .group         0x00000000        0x8 ./src/os_time.o
+ .group         0x00000000        0x8 ./src/os_time.o
+ .group         0x00000000        0x8 ./src/os_time.o
+ .group         0x00000000        0x8 ./src/os_time.o
+ .group         0x00000000        0x8 ./src/os_time.o
+ .group         0x00000000        0x8 ./src/os_time.o
+ .group         0x00000000        0x8 ./src/os_time.o
+ .group         0x00000000        0x8 ./src/os_time.o
+ .group         0x00000000        0x8 ./src/os_time.o
+ .group         0x00000000        0x8 ./src/os_time.o
+ .group         0x00000000        0x8 ./src/os_time.o
+ .group         0x00000000        0x8 ./src/os_time.o
+ .group         0x00000000        0x8 ./src/os_time.o
+ .group         0x00000000        0x8 ./src/os_time.o
+ .group         0x00000000        0x8 ./src/os_time.o
+ .group         0x00000000        0x8 ./src/os_time.o
+ .group         0x00000000        0x8 ./src/os_time.o
+ .group         0x00000000        0x8 ./src/os_time.o
+ .text          0x00000000        0x0 ./src/os_time.o
+ .data          0x00000000        0x0 ./src/os_time.o
+ .bss           0x00000000        0x0 ./src/os_time.o
+ .text.OSTimeDlyResume
+                0x00000000      0x1c6 ./src/os_time.o
+ .text.OSTimeGet
+                0x00000000       0x3c ./src/os_time.o
+ .text.OSTimeSet
+                0x00000000       0x3a ./src/os_time.o
+ .debug_macro   0x00000000      0x616 ./src/os_time.o
+ .debug_macro   0x00000000       0x52 ./src/os_time.o
+ .debug_macro   0x00000000       0xa0 ./src/os_time.o
+ .debug_macro   0x00000000       0x16 ./src/os_time.o
+ .debug_macro   0x00000000       0x10 ./src/os_time.o
+ .debug_macro   0x00000000       0x64 ./src/os_time.o
+ .debug_macro   0x00000000      0x1a3 ./src/os_time.o
+ .debug_macro   0x00000000      0x133 ./src/os_time.o
+ .debug_macro   0x00000000       0x16 ./src/os_time.o
+ .debug_macro   0x00000000       0x22 ./src/os_time.o
+ .debug_macro   0x00000000       0x16 ./src/os_time.o
+ .debug_macro   0x00000000       0x28 ./src/os_time.o
+ .debug_macro   0x00000000       0x10 ./src/os_time.o
+ .debug_macro   0x00000000       0x16 ./src/os_time.o
+ .debug_macro   0x00000000       0x16 ./src/os_time.o
+ .debug_macro   0x00000000       0x8b ./src/os_time.o
+ .debug_macro   0x00000000       0x16 ./src/os_time.o
+ .debug_macro   0x00000000       0x20 ./src/os_time.o
+ .debug_macro   0x00000000       0x2e ./src/os_time.o
+ .debug_macro   0x00000000      0x1f1 ./src/os_time.o
+ .debug_macro   0x00000000       0x36 ./src/os_time.o
+ .debug_macro   0x00000000      0x2e3 ./src/os_time.o
+ .debug_macro   0x00000000      0x43d ./src/os_time.o
+ .group         0x00000000        0x8 ./src/os_task.o
+ .group         0x00000000        0x8 ./src/os_task.o
+ .group         0x00000000        0x8 ./src/os_task.o
+ .group         0x00000000        0x8 ./src/os_task.o
+ .group         0x00000000        0x8 ./src/os_task.o
+ .group         0x00000000        0x8 ./src/os_task.o
+ .group         0x00000000        0x8 ./src/os_task.o
+ .group         0x00000000        0x8 ./src/os_task.o
+ .group         0x00000000        0x8 ./src/os_task.o
+ .group         0x00000000        0x8 ./src/os_task.o
+ .group         0x00000000        0x8 ./src/os_task.o
+ .group         0x00000000        0x8 ./src/os_task.o
+ .group         0x00000000        0x8 ./src/os_task.o
+ .group         0x00000000        0x8 ./src/os_task.o
+ .group         0x00000000        0x8 ./src/os_task.o
+ .group         0x00000000        0x8 ./src/os_task.o
+ .group         0x00000000        0x8 ./src/os_task.o
+ .group         0x00000000        0x8 ./src/os_task.o
+ .group         0x00000000        0x8 ./src/os_task.o
+ .group         0x00000000        0x8 ./src/os_task.o
+ .group         0x00000000        0x8 ./src/os_task.o
+ .group         0x00000000        0x8 ./src/os_task.o
+ .group         0x00000000        0x8 ./src/os_task.o
+ .text          0x00000000        0x0 ./src/os_task.o
+ .data          0x00000000        0x0 ./src/os_task.o
+ .bss           0x00000000        0x0 ./src/os_task.o
+ .text.OSTaskChangePrio
+                0x00000000      0x50a ./src/os_task.o
+ .text.OSTaskCreate
+                0x00000000      0x17a ./src/os_task.o
+ .text.OSTaskDelReq
+                0x00000000      0x146 ./src/os_task.o
+ .text.OSTaskNameGet
+                0x00000000      0x192 ./src/os_task.o
+ .text.OSTaskResume
+                0x00000000      0x1d0 ./src/os_task.o
+ .text.OSTaskQuery
+                0x00000000      0x132 ./src/os_task.o
+ .text.OSTaskRegGet
+                0x00000000      0x10e ./src/os_task.o
+ .text.OSTaskRegGetID
+                0x00000000       0x92 ./src/os_task.o
+ .text.OSTaskRegSet
+                0x00000000      0x106 ./src/os_task.o
+ .debug_macro   0x00000000      0x616 ./src/os_task.o
+ .debug_macro   0x00000000       0x52 ./src/os_task.o
+ .debug_macro   0x00000000       0xa0 ./src/os_task.o
+ .debug_macro   0x00000000       0x16 ./src/os_task.o
+ .debug_macro   0x00000000       0x10 ./src/os_task.o
+ .debug_macro   0x00000000       0x64 ./src/os_task.o
+ .debug_macro   0x00000000      0x1a3 ./src/os_task.o
+ .debug_macro   0x00000000      0x133 ./src/os_task.o
+ .debug_macro   0x00000000       0x16 ./src/os_task.o
+ .debug_macro   0x00000000       0x22 ./src/os_task.o
+ .debug_macro   0x00000000       0x16 ./src/os_task.o
+ .debug_macro   0x00000000       0x28 ./src/os_task.o
+ .debug_macro   0x00000000       0x10 ./src/os_task.o
+ .debug_macro   0x00000000       0x16 ./src/os_task.o
+ .debug_macro   0x00000000       0x16 ./src/os_task.o
+ .debug_macro   0x00000000       0x8b ./src/os_task.o
+ .debug_macro   0x00000000       0x16 ./src/os_task.o
+ .debug_macro   0x00000000       0x20 ./src/os_task.o
+ .debug_macro   0x00000000       0x2e ./src/os_task.o
+ .debug_macro   0x00000000      0x1f1 ./src/os_task.o
+ .debug_macro   0x00000000       0x36 ./src/os_task.o
+ .debug_macro   0x00000000      0x2e3 ./src/os_task.o
+ .debug_macro   0x00000000      0x43d ./src/os_task.o
+ .group         0x00000000        0x8 ./src/os_sem.o
+ .group         0x00000000        0x8 ./src/os_sem.o
+ .group         0x00000000        0x8 ./src/os_sem.o
+ .group         0x00000000        0x8 ./src/os_sem.o
+ .group         0x00000000        0x8 ./src/os_sem.o
+ .group         0x00000000        0x8 ./src/os_sem.o
+ .group         0x00000000        0x8 ./src/os_sem.o
+ .group         0x00000000        0x8 ./src/os_sem.o
+ .group         0x00000000        0x8 ./src/os_sem.o
+ .group         0x00000000        0x8 ./src/os_sem.o
+ .group         0x00000000        0x8 ./src/os_sem.o
+ .group         0x00000000        0x8 ./src/os_sem.o
+ .group         0x00000000        0x8 ./src/os_sem.o
+ .group         0x00000000        0x8 ./src/os_sem.o
+ .group         0x00000000        0x8 ./src/os_sem.o
+ .group         0x00000000        0x8 ./src/os_sem.o
+ .group         0x00000000        0x8 ./src/os_sem.o
+ .group         0x00000000        0x8 ./src/os_sem.o
+ .group         0x00000000        0x8 ./src/os_sem.o
+ .group         0x00000000        0x8 ./src/os_sem.o
+ .group         0x00000000        0x8 ./src/os_sem.o
+ .group         0x00000000        0x8 ./src/os_sem.o
+ .group         0x00000000        0x8 ./src/os_sem.o
+ .text          0x00000000        0x0 ./src/os_sem.o
+ .data          0x00000000        0x0 ./src/os_sem.o
+ .bss           0x00000000        0x0 ./src/os_sem.o
+ .text.OSSemAccept
+                0x00000000       0xa8 ./src/os_sem.o
+ .text.OSSemDel
+                0x00000000      0x216 ./src/os_sem.o
+ .text.OSSemPendAbort
+                0x00000000      0x130 ./src/os_sem.o
+ .text.OSSemQuery
+                0x00000000       0xf8 ./src/os_sem.o
+ .text.OSSemSet
+                0x00000000       0xd6 ./src/os_sem.o
+ .debug_macro   0x00000000      0x616 ./src/os_sem.o
+ .debug_macro   0x00000000       0x52 ./src/os_sem.o
+ .debug_macro   0x00000000       0xa0 ./src/os_sem.o
+ .debug_macro   0x00000000       0x16 ./src/os_sem.o
+ .debug_macro   0x00000000       0x10 ./src/os_sem.o
+ .debug_macro   0x00000000       0x64 ./src/os_sem.o
+ .debug_macro   0x00000000      0x1a3 ./src/os_sem.o
+ .debug_macro   0x00000000      0x133 ./src/os_sem.o
+ .debug_macro   0x00000000       0x16 ./src/os_sem.o
+ .debug_macro   0x00000000       0x22 ./src/os_sem.o
+ .debug_macro   0x00000000       0x16 ./src/os_sem.o
+ .debug_macro   0x00000000       0x28 ./src/os_sem.o
+ .debug_macro   0x00000000       0x10 ./src/os_sem.o
+ .debug_macro   0x00000000       0x16 ./src/os_sem.o
+ .debug_macro   0x00000000       0x16 ./src/os_sem.o
+ .debug_macro   0x00000000       0x8b ./src/os_sem.o
+ .debug_macro   0x00000000       0x16 ./src/os_sem.o
+ .debug_macro   0x00000000       0x20 ./src/os_sem.o
+ .debug_macro   0x00000000       0x2e ./src/os_sem.o
+ .debug_macro   0x00000000      0x1f1 ./src/os_sem.o
+ .debug_macro   0x00000000       0x36 ./src/os_sem.o
+ .debug_macro   0x00000000      0x2e3 ./src/os_sem.o
+ .debug_macro   0x00000000      0x43d ./src/os_sem.o
+ .group         0x00000000        0x8 ./src/os_q.o
+ .group         0x00000000        0x8 ./src/os_q.o
+ .group         0x00000000        0x8 ./src/os_q.o
+ .group         0x00000000        0x8 ./src/os_q.o
+ .group         0x00000000        0x8 ./src/os_q.o
+ .group         0x00000000        0x8 ./src/os_q.o
+ .group         0x00000000        0x8 ./src/os_q.o
+ .group         0x00000000        0x8 ./src/os_q.o
+ .group         0x00000000        0x8 ./src/os_q.o
+ .group         0x00000000        0x8 ./src/os_q.o
+ .group         0x00000000        0x8 ./src/os_q.o
+ .group         0x00000000        0x8 ./src/os_q.o
+ .group         0x00000000        0x8 ./src/os_q.o
+ .group         0x00000000        0x8 ./src/os_q.o
+ .group         0x00000000        0x8 ./src/os_q.o
+ .group         0x00000000        0x8 ./src/os_q.o
+ .group         0x00000000        0x8 ./src/os_q.o
+ .group         0x00000000        0x8 ./src/os_q.o
+ .group         0x00000000        0x8 ./src/os_q.o
+ .group         0x00000000        0x8 ./src/os_q.o
+ .group         0x00000000        0x8 ./src/os_q.o
+ .group         0x00000000        0x8 ./src/os_q.o
+ .group         0x00000000        0x8 ./src/os_q.o
+ .text          0x00000000        0x0 ./src/os_q.o
+ .data          0x00000000        0x0 ./src/os_q.o
+ .bss           0x00000000        0x0 ./src/os_q.o
+ .text.OSQAccept
+                0x00000000       0xfe ./src/os_q.o
+ .rodata        0x00000000        0x2 ./src/os_q.o
+ .text.OSQCreate
+                0x00000000      0x164 ./src/os_q.o
+ .text.OSQDel   0x00000000      0x24e ./src/os_q.o
+ .text.OSQFlush
+                0x00000000       0x90 ./src/os_q.o
+ .text.OSQPend  0x00000000      0x262 ./src/os_q.o
+ .text.OSQPendAbort
+                0x00000000      0x130 ./src/os_q.o
+ .text.OSQPost  0x00000000      0x126 ./src/os_q.o
+ .text.OSQPostFront
+                0x00000000      0x12a ./src/os_q.o
+ .text.OSQPostOpt
+                0x00000000      0x1f2 ./src/os_q.o
+ .text.OSQQuery
+                0x00000000      0x13c ./src/os_q.o
+ .debug_macro   0x00000000      0x616 ./src/os_q.o
+ .debug_macro   0x00000000       0x52 ./src/os_q.o
+ .debug_macro   0x00000000       0xa0 ./src/os_q.o
+ .debug_macro   0x00000000       0x16 ./src/os_q.o
+ .debug_macro   0x00000000       0x10 ./src/os_q.o
+ .debug_macro   0x00000000       0x64 ./src/os_q.o
+ .debug_macro   0x00000000      0x1a3 ./src/os_q.o
+ .debug_macro   0x00000000      0x133 ./src/os_q.o
+ .debug_macro   0x00000000       0x16 ./src/os_q.o
+ .debug_macro   0x00000000       0x22 ./src/os_q.o
+ .debug_macro   0x00000000       0x16 ./src/os_q.o
+ .debug_macro   0x00000000       0x28 ./src/os_q.o
+ .debug_macro   0x00000000       0x10 ./src/os_q.o
+ .debug_macro   0x00000000       0x16 ./src/os_q.o
+ .debug_macro   0x00000000       0x16 ./src/os_q.o
+ .debug_macro   0x00000000       0x8b ./src/os_q.o
+ .debug_macro   0x00000000       0x16 ./src/os_q.o
+ .debug_macro   0x00000000       0x20 ./src/os_q.o
+ .debug_macro   0x00000000       0x2e ./src/os_q.o
+ .debug_macro   0x00000000      0x1f1 ./src/os_q.o
+ .debug_macro   0x00000000       0x36 ./src/os_q.o
+ .debug_macro   0x00000000      0x2e3 ./src/os_q.o
+ .debug_macro   0x00000000      0x43d ./src/os_q.o
+ .group         0x00000000        0x8 ./src/os_mutex.o
+ .group         0x00000000        0x8 ./src/os_mutex.o
+ .group         0x00000000        0x8 ./src/os_mutex.o
+ .group         0x00000000        0x8 ./src/os_mutex.o
+ .group         0x00000000        0x8 ./src/os_mutex.o
+ .group         0x00000000        0x8 ./src/os_mutex.o
+ .group         0x00000000        0x8 ./src/os_mutex.o
+ .group         0x00000000        0x8 ./src/os_mutex.o
+ .group         0x00000000        0x8 ./src/os_mutex.o
+ .group         0x00000000        0x8 ./src/os_mutex.o
+ .group         0x00000000        0x8 ./src/os_mutex.o
+ .group         0x00000000        0x8 ./src/os_mutex.o
+ .group         0x00000000        0x8 ./src/os_mutex.o
+ .group         0x00000000        0x8 ./src/os_mutex.o
+ .group         0x00000000        0x8 ./src/os_mutex.o
+ .group         0x00000000        0x8 ./src/os_mutex.o
+ .group         0x00000000        0x8 ./src/os_mutex.o
+ .group         0x00000000        0x8 ./src/os_mutex.o
+ .group         0x00000000        0x8 ./src/os_mutex.o
+ .group         0x00000000        0x8 ./src/os_mutex.o
+ .group         0x00000000        0x8 ./src/os_mutex.o
+ .group         0x00000000        0x8 ./src/os_mutex.o
+ .group         0x00000000        0x8 ./src/os_mutex.o
+ .text          0x00000000        0x0 ./src/os_mutex.o
+ .data          0x00000000        0x0 ./src/os_mutex.o
+ .bss           0x00000000        0x0 ./src/os_mutex.o
+ .text.OSMutexAccept
+                0x00000000      0x186 ./src/os_mutex.o
+ .rodata        0x00000000        0x2 ./src/os_mutex.o
+ .text.OSMutexCreate
+                0x00000000      0x1da ./src/os_mutex.o
+ .text.OSMutexDel
+                0x00000000      0x328 ./src/os_mutex.o
+ .text.OSMutexPend
+                0x00000000      0x5e0 ./src/os_mutex.o
+ .text.OSMutexPost
+                0x00000000      0x226 ./src/os_mutex.o
+ .text.OSMutexQuery
+                0x00000000      0x15e ./src/os_mutex.o
+ .text.OSMutex_RdyAtPrio
+                0x00000000      0x18c ./src/os_mutex.o
+ .debug_macro   0x00000000      0x616 ./src/os_mutex.o
+ .debug_macro   0x00000000       0x52 ./src/os_mutex.o
+ .debug_macro   0x00000000       0xa0 ./src/os_mutex.o
+ .debug_macro   0x00000000       0x16 ./src/os_mutex.o
+ .debug_macro   0x00000000       0x10 ./src/os_mutex.o
+ .debug_macro   0x00000000       0x64 ./src/os_mutex.o
+ .debug_macro   0x00000000      0x1a3 ./src/os_mutex.o
+ .debug_macro   0x00000000      0x133 ./src/os_mutex.o
+ .debug_macro   0x00000000       0x16 ./src/os_mutex.o
+ .debug_macro   0x00000000       0x22 ./src/os_mutex.o
+ .debug_macro   0x00000000       0x16 ./src/os_mutex.o
+ .debug_macro   0x00000000       0x28 ./src/os_mutex.o
+ .debug_macro   0x00000000       0x10 ./src/os_mutex.o
+ .debug_macro   0x00000000       0x16 ./src/os_mutex.o
+ .debug_macro   0x00000000       0x16 ./src/os_mutex.o
+ .debug_macro   0x00000000       0x8b ./src/os_mutex.o
+ .debug_macro   0x00000000       0x16 ./src/os_mutex.o
+ .debug_macro   0x00000000       0x20 ./src/os_mutex.o
+ .debug_macro   0x00000000       0x2e ./src/os_mutex.o
+ .debug_macro   0x00000000      0x1f1 ./src/os_mutex.o
+ .debug_macro   0x00000000       0x36 ./src/os_mutex.o
+ .debug_macro   0x00000000      0x2e3 ./src/os_mutex.o
+ .debug_macro   0x00000000      0x43d ./src/os_mutex.o
+ .group         0x00000000        0x8 ./src/os_mem.o
+ .group         0x00000000        0x8 ./src/os_mem.o
+ .group         0x00000000        0x8 ./src/os_mem.o
+ .group         0x00000000        0x8 ./src/os_mem.o
+ .group         0x00000000        0x8 ./src/os_mem.o
+ .group         0x00000000        0x8 ./src/os_mem.o
+ .group         0x00000000        0x8 ./src/os_mem.o
+ .group         0x00000000        0x8 ./src/os_mem.o
+ .group         0x00000000        0x8 ./src/os_mem.o
+ .group         0x00000000        0x8 ./src/os_mem.o
+ .group         0x00000000        0x8 ./src/os_mem.o
+ .group         0x00000000        0x8 ./src/os_mem.o
+ .group         0x00000000        0x8 ./src/os_mem.o
+ .group         0x00000000        0x8 ./src/os_mem.o
+ .group         0x00000000        0x8 ./src/os_mem.o
+ .group         0x00000000        0x8 ./src/os_mem.o
+ .group         0x00000000        0x8 ./src/os_mem.o
+ .group         0x00000000        0x8 ./src/os_mem.o
+ .group         0x00000000        0x8 ./src/os_mem.o
+ .group         0x00000000        0x8 ./src/os_mem.o
+ .group         0x00000000        0x8 ./src/os_mem.o
+ .group         0x00000000        0x8 ./src/os_mem.o
+ .group         0x00000000        0x8 ./src/os_mem.o
+ .text          0x00000000        0x0 ./src/os_mem.o
+ .data          0x00000000        0x0 ./src/os_mem.o
+ .bss           0x00000000        0x0 ./src/os_mem.o
+ .text.OSMemCreate
+                0x00000000      0x1a0 ./src/os_mem.o
+ .text.OSMemGet
+                0x00000000       0xa6 ./src/os_mem.o
+ .text.OSMemNameGet
+                0x00000000       0xca ./src/os_mem.o
+ .text.OSMemNameSet
+                0x00000000       0xae ./src/os_mem.o
+ .text.OSMemPut
+                0x00000000       0xb4 ./src/os_mem.o
+ .text.OSMemQuery
+                0x00000000       0xa8 ./src/os_mem.o
+ .debug_macro   0x00000000      0x616 ./src/os_mem.o
+ .debug_macro   0x00000000       0x52 ./src/os_mem.o
+ .debug_macro   0x00000000       0xa0 ./src/os_mem.o
+ .debug_macro   0x00000000       0x16 ./src/os_mem.o
+ .debug_macro   0x00000000       0x10 ./src/os_mem.o
+ .debug_macro   0x00000000       0x64 ./src/os_mem.o
+ .debug_macro   0x00000000      0x1a3 ./src/os_mem.o
+ .debug_macro   0x00000000      0x133 ./src/os_mem.o
+ .debug_macro   0x00000000       0x16 ./src/os_mem.o
+ .debug_macro   0x00000000       0x22 ./src/os_mem.o
+ .debug_macro   0x00000000       0x16 ./src/os_mem.o
+ .debug_macro   0x00000000       0x28 ./src/os_mem.o
+ .debug_macro   0x00000000       0x10 ./src/os_mem.o
+ .debug_macro   0x00000000       0x16 ./src/os_mem.o
+ .debug_macro   0x00000000       0x16 ./src/os_mem.o
+ .debug_macro   0x00000000       0x8b ./src/os_mem.o
+ .debug_macro   0x00000000       0x16 ./src/os_mem.o
+ .debug_macro   0x00000000       0x20 ./src/os_mem.o
+ .debug_macro   0x00000000       0x2e ./src/os_mem.o
+ .debug_macro   0x00000000      0x1f1 ./src/os_mem.o
+ .debug_macro   0x00000000       0x36 ./src/os_mem.o
+ .debug_macro   0x00000000      0x2e3 ./src/os_mem.o
+ .debug_macro   0x00000000      0x43d ./src/os_mem.o
+ .group         0x00000000        0x8 ./src/os_mbox.o
+ .group         0x00000000        0x8 ./src/os_mbox.o
+ .group         0x00000000        0x8 ./src/os_mbox.o
+ .group         0x00000000        0x8 ./src/os_mbox.o
+ .group         0x00000000        0x8 ./src/os_mbox.o
+ .group         0x00000000        0x8 ./src/os_mbox.o
+ .group         0x00000000        0x8 ./src/os_mbox.o
+ .group         0x00000000        0x8 ./src/os_mbox.o
+ .group         0x00000000        0x8 ./src/os_mbox.o
+ .group         0x00000000        0x8 ./src/os_mbox.o
+ .group         0x00000000        0x8 ./src/os_mbox.o
+ .group         0x00000000        0x8 ./src/os_mbox.o
+ .group         0x00000000        0x8 ./src/os_mbox.o
+ .group         0x00000000        0x8 ./src/os_mbox.o
+ .group         0x00000000        0x8 ./src/os_mbox.o
+ .group         0x00000000        0x8 ./src/os_mbox.o
+ .group         0x00000000        0x8 ./src/os_mbox.o
+ .group         0x00000000        0x8 ./src/os_mbox.o
+ .group         0x00000000        0x8 ./src/os_mbox.o
+ .group         0x00000000        0x8 ./src/os_mbox.o
+ .group         0x00000000        0x8 ./src/os_mbox.o
+ .group         0x00000000        0x8 ./src/os_mbox.o
+ .group         0x00000000        0x8 ./src/os_mbox.o
+ .text          0x00000000        0x0 ./src/os_mbox.o
+ .data          0x00000000        0x0 ./src/os_mbox.o
+ .bss           0x00000000        0x0 ./src/os_mbox.o
+ .text.OSMboxAccept
+                0x00000000       0x80 ./src/os_mbox.o
+ .rodata        0x00000000        0x2 ./src/os_mbox.o
+ .text.OSMboxCreate
+                0x00000000       0xd0 ./src/os_mbox.o
+ .text.OSMboxDel
+                0x00000000      0x216 ./src/os_mbox.o
+ .text.OSMboxPend
+                0x00000000      0x21e ./src/os_mbox.o
+ .text.OSMboxPendAbort
+                0x00000000      0x130 ./src/os_mbox.o
+ .text.OSMboxPost
+                0x00000000       0xf8 ./src/os_mbox.o
+ .text.OSMboxPostOpt
+                0x00000000      0x16a ./src/os_mbox.o
+ .text.OSMboxQuery
+                0x00000000       0xf4 ./src/os_mbox.o
+ .debug_macro   0x00000000      0x616 ./src/os_mbox.o
+ .debug_macro   0x00000000       0x52 ./src/os_mbox.o
+ .debug_macro   0x00000000       0xa0 ./src/os_mbox.o
+ .debug_macro   0x00000000       0x16 ./src/os_mbox.o
+ .debug_macro   0x00000000       0x10 ./src/os_mbox.o
+ .debug_macro   0x00000000       0x64 ./src/os_mbox.o
+ .debug_macro   0x00000000      0x1a3 ./src/os_mbox.o
+ .debug_macro   0x00000000      0x133 ./src/os_mbox.o
+ .debug_macro   0x00000000       0x16 ./src/os_mbox.o
+ .debug_macro   0x00000000       0x22 ./src/os_mbox.o
+ .debug_macro   0x00000000       0x16 ./src/os_mbox.o
+ .debug_macro   0x00000000       0x28 ./src/os_mbox.o
+ .debug_macro   0x00000000       0x10 ./src/os_mbox.o
+ .debug_macro   0x00000000       0x16 ./src/os_mbox.o
+ .debug_macro   0x00000000       0x16 ./src/os_mbox.o
+ .debug_macro   0x00000000       0x8b ./src/os_mbox.o
+ .debug_macro   0x00000000       0x16 ./src/os_mbox.o
+ .debug_macro   0x00000000       0x20 ./src/os_mbox.o
+ .debug_macro   0x00000000       0x2e ./src/os_mbox.o
+ .debug_macro   0x00000000      0x1f1 ./src/os_mbox.o
+ .debug_macro   0x00000000       0x36 ./src/os_mbox.o
+ .debug_macro   0x00000000      0x2e3 ./src/os_mbox.o
+ .debug_macro   0x00000000      0x43d ./src/os_mbox.o
+ .group         0x00000000        0x8 ./src/os_flag.o
+ .group         0x00000000        0x8 ./src/os_flag.o
+ .group         0x00000000        0x8 ./src/os_flag.o
+ .group         0x00000000        0x8 ./src/os_flag.o
+ .group         0x00000000        0x8 ./src/os_flag.o
+ .group         0x00000000        0x8 ./src/os_flag.o
+ .group         0x00000000        0x8 ./src/os_flag.o
+ .group         0x00000000        0x8 ./src/os_flag.o
+ .group         0x00000000        0x8 ./src/os_flag.o
+ .group         0x00000000        0x8 ./src/os_flag.o
+ .group         0x00000000        0x8 ./src/os_flag.o
+ .group         0x00000000        0x8 ./src/os_flag.o
+ .group         0x00000000        0x8 ./src/os_flag.o
+ .group         0x00000000        0x8 ./src/os_flag.o
+ .group         0x00000000        0x8 ./src/os_flag.o
+ .group         0x00000000        0x8 ./src/os_flag.o
+ .group         0x00000000        0x8 ./src/os_flag.o
+ .group         0x00000000        0x8 ./src/os_flag.o
+ .group         0x00000000        0x8 ./src/os_flag.o
+ .group         0x00000000        0x8 ./src/os_flag.o
+ .group         0x00000000        0x8 ./src/os_flag.o
+ .group         0x00000000        0x8 ./src/os_flag.o
+ .group         0x00000000        0x8 ./src/os_flag.o
+ .text          0x00000000        0x0 ./src/os_flag.o
+ .data          0x00000000        0x0 ./src/os_flag.o
+ .bss           0x00000000        0x0 ./src/os_flag.o
+ .text.OSFlagAccept
+                0x00000000      0x2dc ./src/os_flag.o
+ .rodata.OSFlagAccept
+                0x00000000       0x10 ./src/os_flag.o
+ .text.OSFlagCreate
+                0x00000000       0xcc ./src/os_flag.o
+ .text.OSFlagDel
+                0x00000000      0x21e ./src/os_flag.o
+ .text.OSFlagNameGet
+                0x00000000       0xf8 ./src/os_flag.o
+ .text.OSFlagNameSet
+                0x00000000       0xdc ./src/os_flag.o
+ .text.OSFlagPend
+                0x00000000      0x5a8 ./src/os_flag.o
+ .rodata.OSFlagPend
+                0x00000000       0x20 ./src/os_flag.o
+ .text.OSFlagPendGetFlagsRdy
+                0x00000000       0x42 ./src/os_flag.o
+ .text.OSFlagPost
+                0x00000000      0x374 ./src/os_flag.o
+ .rodata.OSFlagPost
+                0x00000000       0x10 ./src/os_flag.o
+ .text.OSFlagQuery
+                0x00000000       0x90 ./src/os_flag.o
+ .text.OS_FlagBlock
+                0x00000000      0x160 ./src/os_flag.o
+ .text.OS_FlagTaskRdy
+                0x00000000       0xf2 ./src/os_flag.o
+ .debug_macro   0x00000000      0x616 ./src/os_flag.o
+ .debug_macro   0x00000000       0x52 ./src/os_flag.o
+ .debug_macro   0x00000000       0xa0 ./src/os_flag.o
+ .debug_macro   0x00000000       0x16 ./src/os_flag.o
+ .debug_macro   0x00000000       0x10 ./src/os_flag.o
+ .debug_macro   0x00000000       0x64 ./src/os_flag.o
+ .debug_macro   0x00000000      0x1a3 ./src/os_flag.o
+ .debug_macro   0x00000000      0x133 ./src/os_flag.o
+ .debug_macro   0x00000000       0x16 ./src/os_flag.o
+ .debug_macro   0x00000000       0x22 ./src/os_flag.o
+ .debug_macro   0x00000000       0x16 ./src/os_flag.o
+ .debug_macro   0x00000000       0x28 ./src/os_flag.o
+ .debug_macro   0x00000000       0x10 ./src/os_flag.o
+ .debug_macro   0x00000000       0x16 ./src/os_flag.o
+ .debug_macro   0x00000000       0x16 ./src/os_flag.o
+ .debug_macro   0x00000000       0x8b ./src/os_flag.o
+ .debug_macro   0x00000000       0x16 ./src/os_flag.o
+ .debug_macro   0x00000000       0x20 ./src/os_flag.o
+ .debug_macro   0x00000000       0x2e ./src/os_flag.o
+ .debug_macro   0x00000000      0x1f1 ./src/os_flag.o
+ .debug_macro   0x00000000       0x36 ./src/os_flag.o
+ .debug_macro   0x00000000      0x2e3 ./src/os_flag.o
+ .debug_macro   0x00000000      0x43d ./src/os_flag.o
+ .group         0x00000000        0x8 ./src/os_dbg_r.o
+ .group         0x00000000        0x8 ./src/os_dbg_r.o
+ .group         0x00000000        0x8 ./src/os_dbg_r.o
+ .group         0x00000000        0x8 ./src/os_dbg_r.o
+ .group         0x00000000        0x8 ./src/os_dbg_r.o
+ .group         0x00000000        0x8 ./src/os_dbg_r.o
+ .group         0x00000000        0x8 ./src/os_dbg_r.o
+ .group         0x00000000        0x8 ./src/os_dbg_r.o
+ .group         0x00000000        0x8 ./src/os_dbg_r.o
+ .group         0x00000000        0x8 ./src/os_dbg_r.o
+ .group         0x00000000        0x8 ./src/os_dbg_r.o
+ .group         0x00000000        0x8 ./src/os_dbg_r.o
+ .group         0x00000000        0x8 ./src/os_dbg_r.o
+ .group         0x00000000        0x8 ./src/os_dbg_r.o
+ .group         0x00000000        0x8 ./src/os_dbg_r.o
+ .group         0x00000000        0x8 ./src/os_dbg_r.o
+ .group         0x00000000        0x8 ./src/os_dbg_r.o
+ .group         0x00000000        0x8 ./src/os_dbg_r.o
+ .group         0x00000000        0x8 ./src/os_dbg_r.o
+ .group         0x00000000        0x8 ./src/os_dbg_r.o
+ .group         0x00000000        0x8 ./src/os_dbg_r.o
+ .group         0x00000000        0x8 ./src/os_dbg_r.o
+ .group         0x00000000        0x8 ./src/os_dbg_r.o
+ .text          0x00000000        0x0 ./src/os_dbg_r.o
+ .data          0x00000000        0x0 ./src/os_dbg_r.o
+ .bss           0x00000000        0x0 ./src/os_dbg_r.o
+ .sdata.OSTaskRegTblSize
+                0x00000000        0x2 ./src/os_dbg_r.o
+ .sdata.OS_TLS_TblSize
+                0x00000000        0x2 ./src/os_dbg_r.o
+ .debug_macro   0x00000000      0x616 ./src/os_dbg_r.o
+ .debug_macro   0x00000000       0x52 ./src/os_dbg_r.o
+ .debug_macro   0x00000000       0xa0 ./src/os_dbg_r.o
+ .debug_macro   0x00000000       0x16 ./src/os_dbg_r.o
+ .debug_macro   0x00000000       0x10 ./src/os_dbg_r.o
+ .debug_macro   0x00000000       0x64 ./src/os_dbg_r.o
+ .debug_macro   0x00000000      0x1a3 ./src/os_dbg_r.o
+ .debug_macro   0x00000000      0x133 ./src/os_dbg_r.o
+ .debug_macro   0x00000000       0x16 ./src/os_dbg_r.o
+ .debug_macro   0x00000000       0x22 ./src/os_dbg_r.o
+ .debug_macro   0x00000000       0x16 ./src/os_dbg_r.o
+ .debug_macro   0x00000000       0x28 ./src/os_dbg_r.o
+ .debug_macro   0x00000000       0x10 ./src/os_dbg_r.o
+ .debug_macro   0x00000000       0x16 ./src/os_dbg_r.o
+ .debug_macro   0x00000000       0x16 ./src/os_dbg_r.o
+ .debug_macro   0x00000000       0x8b ./src/os_dbg_r.o
+ .debug_macro   0x00000000       0x16 ./src/os_dbg_r.o
+ .debug_macro   0x00000000       0x20 ./src/os_dbg_r.o
+ .debug_macro   0x00000000       0x2e ./src/os_dbg_r.o
+ .debug_macro   0x00000000      0x1f1 ./src/os_dbg_r.o
+ .debug_macro   0x00000000       0x36 ./src/os_dbg_r.o
+ .debug_macro   0x00000000      0x2e3 ./src/os_dbg_r.o
+ .debug_macro   0x00000000      0x43d ./src/os_dbg_r.o
+ .group         0x00000000        0x8 ./src/os_cpu_c.o
+ .group         0x00000000        0x8 ./src/os_cpu_c.o
+ .group         0x00000000        0x8 ./src/os_cpu_c.o
+ .group         0x00000000        0x8 ./src/os_cpu_c.o
+ .group         0x00000000        0x8 ./src/os_cpu_c.o
+ .group         0x00000000        0x8 ./src/os_cpu_c.o
+ .group         0x00000000        0x8 ./src/os_cpu_c.o
+ .group         0x00000000        0x8 ./src/os_cpu_c.o
+ .group         0x00000000        0x8 ./src/os_cpu_c.o
+ .group         0x00000000        0x8 ./src/os_cpu_c.o
+ .group         0x00000000        0x8 ./src/os_cpu_c.o
+ .group         0x00000000        0x8 ./src/os_cpu_c.o
+ .group         0x00000000        0x8 ./src/os_cpu_c.o
+ .group         0x00000000        0x8 ./src/os_cpu_c.o
+ .group         0x00000000        0x8 ./src/os_cpu_c.o
+ .group         0x00000000        0x8 ./src/os_cpu_c.o
+ .group         0x00000000        0x8 ./src/os_cpu_c.o
+ .group         0x00000000        0x8 ./src/os_cpu_c.o
+ .group         0x00000000        0x8 ./src/os_cpu_c.o
+ .group         0x00000000        0x8 ./src/os_cpu_c.o
+ .group         0x00000000        0x8 ./src/os_cpu_c.o
+ .group         0x00000000        0x8 ./src/os_cpu_c.o
+ .group         0x00000000        0x8 ./src/os_cpu_c.o
+ .text          0x00000000        0x0 ./src/os_cpu_c.o
+ .data          0x00000000        0x0 ./src/os_cpu_c.o
+ .bss           0x00000000        0x0 ./src/os_cpu_c.o
+ .debug_macro   0x00000000      0x616 ./src/os_cpu_c.o
+ .debug_macro   0x00000000       0x52 ./src/os_cpu_c.o
+ .debug_macro   0x00000000       0xa0 ./src/os_cpu_c.o
+ .debug_macro   0x00000000       0x16 ./src/os_cpu_c.o
+ .debug_macro   0x00000000       0x10 ./src/os_cpu_c.o
+ .debug_macro   0x00000000       0x64 ./src/os_cpu_c.o
+ .debug_macro   0x00000000      0x1a3 ./src/os_cpu_c.o
+ .debug_macro   0x00000000      0x133 ./src/os_cpu_c.o
+ .debug_macro   0x00000000       0x16 ./src/os_cpu_c.o
+ .debug_macro   0x00000000       0x22 ./src/os_cpu_c.o
+ .debug_macro   0x00000000       0x16 ./src/os_cpu_c.o
+ .debug_macro   0x00000000       0x28 ./src/os_cpu_c.o
+ .debug_macro   0x00000000       0x10 ./src/os_cpu_c.o
+ .debug_macro   0x00000000       0x16 ./src/os_cpu_c.o
+ .debug_macro   0x00000000       0x16 ./src/os_cpu_c.o
+ .debug_macro   0x00000000       0x8b ./src/os_cpu_c.o
+ .debug_macro   0x00000000       0x16 ./src/os_cpu_c.o
+ .debug_macro   0x00000000       0x20 ./src/os_cpu_c.o
+ .debug_macro   0x00000000       0x2e ./src/os_cpu_c.o
+ .debug_macro   0x00000000      0x1f1 ./src/os_cpu_c.o
+ .debug_macro   0x00000000      0x2e3 ./src/os_cpu_c.o
+ .debug_macro   0x00000000      0x43d ./src/os_cpu_c.o
+ .data          0x00000000        0x0 ./src/os_cpu_a.o
+ .bss           0x00000000        0x0 ./src/os_cpu_a.o
+ .group         0x00000000        0x8 ./src/os_core.o
+ .group         0x00000000        0x8 ./src/os_core.o
+ .group         0x00000000        0x8 ./src/os_core.o
+ .group         0x00000000        0x8 ./src/os_core.o
+ .group         0x00000000        0x8 ./src/os_core.o
+ .group         0x00000000        0x8 ./src/os_core.o
+ .group         0x00000000        0x8 ./src/os_core.o
+ .group         0x00000000        0x8 ./src/os_core.o
+ .group         0x00000000        0x8 ./src/os_core.o
+ .group         0x00000000        0x8 ./src/os_core.o
+ .group         0x00000000        0x8 ./src/os_core.o
+ .group         0x00000000        0x8 ./src/os_core.o
+ .group         0x00000000        0x8 ./src/os_core.o
+ .group         0x00000000        0x8 ./src/os_core.o
+ .group         0x00000000        0x8 ./src/os_core.o
+ .group         0x00000000        0x8 ./src/os_core.o
+ .group         0x00000000        0x8 ./src/os_core.o
+ .group         0x00000000        0x8 ./src/os_core.o
+ .group         0x00000000        0x8 ./src/os_core.o
+ .group         0x00000000        0x8 ./src/os_core.o
+ .group         0x00000000        0x8 ./src/os_core.o
+ .group         0x00000000        0x8 ./src/os_core.o
+ .group         0x00000000        0x8 ./src/os_core.o
+ .text          0x00000000        0x0 ./src/os_core.o
+ .data          0x00000000        0x0 ./src/os_core.o
+ .bss           0x00000000        0x0 ./src/os_core.o
+ .text.OSEventNameGet
+                0x00000000       0xf8 ./src/os_core.o
+ .text.OSEventPendMulti
+                0x00000000      0x646 ./src/os_core.o
+ .text.OSVersion
+                0x00000000       0x1a ./src/os_core.o
+ .text.OS_EventTaskWaitMulti
+                0x00000000      0x16a ./src/os_core.o
+ .text.OS_MemCopy
+                0x00000000       0x5a ./src/os_core.o
+ .text.OS_StrLen
+                0x00000000       0x6c ./src/os_core.o
+ .debug_macro   0x00000000      0x616 ./src/os_core.o
+ .debug_macro   0x00000000       0x52 ./src/os_core.o
+ .debug_macro   0x00000000       0xa0 ./src/os_core.o
+ .debug_macro   0x00000000       0x16 ./src/os_core.o
+ .debug_macro   0x00000000       0x10 ./src/os_core.o
+ .debug_macro   0x00000000       0x64 ./src/os_core.o
+ .debug_macro   0x00000000      0x1a3 ./src/os_core.o
+ .debug_macro   0x00000000      0x133 ./src/os_core.o
+ .debug_macro   0x00000000       0x16 ./src/os_core.o
+ .debug_macro   0x00000000       0x22 ./src/os_core.o
+ .debug_macro   0x00000000       0x16 ./src/os_core.o
+ .debug_macro   0x00000000       0x28 ./src/os_core.o
+ .debug_macro   0x00000000       0x10 ./src/os_core.o
+ .debug_macro   0x00000000       0x16 ./src/os_core.o
+ .debug_macro   0x00000000       0x16 ./src/os_core.o
+ .debug_macro   0x00000000       0x8b ./src/os_core.o
+ .debug_macro   0x00000000       0x16 ./src/os_core.o
+ .debug_macro   0x00000000       0x20 ./src/os_core.o
+ .debug_macro   0x00000000       0x2e ./src/os_core.o
+ .debug_macro   0x00000000      0x1f1 ./src/os_core.o
+ .debug_macro   0x00000000       0x36 ./src/os_core.o
+ .debug_macro   0x00000000      0x2e3 ./src/os_core.o
+ .group         0x00000000        0x8 ./src/main.o
+ .group         0x00000000        0x8 ./src/main.o
+ .group         0x00000000        0x8 ./src/main.o
+ .group         0x00000000        0x8 ./src/main.o
+ .group         0x00000000        0x8 ./src/main.o
+ .group         0x00000000        0x8 ./src/main.o
+ .group         0x00000000        0x8 ./src/main.o
+ .group         0x00000000        0x8 ./src/main.o
+ .group         0x00000000        0x8 ./src/main.o
+ .group         0x00000000        0x8 ./src/main.o
+ .group         0x00000000        0x8 ./src/main.o
+ .group         0x00000000        0x8 ./src/main.o
+ .group         0x00000000        0x8 ./src/main.o
+ .group         0x00000000        0x8 ./src/main.o
+ .group         0x00000000        0x8 ./src/main.o
+ .group         0x00000000        0x8 ./src/main.o
+ .group         0x00000000        0x8 ./src/main.o
+ .group         0x00000000        0x8 ./src/main.o
+ .group         0x00000000        0x8 ./src/main.o
+ .group         0x00000000        0x8 ./src/main.o
+ .group         0x00000000        0x8 ./src/main.o
+ .group         0x00000000        0x8 ./src/main.o
+ .group         0x00000000        0x8 ./src/main.o
+ .group         0x00000000        0x8 ./src/main.o
+ .group         0x00000000        0x8 ./src/main.o
+ .group         0x00000000        0x8 ./src/main.o
+ .group         0x00000000        0x8 ./src/main.o
+ .group         0x00000000        0x8 ./src/main.o
+ .group         0x00000000        0x8 ./src/main.o
+ .group         0x00000000        0x8 ./src/main.o
+ .group         0x00000000        0x8 ./src/main.o
+ .text          0x00000000        0x0 ./src/main.o
+ .data          0x00000000        0x0 ./src/main.o
+ .bss           0x00000000        0x0 ./src/main.o
+ .debug_macro   0x00000000      0x616 ./src/main.o
+ .debug_macro   0x00000000       0x52 ./src/main.o
+ .debug_macro   0x00000000       0xa0 ./src/main.o
+ .debug_macro   0x00000000       0x16 ./src/main.o
+ .debug_macro   0x00000000       0x10 ./src/main.o
+ .debug_macro   0x00000000       0x64 ./src/main.o
+ .debug_macro   0x00000000      0x1a3 ./src/main.o
+ .debug_macro   0x00000000      0x133 ./src/main.o
+ .debug_macro   0x00000000       0x16 ./src/main.o
+ .debug_macro   0x00000000       0x22 ./src/main.o
+ .debug_macro   0x00000000       0x16 ./src/main.o
+ .debug_macro   0x00000000       0x28 ./src/main.o
+ .debug_macro   0x00000000       0x10 ./src/main.o
+ .debug_macro   0x00000000       0x16 ./src/main.o
+ .debug_macro   0x00000000       0x16 ./src/main.o
+ .debug_macro   0x00000000       0x8b ./src/main.o
+ .debug_macro   0x00000000       0x16 ./src/main.o
+ .debug_macro   0x00000000       0x20 ./src/main.o
+ .debug_macro   0x00000000       0x2e ./src/main.o
+ .debug_macro   0x00000000      0x1f1 ./src/main.o
+ .debug_macro   0x00000000       0x36 ./src/main.o
+ .debug_macro   0x00000000      0x2e3 ./src/main.o
+ .debug_macro   0x00000000      0x43d ./src/main.o
+ .group         0x00000000        0x8 ./src/lib_str.o
+ .group         0x00000000        0x8 ./src/lib_str.o
+ .group         0x00000000        0x8 ./src/lib_str.o
+ .group         0x00000000        0x8 ./src/lib_str.o
+ .group         0x00000000        0x8 ./src/lib_str.o
+ .group         0x00000000        0x8 ./src/lib_str.o
+ .group         0x00000000        0x8 ./src/lib_str.o
+ .group         0x00000000        0x8 ./src/lib_str.o
+ .group         0x00000000        0x8 ./src/lib_str.o
+ .group         0x00000000        0x8 ./src/lib_str.o
+ .group         0x00000000        0x8 ./src/lib_str.o
+ .group         0x00000000        0x8 ./src/lib_str.o
+ .text          0x00000000        0x0 ./src/lib_str.o
+ .data          0x00000000        0x0 ./src/lib_str.o
+ .bss           0x00000000        0x0 ./src/lib_str.o
+ .rodata.Str_MultOvfThTbl_Int32U
+                0x00000000       0x94 ./src/lib_str.o
+ .text.Str_Len  0x00000000       0x2e ./src/lib_str.o
+ .text.Str_Len_N
+                0x00000000       0x80 ./src/lib_str.o
+ .text.Str_Copy
+                0x00000000       0x32 ./src/lib_str.o
+ .text.Str_Copy_N
+                0x00000000      0x140 ./src/lib_str.o
+ .text.Str_Cat  0x00000000       0x32 ./src/lib_str.o
+ .text.Str_Cat_N
+                0x00000000      0x1a2 ./src/lib_str.o
+ .text.Str_Cmp  0x00000000       0x36 ./src/lib_str.o
+ .text.Str_Cmp_N
+                0x00000000      0x24c ./src/lib_str.o
+ .text.Str_CmpIgnoreCase
+                0x00000000       0x36 ./src/lib_str.o
+ .text.Str_CmpIgnoreCase_N
+                0x00000000      0x2e8 ./src/lib_str.o
+ .text.Str_Char
+                0x00000000       0x3c ./src/lib_str.o
+ .text.Str_Char_N
+                0x00000000      0x144 ./src/lib_str.o
+ .text.Str_Char_Last
+                0x00000000       0x3c ./src/lib_str.o
+ .text.Str_Char_Last_N
+                0x00000000      0x110 ./src/lib_str.o
+ .text.Str_Char_Replace
+                0x00000000       0x4c ./src/lib_str.o
+ .text.Str_Char_Replace_N
+                0x00000000       0xf0 ./src/lib_str.o
+ .text.Str_Str  0x00000000       0x32 ./src/lib_str.o
+ .text.Str_Str_N
+                0x00000000      0x1f2 ./src/lib_str.o
+ .text.Str_FmtNbr_Int32U
+                0x00000000       0x84 ./src/lib_str.o
+ .text.Str_FmtNbr_Int32S
+                0x00000000       0xb0 ./src/lib_str.o
+ .text.Str_ParseNbr_Int32U
+                0x00000000       0x42 ./src/lib_str.o
+ .text.Str_ParseNbr_Int32S
+                0x00000000       0xac ./src/lib_str.o
+ .text.Str_FmtNbr_Int32
+                0x00000000      0x67e ./src/lib_str.o
+ .text.Str_ParseNbr_Int32
+                0x00000000      0x586 ./src/lib_str.o
+ .debug_macro   0x00000000      0x616 ./src/lib_str.o
+ .debug_macro   0x00000000       0x52 ./src/lib_str.o
+ .debug_macro   0x00000000       0xa0 ./src/lib_str.o
+ .debug_macro   0x00000000       0x16 ./src/lib_str.o
+ .debug_macro   0x00000000       0x69 ./src/lib_str.o
+ .debug_macro   0x00000000       0x36 ./src/lib_str.o
+ .debug_macro   0x00000000       0x66 ./src/lib_str.o
+ .debug_macro   0x00000000      0x5f8 ./src/lib_str.o
+ .debug_macro   0x00000000       0x36 ./src/lib_str.o
+ .group         0x00000000        0x8 ./src/lib_mem.o
+ .group         0x00000000        0x8 ./src/lib_mem.o
+ .group         0x00000000        0x8 ./src/lib_mem.o
+ .group         0x00000000        0x8 ./src/lib_mem.o
+ .group         0x00000000        0x8 ./src/lib_mem.o
+ .group         0x00000000        0x8 ./src/lib_mem.o
+ .group         0x00000000        0x8 ./src/lib_mem.o
+ .group         0x00000000        0x8 ./src/lib_mem.o
+ .group         0x00000000        0x8 ./src/lib_mem.o
+ .group         0x00000000        0x8 ./src/lib_mem.o
+ .group         0x00000000        0x8 ./src/lib_mem.o
+ .group         0x00000000        0x8 ./src/lib_mem.o
+ .group         0x00000000        0x8 ./src/lib_mem.o
+ .group         0x00000000        0x8 ./src/lib_mem.o
+ .group         0x00000000        0x8 ./src/lib_mem.o
+ .group         0x00000000        0x8 ./src/lib_mem.o
+ .text          0x00000000        0x0 ./src/lib_mem.o
+ .data          0x00000000        0x0 ./src/lib_mem.o
+ .bss           0x00000000        0x0 ./src/lib_mem.o
+ .text.Mem_Clr  0x00000000       0x2c ./src/lib_mem.o
+ .text.Mem_Set  0x00000000      0x140 ./src/lib_mem.o
+ .text.Mem_Copy
+                0x00000000      0x192 ./src/lib_mem.o
+ .text.Mem_Move
+                0x00000000      0x204 ./src/lib_mem.o
+ .text.Mem_Cmp  0x00000000      0x2c0 ./src/lib_mem.o
+ .text.Mem_SegCreate
+                0x00000000       0x52 ./src/lib_mem.o
+ .text.Mem_SegClr
+                0x00000000       0x42 ./src/lib_mem.o
+ .text.Mem_SegRemSizeGet
+                0x00000000      0x126 ./src/lib_mem.o
+ .text.Mem_SegAlloc
+                0x00000000       0x68 ./src/lib_mem.o
+ .text.Mem_SegAllocExt
+                0x00000000       0x6e ./src/lib_mem.o
+ .text.Mem_SegAllocHW
+                0x00000000       0x70 ./src/lib_mem.o
+ .text.Mem_DynPoolCreate
+                0x00000000       0x76 ./src/lib_mem.o
+ .text.Mem_DynPoolCreateHW
+                0x00000000       0x78 ./src/lib_mem.o
+ .text.Mem_DynPoolBlkGet
+                0x00000000      0x11a ./src/lib_mem.o
+ .text.Mem_DynPoolBlkFree
+                0x00000000       0xa8 ./src/lib_mem.o
+ .text.Mem_DynPoolBlkNbrAvailGet
+                0x00000000       0x74 ./src/lib_mem.o
+ .text.Mem_SegCreateCritical
+                0x00000000       0x56 ./src/lib_mem.o
+ .text.Mem_SegAllocInternal
+                0x00000000       0x82 ./src/lib_mem.o
+ .text.Mem_SegAllocExtCritical
+                0x00000000      0x11e ./src/lib_mem.o
+ .text.Mem_DynPoolCreateInternal
+                0x00000000      0x1be ./src/lib_mem.o
+ .debug_macro   0x00000000      0x616 ./src/lib_mem.o
+ .debug_macro   0x00000000       0x52 ./src/lib_mem.o
+ .debug_macro   0x00000000       0xa0 ./src/lib_mem.o
+ .debug_macro   0x00000000       0x16 ./src/lib_mem.o
+ .debug_macro   0x00000000       0x69 ./src/lib_mem.o
+ .debug_macro   0x00000000       0x36 ./src/lib_mem.o
+ .debug_macro   0x00000000       0x66 ./src/lib_mem.o
+ .debug_macro   0x00000000       0x10 ./src/lib_mem.o
+ .debug_macro   0x00000000      0x5f8 ./src/lib_mem.o
+ .debug_macro   0x00000000       0x43 ./src/lib_mem.o
+ .debug_macro   0x00000000       0x36 ./src/lib_mem.o
+ .debug_macro   0x00000000       0x1c ./src/lib_mem.o
+ .debug_macro   0x00000000      0x5b3 ./src/lib_mem.o
+ .group         0x00000000        0x8 ./src/lib_math.o
+ .group         0x00000000        0x8 ./src/lib_math.o
+ .group         0x00000000        0x8 ./src/lib_math.o
+ .group         0x00000000        0x8 ./src/lib_math.o
+ .group         0x00000000        0x8 ./src/lib_math.o
+ .group         0x00000000        0x8 ./src/lib_math.o
+ .group         0x00000000        0x8 ./src/lib_math.o
+ .group         0x00000000        0x8 ./src/lib_math.o
+ .group         0x00000000        0x8 ./src/lib_math.o
+ .group         0x00000000        0x8 ./src/lib_math.o
+ .group         0x00000000        0x8 ./src/lib_math.o
+ .text          0x00000000        0x0 ./src/lib_math.o
+ .data          0x00000000        0x0 ./src/lib_math.o
+ .bss           0x00000000        0x0 ./src/lib_math.o
+ .text.Math_Init
+                0x00000000       0x24 ./src/lib_math.o
+ .text.Math_RandSetSeed
+                0x00000000       0x3a ./src/lib_math.o
+ .text.Math_Rand
+                0x00000000       0x4e ./src/lib_math.o
+ .text.Math_RandSeed
+                0x00000000       0x2e ./src/lib_math.o
+ .debug_macro   0x00000000      0x616 ./src/lib_math.o
+ .debug_macro   0x00000000       0x52 ./src/lib_math.o
+ .debug_macro   0x00000000       0xa0 ./src/lib_math.o
+ .debug_macro   0x00000000       0x16 ./src/lib_math.o
+ .debug_macro   0x00000000       0x69 ./src/lib_math.o
+ .debug_macro   0x00000000       0x36 ./src/lib_math.o
+ .debug_macro   0x00000000       0x66 ./src/lib_math.o
+ .debug_macro   0x00000000       0x10 ./src/lib_math.o
+ .debug_macro   0x00000000      0x5f8 ./src/lib_math.o
+ .debug_macro   0x00000000       0x43 ./src/lib_math.o
+ .sbss          0x00000000        0x4 ./src/lib_math.o
+ .group         0x00000000        0x8 ./src/lib_ascii.o
+ .group         0x00000000        0x8 ./src/lib_ascii.o
+ .group         0x00000000        0x8 ./src/lib_ascii.o
+ .group         0x00000000        0x8 ./src/lib_ascii.o
+ .group         0x00000000        0x8 ./src/lib_ascii.o
+ .group         0x00000000        0x8 ./src/lib_ascii.o
+ .group         0x00000000        0x8 ./src/lib_ascii.o
+ .group         0x00000000        0x8 ./src/lib_ascii.o
+ .group         0x00000000        0x8 ./src/lib_ascii.o
+ .text          0x00000000        0x0 ./src/lib_ascii.o
+ .data          0x00000000        0x0 ./src/lib_ascii.o
+ .bss           0x00000000        0x0 ./src/lib_ascii.o
+ .text.ASCII_IsAlpha
+                0x00000000       0xa2 ./src/lib_ascii.o
+ .text.ASCII_IsAlphaNum
+                0x00000000       0xde ./src/lib_ascii.o
+ .text.ASCII_IsLower
+                0x00000000       0x66 ./src/lib_ascii.o
+ .text.ASCII_IsUpper
+                0x00000000       0x66 ./src/lib_ascii.o
+ .text.ASCII_IsDig
+                0x00000000       0x66 ./src/lib_ascii.o
+ .text.ASCII_IsDigOct
+                0x00000000       0x66 ./src/lib_ascii.o
+ .text.ASCII_IsDigHex
+                0x00000000       0xde ./src/lib_ascii.o
+ .text.ASCII_IsBlank
+                0x00000000       0x64 ./src/lib_ascii.o
+ .text.ASCII_IsSpace
+                0x00000000       0xd4 ./src/lib_ascii.o
+ .text.ASCII_IsPrint
+                0x00000000       0x64 ./src/lib_ascii.o
+ .text.ASCII_IsGraph
+                0x00000000       0x64 ./src/lib_ascii.o
+ .text.ASCII_IsPunct
+                0x00000000      0x118 ./src/lib_ascii.o
+ .text.ASCII_IsCtrl
+                0x00000000       0x80 ./src/lib_ascii.o
+ .text.ASCII_ToLower
+                0x00000000       0x70 ./src/lib_ascii.o
+ .text.ASCII_ToUpper
+                0x00000000       0x72 ./src/lib_ascii.o
+ .text.ASCII_Cmp
+                0x00000000       0x78 ./src/lib_ascii.o
+ .debug_macro   0x00000000      0x616 ./src/lib_ascii.o
+ .debug_macro   0x00000000       0x52 ./src/lib_ascii.o
+ .debug_macro   0x00000000       0xa0 ./src/lib_ascii.o
+ .debug_macro   0x00000000       0x16 ./src/lib_ascii.o
+ .debug_macro   0x00000000       0x69 ./src/lib_ascii.o
+ .debug_macro   0x00000000       0x36 ./src/lib_ascii.o
+ .debug_macro   0x00000000       0x66 ./src/lib_ascii.o
+ .debug_macro   0x00000000      0x5f8 ./src/lib_ascii.o
+ .text          0x00000000       0x48 ./src/intc_sw_handlers.o
+ .data          0x00000000        0x0 ./src/intc_sw_handlers.o
+ .bss           0x00000000        0x0 ./src/intc_sw_handlers.o
+ .group         0x00000000        0x8 ./src/intc_SW_mode_isr_vectors_MPC5744P.o
+ .group         0x00000000        0x8 ./src/intc_SW_mode_isr_vectors_MPC5744P.o
+ .group         0x00000000        0x8 ./src/intc_SW_mode_isr_vectors_MPC5744P.o
+ .group         0x00000000        0x8 ./src/intc_SW_mode_isr_vectors_MPC5744P.o
+ .group         0x00000000        0x8 ./src/intc_SW_mode_isr_vectors_MPC5744P.o
+ .group         0x00000000        0x8 ./src/intc_SW_mode_isr_vectors_MPC5744P.o
+ .group         0x00000000        0x8 ./src/intc_SW_mode_isr_vectors_MPC5744P.o
+ .group         0x00000000        0x8 ./src/intc_SW_mode_isr_vectors_MPC5744P.o
+ .group         0x00000000        0x8 ./src/intc_SW_mode_isr_vectors_MPC5744P.o
+ .group         0x00000000        0x8 ./src/intc_SW_mode_isr_vectors_MPC5744P.o
+ .group         0x00000000        0x8 ./src/intc_SW_mode_isr_vectors_MPC5744P.o
+ .group         0x00000000        0x8 ./src/intc_SW_mode_isr_vectors_MPC5744P.o
+ .text          0x00000000        0x0 ./src/intc_SW_mode_isr_vectors_MPC5744P.o
+ .data          0x00000000        0x0 ./src/intc_SW_mode_isr_vectors_MPC5744P.o
+ .bss           0x00000000        0x0 ./src/intc_SW_mode_isr_vectors_MPC5744P.o
+ .debug_macro   0x00000000      0x616 ./src/intc_SW_mode_isr_vectors_MPC5744P.o
+ .debug_macro   0x00000000       0x52 ./src/intc_SW_mode_isr_vectors_MPC5744P.o
+ .debug_macro   0x00000000       0xa0 ./src/intc_SW_mode_isr_vectors_MPC5744P.o
+ .debug_macro   0x00000000       0x16 ./src/intc_SW_mode_isr_vectors_MPC5744P.o
+ .debug_macro   0x00000000       0x64 ./src/intc_SW_mode_isr_vectors_MPC5744P.o
+ .debug_macro   0x00000000      0x1a3 ./src/intc_SW_mode_isr_vectors_MPC5744P.o
+ .debug_macro   0x00000000      0x133 ./src/intc_SW_mode_isr_vectors_MPC5744P.o
+ .debug_macro   0x00000000       0x10 ./src/intc_SW_mode_isr_vectors_MPC5744P.o
+ .debug_macro   0x00000000       0x28 ./src/intc_SW_mode_isr_vectors_MPC5744P.o
+ .group         0x00000000        0x8 ./src/flashrchw.o
+ .group         0x00000000        0x8 ./src/flashrchw.o
+ .group         0x00000000        0x8 ./src/flashrchw.o
+ .group         0x00000000        0x8 ./src/flashrchw.o
+ .group         0x00000000        0x8 ./src/flashrchw.o
+ .group         0x00000000        0x8 ./src/flashrchw.o
+ .group         0x00000000        0x8 ./src/flashrchw.o
+ .group         0x00000000        0x8 ./src/flashrchw.o
+ .group         0x00000000        0x8 ./src/flashrchw.o
+ .group         0x00000000        0x8 ./src/flashrchw.o
+ .group         0x00000000        0x8 ./src/flashrchw.o
+ .group         0x00000000        0x8 ./src/flashrchw.o
+ .text          0x00000000        0x0 ./src/flashrchw.o
+ .data          0x00000000        0x0 ./src/flashrchw.o
+ .bss           0x00000000        0x0 ./src/flashrchw.o
+ .debug_macro   0x00000000      0x616 ./src/flashrchw.o
+ .debug_macro   0x00000000       0x52 ./src/flashrchw.o
+ .debug_macro   0x00000000       0xa0 ./src/flashrchw.o
+ .debug_macro   0x00000000       0x16 ./src/flashrchw.o
+ .debug_macro   0x00000000       0x64 ./src/flashrchw.o
+ .debug_macro   0x00000000      0x1a3 ./src/flashrchw.o
+ .debug_macro   0x00000000      0x133 ./src/flashrchw.o
+ .debug_macro   0x00000000       0x9d ./src/flashrchw.o
+ .debug_macro   0x00000000       0x10 ./src/flashrchw.o
+ .debug_macro   0x00000000      0x15b ./src/flashrchw.o
+ .debug_macro   0x00000000       0x28 ./src/flashrchw.o
+ .debug_macro   0x00000000       0x58 ./src/flashrchw.o
+ .group         0x00000000        0x8 ./src/cpu_core.o
+ .group         0x00000000        0x8 ./src/cpu_core.o
+ .group         0x00000000        0x8 ./src/cpu_core.o
+ .group         0x00000000        0x8 ./src/cpu_core.o
+ .group         0x00000000        0x8 ./src/cpu_core.o
+ .group         0x00000000        0x8 ./src/cpu_core.o
+ .group         0x00000000        0x8 ./src/cpu_core.o
+ .group         0x00000000        0x8 ./src/cpu_core.o
+ .group         0x00000000        0x8 ./src/cpu_core.o
+ .group         0x00000000        0x8 ./src/cpu_core.o
+ .group         0x00000000        0x8 ./src/cpu_core.o
+ .text          0x00000000        0x0 ./src/cpu_core.o
+ .data          0x00000000        0x0 ./src/cpu_core.o
+ .bss           0x00000000        0x0 ./src/cpu_core.o
+ .rodata.CPU_CntLeadZerosTbl
+                0x00000000      0x100 ./src/cpu_core.o
+ .sdata.CPU_EndiannessTest
+                0x00000000        0x4 ./src/cpu_core.o
+ .text.CPU_SW_Exception
+                0x00000000        0xc ./src/cpu_core.o
+ .text.CPU_CntLeadZeros
+                0x00000000       0x2c ./src/cpu_core.o
+ .text.CPU_CntLeadZeros08
+                0x00000000       0x38 ./src/cpu_core.o
+ .text.CPU_CntLeadZeros16
+                0x00000000       0x76 ./src/cpu_core.o
+ .text.CPU_CntLeadZeros32
+                0x00000000       0xe0 ./src/cpu_core.o
+ .text.CPU_CntLeadZeros64
+                0x00000000      0x29e ./src/cpu_core.o
+ .text.CPU_CntTrailZeros
+                0x00000000       0x5e ./src/cpu_core.o
+ .text.CPU_CntTrailZeros08
+                0x00000000       0x70 ./src/cpu_core.o
+ .text.CPU_CntTrailZeros16
+                0x00000000       0x68 ./src/cpu_core.o
+ .text.CPU_CntTrailZeros32
+                0x00000000       0x5e ./src/cpu_core.o
+ .text.CPU_CntTrailZeros64
+                0x00000000       0x78 ./src/cpu_core.o
+ .text.CPU_PopCnt32
+                0x00000000       0x9c ./src/cpu_core.o
+ .debug_macro   0x00000000      0x616 ./src/cpu_core.o
+ .debug_macro   0x00000000       0x52 ./src/cpu_core.o
+ .debug_macro   0x00000000       0xa0 ./src/cpu_core.o
+ .debug_macro   0x00000000       0x16 ./src/cpu_core.o
+ .debug_macro   0x00000000       0x69 ./src/cpu_core.o
+ .debug_macro   0x00000000       0x36 ./src/cpu_core.o
+ .debug_macro   0x00000000       0x66 ./src/cpu_core.o
+ .debug_macro   0x00000000      0x5f8 ./src/cpu_core.o
+ .debug_macro   0x00000000       0x43 ./src/cpu_core.o
+ .data          0x00000000        0x0 ./src/cpu_cache_powerpc_e200z4204n3_a.o
+ .bss           0x00000000        0x0 ./src/cpu_cache_powerpc_e200z4204n3_a.o
+ .group         0x00000000        0x8 ./src/cpu_cache_powerpc_e200z4204n3.o
+ .group         0x00000000        0x8 ./src/cpu_cache_powerpc_e200z4204n3.o
+ .group         0x00000000        0x8 ./src/cpu_cache_powerpc_e200z4204n3.o
+ .group         0x00000000        0x8 ./src/cpu_cache_powerpc_e200z4204n3.o
+ .group         0x00000000        0x8 ./src/cpu_cache_powerpc_e200z4204n3.o
+ .group         0x00000000        0x8 ./src/cpu_cache_powerpc_e200z4204n3.o
+ .group         0x00000000        0x8 ./src/cpu_cache_powerpc_e200z4204n3.o
+ .group         0x00000000        0x8 ./src/cpu_cache_powerpc_e200z4204n3.o
+ .group         0x00000000        0x8 ./src/cpu_cache_powerpc_e200z4204n3.o
+ .group         0x00000000        0x8 ./src/cpu_cache_powerpc_e200z4204n3.o
+ .text          0x00000000        0x0 ./src/cpu_cache_powerpc_e200z4204n3.o
+ .data          0x00000000        0x0 ./src/cpu_cache_powerpc_e200z4204n3.o
+ .bss           0x00000000        0x0 ./src/cpu_cache_powerpc_e200z4204n3.o
+ .debug_macro   0x00000000      0x616 ./src/cpu_cache_powerpc_e200z4204n3.o
+ .debug_macro   0x00000000       0x52 ./src/cpu_cache_powerpc_e200z4204n3.o
+ .debug_macro   0x00000000       0xa0 ./src/cpu_cache_powerpc_e200z4204n3.o
+ .debug_macro   0x00000000       0x16 ./src/cpu_cache_powerpc_e200z4204n3.o
+ .debug_macro   0x00000000       0x69 ./src/cpu_cache_powerpc_e200z4204n3.o
+ .debug_macro   0x00000000       0x36 ./src/cpu_cache_powerpc_e200z4204n3.o
+ .debug_macro   0x00000000       0x66 ./src/cpu_cache_powerpc_e200z4204n3.o
+ .debug_macro   0x00000000      0x5f8 ./src/cpu_cache_powerpc_e200z4204n3.o
+ .data          0x00000000        0x0 ./src/cpu_a.o
+ .bss           0x00000000        0x0 ./src/cpu_a.o
+ .group         0x00000000        0x8 ./src/bsp_smpu.o
+ .group         0x00000000        0x8 ./src/bsp_smpu.o
+ .group         0x00000000        0x8 ./src/bsp_smpu.o
+ .group         0x00000000        0x8 ./src/bsp_smpu.o
+ .group         0x00000000        0x8 ./src/bsp_smpu.o
+ .group         0x00000000        0x8 ./src/bsp_smpu.o
+ .group         0x00000000        0x8 ./src/bsp_smpu.o
+ .group         0x00000000        0x8 ./src/bsp_smpu.o
+ .group         0x00000000        0x8 ./src/bsp_smpu.o
+ .group         0x00000000        0x8 ./src/bsp_smpu.o
+ .group         0x00000000        0x8 ./src/bsp_smpu.o
+ .group         0x00000000        0x8 ./src/bsp_smpu.o
+ .group         0x00000000        0x8 ./src/bsp_smpu.o
+ .text          0x00000000        0x0 ./src/bsp_smpu.o
+ .data          0x00000000        0x0 ./src/bsp_smpu.o
+ .bss           0x00000000        0x0 ./src/bsp_smpu.o
+ .text.BSP_SMPU_Init
+                0x00000000      0x10e ./src/bsp_smpu.o
+ .debug_macro   0x00000000      0x616 ./src/bsp_smpu.o
+ .debug_macro   0x00000000       0x52 ./src/bsp_smpu.o
+ .debug_macro   0x00000000       0xa0 ./src/bsp_smpu.o
+ .debug_macro   0x00000000       0x16 ./src/bsp_smpu.o
+ .debug_macro   0x00000000       0x64 ./src/bsp_smpu.o
+ .debug_macro   0x00000000      0x1a3 ./src/bsp_smpu.o
+ .debug_macro   0x00000000      0x133 ./src/bsp_smpu.o
+ .debug_macro   0x00000000       0x9d ./src/bsp_smpu.o
+ .debug_macro   0x00000000       0x10 ./src/bsp_smpu.o
+ .debug_macro   0x00000000      0x15b ./src/bsp_smpu.o
+ .debug_macro   0x00000000       0x28 ./src/bsp_smpu.o
+ .debug_macro   0x00000000       0x58 ./src/bsp_smpu.o
+ .group         0x00000000        0x8 ./src/bsp_os.o
+ .group         0x00000000        0x8 ./src/bsp_os.o
+ .group         0x00000000        0x8 ./src/bsp_os.o
+ .group         0x00000000        0x8 ./src/bsp_os.o
+ .group         0x00000000        0x8 ./src/bsp_os.o
+ .group         0x00000000        0x8 ./src/bsp_os.o
+ .group         0x00000000        0x8 ./src/bsp_os.o
+ .group         0x00000000        0x8 ./src/bsp_os.o
+ .group         0x00000000        0x8 ./src/bsp_os.o
+ .group         0x00000000        0x8 ./src/bsp_os.o
+ .group         0x00000000        0x8 ./src/bsp_os.o
+ .group         0x00000000        0x8 ./src/bsp_os.o
+ .group         0x00000000        0x8 ./src/bsp_os.o
+ .group         0x00000000        0x8 ./src/bsp_os.o
+ .group         0x00000000        0x8 ./src/bsp_os.o
+ .group         0x00000000        0x8 ./src/bsp_os.o
+ .group         0x00000000        0x8 ./src/bsp_os.o
+ .group         0x00000000        0x8 ./src/bsp_os.o
+ .group         0x00000000        0x8 ./src/bsp_os.o
+ .group         0x00000000        0x8 ./src/bsp_os.o
+ .group         0x00000000        0x8 ./src/bsp_os.o
+ .group         0x00000000        0x8 ./src/bsp_os.o
+ .group         0x00000000        0x8 ./src/bsp_os.o
+ .group         0x00000000        0x8 ./src/bsp_os.o
+ .group         0x00000000        0x8 ./src/bsp_os.o
+ .group         0x00000000        0x8 ./src/bsp_os.o
+ .group         0x00000000        0x8 ./src/bsp_os.o
+ .group         0x00000000        0x8 ./src/bsp_os.o
+ .group         0x00000000        0x8 ./src/bsp_os.o
+ .group         0x00000000        0x8 ./src/bsp_os.o
+ .text          0x00000000        0x0 ./src/bsp_os.o
+ .data          0x00000000        0x0 ./src/bsp_os.o
+ .bss           0x00000000        0x0 ./src/bsp_os.o
+ .text.BSP_OS_TickDisable
+                0x00000000       0x38 ./src/bsp_os.o
+ .debug_macro   0x00000000      0x616 ./src/bsp_os.o
+ .debug_macro   0x00000000       0x52 ./src/bsp_os.o
+ .debug_macro   0x00000000       0xa0 ./src/bsp_os.o
+ .debug_macro   0x00000000       0x16 ./src/bsp_os.o
+ .debug_macro   0x00000000       0x69 ./src/bsp_os.o
+ .debug_macro   0x00000000       0x36 ./src/bsp_os.o
+ .debug_macro   0x00000000       0x66 ./src/bsp_os.o
+ .debug_macro   0x00000000       0x10 ./src/bsp_os.o
+ .debug_macro   0x00000000       0x64 ./src/bsp_os.o
+ .debug_macro   0x00000000      0x1a3 ./src/bsp_os.o
+ .debug_macro   0x00000000      0x133 ./src/bsp_os.o
+ .debug_macro   0x00000000       0x16 ./src/bsp_os.o
+ .debug_macro   0x00000000       0x22 ./src/bsp_os.o
+ .debug_macro   0x00000000       0x16 ./src/bsp_os.o
+ .debug_macro   0x00000000       0x28 ./src/bsp_os.o
+ .debug_macro   0x00000000       0x10 ./src/bsp_os.o
+ .debug_macro   0x00000000       0x16 ./src/bsp_os.o
+ .debug_macro   0x00000000       0x16 ./src/bsp_os.o
+ .debug_macro   0x00000000       0x8b ./src/bsp_os.o
+ .debug_macro   0x00000000       0x16 ./src/bsp_os.o
+ .debug_macro   0x00000000       0x20 ./src/bsp_os.o
+ .debug_macro   0x00000000       0x2e ./src/bsp_os.o
+ .debug_macro   0x00000000      0x1f1 ./src/bsp_os.o
+ .debug_macro   0x00000000       0x36 ./src/bsp_os.o
+ .debug_macro   0x00000000      0x2e3 ./src/bsp_os.o
+ .debug_macro   0x00000000      0x43d ./src/bsp_os.o
+ .debug_macro   0x00000000      0x5f8 ./src/bsp_os.o
+ .debug_macro   0x00000000       0x9d ./src/bsp_os.o
+ .debug_macro   0x00000000     0xb50a ./src/bsp_os.o
+ .group         0x00000000        0x8 ./src/bsp_led.o
+ .group         0x00000000        0x8 ./src/bsp_led.o
+ .group         0x00000000        0x8 ./src/bsp_led.o
+ .group         0x00000000        0x8 ./src/bsp_led.o
+ .group         0x00000000        0x8 ./src/bsp_led.o
+ .group         0x00000000        0x8 ./src/bsp_led.o
+ .group         0x00000000        0x8 ./src/bsp_led.o
+ .group         0x00000000        0x8 ./src/bsp_led.o
+ .group         0x00000000        0x8 ./src/bsp_led.o
+ .group         0x00000000        0x8 ./src/bsp_led.o
+ .group         0x00000000        0x8 ./src/bsp_led.o
+ .group         0x00000000        0x8 ./src/bsp_led.o
+ .group         0x00000000        0x8 ./src/bsp_led.o
+ .text          0x00000000        0x0 ./src/bsp_led.o
+ .data          0x00000000        0x0 ./src/bsp_led.o
+ .bss           0x00000000        0x0 ./src/bsp_led.o
+ .text.BSP_LED_On
+                0x00000000      0x118 ./src/bsp_led.o
+ .rodata.BSP_LED_On
+                0x00000000       0x14 ./src/bsp_led.o
+ .debug_macro   0x00000000      0x616 ./src/bsp_led.o
+ .debug_macro   0x00000000       0x52 ./src/bsp_led.o
+ .debug_macro   0x00000000       0xa0 ./src/bsp_led.o
+ .debug_macro   0x00000000       0x16 ./src/bsp_led.o
+ .debug_macro   0x00000000       0x64 ./src/bsp_led.o
+ .debug_macro   0x00000000      0x1a3 ./src/bsp_led.o
+ .debug_macro   0x00000000      0x133 ./src/bsp_led.o
+ .debug_macro   0x00000000       0x9d ./src/bsp_led.o
+ .debug_macro   0x00000000       0x10 ./src/bsp_led.o
+ .debug_macro   0x00000000      0x15b ./src/bsp_led.o
+ .debug_macro   0x00000000       0x28 ./src/bsp_led.o
+ .debug_macro   0x00000000       0x58 ./src/bsp_led.o
+ .debug_macro   0x00000000     0xb50a ./src/bsp_led.o
+ .group         0x00000000        0x8 ./src/bsp_int.o
+ .group         0x00000000        0x8 ./src/bsp_int.o
+ .group         0x00000000        0x8 ./src/bsp_int.o
+ .group         0x00000000        0x8 ./src/bsp_int.o
+ .group         0x00000000        0x8 ./src/bsp_int.o
+ .group         0x00000000        0x8 ./src/bsp_int.o
+ .group         0x00000000        0x8 ./src/bsp_int.o
+ .group         0x00000000        0x8 ./src/bsp_int.o
+ .group         0x00000000        0x8 ./src/bsp_int.o
+ .group         0x00000000        0x8 ./src/bsp_int.o
+ .group         0x00000000        0x8 ./src/bsp_int.o
+ .group         0x00000000        0x8 ./src/bsp_int.o
+ .group         0x00000000        0x8 ./src/bsp_int.o
+ .group         0x00000000        0x8 ./src/bsp_int.o
+ .group         0x00000000        0x8 ./src/bsp_int.o
+ .group         0x00000000        0x8 ./src/bsp_int.o
+ .group         0x00000000        0x8 ./src/bsp_int.o
+ .group         0x00000000        0x8 ./src/bsp_int.o
+ .group         0x00000000        0x8 ./src/bsp_int.o
+ .group         0x00000000        0x8 ./src/bsp_int.o
+ .group         0x00000000        0x8 ./src/bsp_int.o
+ .group         0x00000000        0x8 ./src/bsp_int.o
+ .group         0x00000000        0x8 ./src/bsp_int.o
+ .group         0x00000000        0x8 ./src/bsp_int.o
+ .group         0x00000000        0x8 ./src/bsp_int.o
+ .group         0x00000000        0x8 ./src/bsp_int.o
+ .group         0x00000000        0x8 ./src/bsp_int.o
+ .group         0x00000000        0x8 ./src/bsp_int.o
+ .group         0x00000000        0x8 ./src/bsp_int.o
+ .group         0x00000000        0x8 ./src/bsp_int.o
+ .group         0x00000000        0x8 ./src/bsp_int.o
+ .text          0x00000000        0x0 ./src/bsp_int.o
+ .data          0x00000000        0x0 ./src/bsp_int.o
+ .bss           0x00000000        0x0 ./src/bsp_int.o
+ .text.BSP_IntVectClr
+                0x00000000       0x8a ./src/bsp_int.o
+ .text.BSP_IntPrioMaskSet
+                0x00000000       0x6a ./src/bsp_int.o
+ .debug_macro   0x00000000      0x616 ./src/bsp_int.o
+ .debug_macro   0x00000000       0x52 ./src/bsp_int.o
+ .debug_macro   0x00000000       0xa0 ./src/bsp_int.o
+ .debug_macro   0x00000000       0x16 ./src/bsp_int.o
+ .debug_macro   0x00000000       0x64 ./src/bsp_int.o
+ .debug_macro   0x00000000      0x1a3 ./src/bsp_int.o
+ .debug_macro   0x00000000      0x133 ./src/bsp_int.o
+ .debug_macro   0x00000000       0x9d ./src/bsp_int.o
+ .debug_macro   0x00000000       0x10 ./src/bsp_int.o
+ .debug_macro   0x00000000      0x15b ./src/bsp_int.o
+ .debug_macro   0x00000000       0x28 ./src/bsp_int.o
+ .debug_macro   0x00000000       0x58 ./src/bsp_int.o
+ .debug_macro   0x00000000     0xb50a ./src/bsp_int.o
+ .debug_macro   0x00000000       0x69 ./src/bsp_int.o
+ .debug_macro   0x00000000       0x36 ./src/bsp_int.o
+ .debug_macro   0x00000000       0x66 ./src/bsp_int.o
+ .debug_macro   0x00000000      0x5f8 ./src/bsp_int.o
+ .debug_macro   0x00000000       0x10 ./src/bsp_int.o
+ .debug_macro   0x00000000       0x16 ./src/bsp_int.o
+ .debug_macro   0x00000000       0x22 ./src/bsp_int.o
+ .debug_macro   0x00000000       0x16 ./src/bsp_int.o
+ .debug_macro   0x00000000       0x16 ./src/bsp_int.o
+ .debug_macro   0x00000000       0x16 ./src/bsp_int.o
+ .debug_macro   0x00000000       0x8b ./src/bsp_int.o
+ .debug_macro   0x00000000       0x16 ./src/bsp_int.o
+ .debug_macro   0x00000000       0x20 ./src/bsp_int.o
+ .debug_macro   0x00000000       0x2e ./src/bsp_int.o
+ .debug_macro   0x00000000      0x1f1 ./src/bsp_int.o
+ .debug_macro   0x00000000       0x36 ./src/bsp_int.o
+ .debug_macro   0x00000000      0x2e3 ./src/bsp_int.o
+ .debug_macro   0x00000000      0x43d ./src/bsp_int.o
+ .group         0x00000000        0x8 ./src/bsp_cpu.o
+ .group         0x00000000        0x8 ./src/bsp_cpu.o
+ .group         0x00000000        0x8 ./src/bsp_cpu.o
+ .group         0x00000000        0x8 ./src/bsp_cpu.o
+ .group         0x00000000        0x8 ./src/bsp_cpu.o
+ .group         0x00000000        0x8 ./src/bsp_cpu.o
+ .group         0x00000000        0x8 ./src/bsp_cpu.o
+ .group         0x00000000        0x8 ./src/bsp_cpu.o
+ .group         0x00000000        0x8 ./src/bsp_cpu.o
+ .group         0x00000000        0x8 ./src/bsp_cpu.o
+ .group         0x00000000        0x8 ./src/bsp_cpu.o
+ .group         0x00000000        0x8 ./src/bsp_cpu.o
+ .group         0x00000000        0x8 ./src/bsp_cpu.o
+ .group         0x00000000        0x8 ./src/bsp_cpu.o
+ .group         0x00000000        0x8 ./src/bsp_cpu.o
+ .group         0x00000000        0x8 ./src/bsp_cpu.o
+ .group         0x00000000        0x8 ./src/bsp_cpu.o
+ .group         0x00000000        0x8 ./src/bsp_cpu.o
+ .group         0x00000000        0x8 ./src/bsp_cpu.o
+ .text          0x00000000        0x0 ./src/bsp_cpu.o
+ .data          0x00000000        0x0 ./src/bsp_cpu.o
+ .bss           0x00000000        0x0 ./src/bsp_cpu.o
+ .debug_info    0x00000000       0x7d ./src/bsp_cpu.o
+ .debug_abbrev  0x00000000       0x29 ./src/bsp_cpu.o
+ .debug_aranges
+                0x00000000       0x18 ./src/bsp_cpu.o
+ .debug_macro   0x00000000       0xea ./src/bsp_cpu.o
+ .debug_macro   0x00000000      0x616 ./src/bsp_cpu.o
+ .debug_macro   0x00000000       0x52 ./src/bsp_cpu.o
+ .debug_macro   0x00000000       0xa0 ./src/bsp_cpu.o
+ .debug_macro   0x00000000       0x16 ./src/bsp_cpu.o
+ .debug_macro   0x00000000       0x10 ./src/bsp_cpu.o
+ .debug_macro   0x00000000       0x69 ./src/bsp_cpu.o
+ .debug_macro   0x00000000       0x36 ./src/bsp_cpu.o
+ .debug_macro   0x00000000       0x66 ./src/bsp_cpu.o
+ .debug_macro   0x00000000      0x5f8 ./src/bsp_cpu.o
+ .debug_macro   0x00000000       0x43 ./src/bsp_cpu.o
+ .debug_macro   0x00000000       0x64 ./src/bsp_cpu.o
+ .debug_macro   0x00000000      0x1a3 ./src/bsp_cpu.o
+ .debug_macro   0x00000000      0x133 ./src/bsp_cpu.o
+ .debug_macro   0x00000000       0x9d ./src/bsp_cpu.o
+ .debug_macro   0x00000000       0x10 ./src/bsp_cpu.o
+ .debug_macro   0x00000000      0x15b ./src/bsp_cpu.o
+ .debug_macro   0x00000000       0x28 ./src/bsp_cpu.o
+ .debug_macro   0x00000000       0x58 ./src/bsp_cpu.o
+ .debug_macro   0x00000000     0xb50a ./src/bsp_cpu.o
+ .debug_line    0x00000000      0x1f5 ./src/bsp_cpu.o
+ .debug_str     0x00000000    0x3a064 ./src/bsp_cpu.o
+ .comment       0x00000000       0x8f ./src/bsp_cpu.o
+ .group         0x00000000        0x8 ./src/bsp_clk.o
+ .group         0x00000000        0x8 ./src/bsp_clk.o
+ .group         0x00000000        0x8 ./src/bsp_clk.o
+ .group         0x00000000        0x8 ./src/bsp_clk.o
+ .group         0x00000000        0x8 ./src/bsp_clk.o
+ .group         0x00000000        0x8 ./src/bsp_clk.o
+ .group         0x00000000        0x8 ./src/bsp_clk.o
+ .group         0x00000000        0x8 ./src/bsp_clk.o
+ .group         0x00000000        0x8 ./src/bsp_clk.o
+ .group         0x00000000        0x8 ./src/bsp_clk.o
+ .group         0x00000000        0x8 ./src/bsp_clk.o
+ .group         0x00000000        0x8 ./src/bsp_clk.o
+ .group         0x00000000        0x8 ./src/bsp_clk.o
+ .group         0x00000000        0x8 ./src/bsp_clk.o
+ .group         0x00000000        0x8 ./src/bsp_clk.o
+ .group         0x00000000        0x8 ./src/bsp_clk.o
+ .group         0x00000000        0x8 ./src/bsp_clk.o
+ .group         0x00000000        0x8 ./src/bsp_clk.o
+ .text          0x00000000        0x0 ./src/bsp_clk.o
+ .data          0x00000000        0x0 ./src/bsp_clk.o
+ .bss           0x00000000        0x0 ./src/bsp_clk.o
+ .text.BSP_ClkEnable
+                0x00000000       0x16 ./src/bsp_clk.o
+ .text.BSP_ClkDisable
+                0x00000000       0x16 ./src/bsp_clk.o
+ .text.BSP_ClkModeTransition_DRUN
+                0x00000000       0x14 ./src/bsp_clk.o
+ .debug_macro   0x00000000      0x616 ./src/bsp_clk.o
+ .debug_macro   0x00000000       0x52 ./src/bsp_clk.o
+ .debug_macro   0x00000000       0xa0 ./src/bsp_clk.o
+ .debug_macro   0x00000000       0x16 ./src/bsp_clk.o
+ .debug_macro   0x00000000       0x69 ./src/bsp_clk.o
+ .debug_macro   0x00000000       0x36 ./src/bsp_clk.o
+ .debug_macro   0x00000000       0x66 ./src/bsp_clk.o
+ .debug_macro   0x00000000       0x64 ./src/bsp_clk.o
+ .debug_macro   0x00000000      0x1a3 ./src/bsp_clk.o
+ .debug_macro   0x00000000      0x133 ./src/bsp_clk.o
+ .debug_macro   0x00000000       0x9d ./src/bsp_clk.o
+ .debug_macro   0x00000000       0x10 ./src/bsp_clk.o
+ .debug_macro   0x00000000      0x15b ./src/bsp_clk.o
+ .debug_macro   0x00000000       0x28 ./src/bsp_clk.o
+ .debug_macro   0x00000000       0x58 ./src/bsp_clk.o
+ .debug_macro   0x00000000     0xb50a ./src/bsp_clk.o
+ .group         0x00000000        0x8 ./src/app_hooks.o
+ .group         0x00000000        0x8 ./src/app_hooks.o
+ .group         0x00000000        0x8 ./src/app_hooks.o
+ .group         0x00000000        0x8 ./src/app_hooks.o
+ .group         0x00000000        0x8 ./src/app_hooks.o
+ .group         0x00000000        0x8 ./src/app_hooks.o
+ .group         0x00000000        0x8 ./src/app_hooks.o
+ .group         0x00000000        0x8 ./src/app_hooks.o
+ .group         0x00000000        0x8 ./src/app_hooks.o
+ .group         0x00000000        0x8 ./src/app_hooks.o
+ .group         0x00000000        0x8 ./src/app_hooks.o
+ .group         0x00000000        0x8 ./src/app_hooks.o
+ .group         0x00000000        0x8 ./src/app_hooks.o
+ .group         0x00000000        0x8 ./src/app_hooks.o
+ .group         0x00000000        0x8 ./src/app_hooks.o
+ .group         0x00000000        0x8 ./src/app_hooks.o
+ .group         0x00000000        0x8 ./src/app_hooks.o
+ .group         0x00000000        0x8 ./src/app_hooks.o
+ .group         0x00000000        0x8 ./src/app_hooks.o
+ .group         0x00000000        0x8 ./src/app_hooks.o
+ .group         0x00000000        0x8 ./src/app_hooks.o
+ .group         0x00000000        0x8 ./src/app_hooks.o
+ .group         0x00000000        0x8 ./src/app_hooks.o
+ .text          0x00000000        0x0 ./src/app_hooks.o
+ .data          0x00000000        0x0 ./src/app_hooks.o
+ .bss           0x00000000        0x0 ./src/app_hooks.o
+ .debug_macro   0x00000000      0x616 ./src/app_hooks.o
+ .debug_macro   0x00000000       0x52 ./src/app_hooks.o
+ .debug_macro   0x00000000       0xa0 ./src/app_hooks.o
+ .debug_macro   0x00000000       0x16 ./src/app_hooks.o
+ .debug_macro   0x00000000       0x10 ./src/app_hooks.o
+ .debug_macro   0x00000000       0x64 ./src/app_hooks.o
+ .debug_macro   0x00000000      0x1a3 ./src/app_hooks.o
+ .debug_macro   0x00000000      0x133 ./src/app_hooks.o
+ .debug_macro   0x00000000       0x16 ./src/app_hooks.o
+ .debug_macro   0x00000000       0x22 ./src/app_hooks.o
+ .debug_macro   0x00000000       0x16 ./src/app_hooks.o
+ .debug_macro   0x00000000       0x28 ./src/app_hooks.o
+ .debug_macro   0x00000000       0x10 ./src/app_hooks.o
+ .debug_macro   0x00000000       0x16 ./src/app_hooks.o
+ .debug_macro   0x00000000       0x16 ./src/app_hooks.o
+ .debug_macro   0x00000000       0x8b ./src/app_hooks.o
+ .debug_macro   0x00000000       0x16 ./src/app_hooks.o
+ .debug_macro   0x00000000       0x20 ./src/app_hooks.o
+ .debug_macro   0x00000000       0x2e ./src/app_hooks.o
+ .debug_macro   0x00000000      0x1f1 ./src/app_hooks.o
+ .debug_macro   0x00000000       0x36 ./src/app_hooks.o
+ .debug_macro   0x00000000      0x2e3 ./src/app_hooks.o
+ .debug_macro   0x00000000      0x43d ./src/app_hooks.o
+ .group         0x00000000        0x8 ./src/Vector.o
+ .group         0x00000000        0x8 ./src/Vector.o
+ .group         0x00000000        0x8 ./src/Vector.o
+ .group         0x00000000        0x8 ./src/Vector.o
+ .text          0x00000000        0x0 ./src/Vector.o
+ .data          0x00000000        0x0 ./src/Vector.o
+ .bss           0x00000000        0x0 ./src/Vector.o
+ .debug_macro   0x00000000      0x616 ./src/Vector.o
+ .debug_macro   0x00000000       0x52 ./src/Vector.o
+ .debug_macro   0x00000000       0xa0 ./src/Vector.o
+ .debug_macro   0x00000000       0x16 ./src/Vector.o
+ .group         0x00000000        0x8 ./src/MPC57xx__Interrupt_Init.o
+ .group         0x00000000        0x8 ./src/MPC57xx__Interrupt_Init.o
+ .group         0x00000000        0x8 ./src/MPC57xx__Interrupt_Init.o
+ .group         0x00000000        0x8 ./src/MPC57xx__Interrupt_Init.o
+ .group         0x00000000        0x8 ./src/MPC57xx__Interrupt_Init.o
+ .group         0x00000000        0x8 ./src/MPC57xx__Interrupt_Init.o
+ .group         0x00000000        0x8 ./src/MPC57xx__Interrupt_Init.o
+ .group         0x00000000        0x8 ./src/MPC57xx__Interrupt_Init.o
+ .group         0x00000000        0x8 ./src/MPC57xx__Interrupt_Init.o
+ .group         0x00000000        0x8 ./src/MPC57xx__Interrupt_Init.o
+ .group         0x00000000        0x8 ./src/MPC57xx__Interrupt_Init.o
+ .group         0x00000000        0x8 ./src/MPC57xx__Interrupt_Init.o
+ .group         0x00000000        0x8 ./src/MPC57xx__Interrupt_Init.o
+ .group         0x00000000        0x8 ./src/MPC57xx__Interrupt_Init.o
+ .text          0x00000000        0x0 ./src/MPC57xx__Interrupt_Init.o
+ .data          0x00000000        0x0 ./src/MPC57xx__Interrupt_Init.o
+ .bss           0x00000000        0x0 ./src/MPC57xx__Interrupt_Init.o
+ .debug_macro   0x00000000      0x616 ./src/MPC57xx__Interrupt_Init.o
+ .debug_macro   0x00000000       0x52 ./src/MPC57xx__Interrupt_Init.o
+ .debug_macro   0x00000000       0xa0 ./src/MPC57xx__Interrupt_Init.o
+ .debug_macro   0x00000000       0x16 ./src/MPC57xx__Interrupt_Init.o
+ .debug_macro   0x00000000       0x64 ./src/MPC57xx__Interrupt_Init.o
+ .debug_macro   0x00000000      0x1a3 ./src/MPC57xx__Interrupt_Init.o
+ .debug_macro   0x00000000      0x133 ./src/MPC57xx__Interrupt_Init.o
+ .debug_macro   0x00000000       0x9d ./src/MPC57xx__Interrupt_Init.o
+ .debug_macro   0x00000000       0x10 ./src/MPC57xx__Interrupt_Init.o
+ .debug_macro   0x00000000      0x15b ./src/MPC57xx__Interrupt_Init.o
+ .debug_macro   0x00000000       0x28 ./src/MPC57xx__Interrupt_Init.o
+ .debug_macro   0x00000000       0x58 ./src/MPC57xx__Interrupt_Init.o
+ .debug_macro   0x00000000     0xb50a ./src/MPC57xx__Interrupt_Init.o
+ .bss           0x00000000        0x0 d:/nxp/s32ds_power_v1.2/cross_tools/powerpc-eabivle-4_9/bin/../lib/gcc/powerpc-eabivle/4.9.4/e200z4/fp\libgcc.a(eabivle.o)
+ .data          0x00000000        0x0 d:/nxp/s32ds_power_v1.2/cross_tools/powerpc-eabivle-4_9/bin/../lib/gcc/powerpc-eabivle/4.9.4/e200z4/fp/crtend.o
+ .bss           0x00000000        0x0 d:/nxp/s32ds_power_v1.2/cross_tools/powerpc-eabivle-4_9/bin/../lib/gcc/powerpc-eabivle/4.9.4/e200z4/fp/crtend.o
+ .jcr           0x00000000        0x4 d:/nxp/s32ds_power_v1.2/cross_tools/powerpc-eabivle-4_9/bin/../lib/gcc/powerpc-eabivle/4.9.4/e200z4/fp/crtend.o
+ .text          0x00000000        0x0 d:/nxp/s32ds_power_v1.2/cross_tools/powerpc-eabivle-4_9/bin/../lib/gcc/powerpc-eabivle/4.9.4/e200z4/fp/ecrtn.o
+ .data          0x00000000        0x0 d:/nxp/s32ds_power_v1.2/cross_tools/powerpc-eabivle-4_9/bin/../lib/gcc/powerpc-eabivle/4.9.4/e200z4/fp/ecrtn.o
+ .bss           0x00000000        0x0 d:/nxp/s32ds_power_v1.2/cross_tools/powerpc-eabivle-4_9/bin/../lib/gcc/powerpc-eabivle/4.9.4/e200z4/fp/ecrtn.o
+ .fixup         0x00000000        0x0 d:/nxp/s32ds_power_v1.2/cross_tools/powerpc-eabivle-4_9/bin/../lib/gcc/powerpc-eabivle/4.9.4/e200z4/fp/ecrtn.o
+ .sdata         0x00000000        0x0 d:/nxp/s32ds_power_v1.2/cross_tools/powerpc-eabivle-4_9/bin/../lib/gcc/powerpc-eabivle/4.9.4/e200z4/fp/ecrtn.o
+ .sdata2        0x00000000        0x0 d:/nxp/s32ds_power_v1.2/cross_tools/powerpc-eabivle-4_9/bin/../lib/gcc/powerpc-eabivle/4.9.4/e200z4/fp/ecrtn.o
+ .gcc_except_table
+                0x00000000        0x0 d:/nxp/s32ds_power_v1.2/cross_tools/powerpc-eabivle-4_9/bin/../lib/gcc/powerpc-eabivle/4.9.4/e200z4/fp/ecrtn.o
+
+Memory Configuration
+
+Name             Origin             Length             Attributes
+flash_rchw       0x00fa0000         0x00000004
+cpu0_reset_vec   0x00fa0004         0x00000004
+m_text           0x01000000         0x00200000
+m_data           0x40000000         0x00060000
+local_dmem       0x50800000         0x00010000
+*default*        0x00000000         0xffffffff
+
+Linker script and memory map
+
+LOAD d:/nxp/s32ds_power_v1.2/cross_tools/powerpc-eabivle-4_9/bin/../lib/gcc/powerpc-eabivle/4.9.4/e200z4/fp/ecrti.o
+LOAD d:/nxp/s32ds_power_v1.2/cross_tools/powerpc-eabivle-4_9/bin/../lib/gcc/powerpc-eabivle/4.9.4/e200z4/fp/crtbegin.o
+LOAD ./Project_Settings/Startup_Code/startup.o
+LOAD ./src/os_tmr.o
+LOAD ./src/os_time.o
+LOAD ./src/os_task.o
+LOAD ./src/os_sem.o
+LOAD ./src/os_q.o
+LOAD ./src/os_mutex.o
+LOAD ./src/os_mem.o
+LOAD ./src/os_mbox.o
+LOAD ./src/os_flag.o
+LOAD ./src/os_dbg_r.o
+LOAD ./src/os_cpu_c.o
+LOAD ./src/os_cpu_a.o
+LOAD ./src/os_core.o
+LOAD ./src/main.o
+LOAD ./src/lib_str.o
+LOAD ./src/lib_mem.o
+LOAD ./src/lib_math.o
+LOAD ./src/lib_ascii.o
+LOAD ./src/intc_sw_handlers.o
+LOAD ./src/intc_SW_mode_isr_vectors_MPC5744P.o
+LOAD ./src/flashrchw.o
+LOAD ./src/cpu_core.o
+LOAD ./src/cpu_cache_powerpc_e200z4204n3_a.o
+LOAD ./src/cpu_cache_powerpc_e200z4204n3.o
+LOAD ./src/cpu_a.o
+LOAD ./src/bsp_smpu.o
+LOAD ./src/bsp_os.o
+LOAD ./src/bsp_led.o
+LOAD ./src/bsp_int.o
+LOAD ./src/bsp_cpu.o
+LOAD ./src/bsp_clk.o
+LOAD ./src/app_hooks.o
+LOAD ./src/Vector.o
+LOAD ./src/MPC57xx__Interrupt_Init.o
+START GROUP
+LOAD D:/NXP/S32DS_Power_v1.2/S32DS/e200_ewl2/lib/e200z4/fp\libc99.a
+LOAD D:/NXP/S32DS_Power_v1.2/S32DS/e200_ewl2/lib/e200z4/fp\libm.a
+LOAD d:/nxp/s32ds_power_v1.2/cross_tools/powerpc-eabivle-4_9/bin/../lib/gcc/powerpc-eabivle/4.9.4/e200z4/fp\libgcc.a
+LOAD D:/NXP/S32DS_Power_v1.2/S32DS/e200_ewl2/lib/e200z4/fp\librt.a
+END GROUP
+LOAD d:/nxp/s32ds_power_v1.2/cross_tools/powerpc-eabivle-4_9/bin/../lib/gcc/powerpc-eabivle/4.9.4/e200z4/fp/crtend.o
+LOAD d:/nxp/s32ds_power_v1.2/cross_tools/powerpc-eabivle-4_9/bin/../lib/gcc/powerpc-eabivle/4.9.4/e200z4/fp/ecrtn.o
+                0x00000000                __HEAP_SIZE = 0x0
+                0x00001000                __STACK_SIZE = 0x1000
+                0x00060000                SRAM_SIZE = 0x60000
+                0x40000000                SRAM_BASE_ADDR = 0x40000000
+                0x00010000                LOCALDMEM_SIZE = 0x10000
+                0x50800000                LOCALDMEM_BASE_ADDR = 0x50800000
+                0x4003e000                MPU_NOCACHE_BASE_ADDR = 0x4003e000
+                0x00002000                MPU_NOCACHE_SIZE = 0x2000
+
+.rchw           0x00fa0000        0x4
+ *(.rchw)
+ .rchw          0x00fa0000        0x4 ./src/flashrchw.o
+                0x00fa0000                RCHW1
+
+.cpu0_reset_vector
+                0x00fa0004        0x4
+ *(.cpu0_reset_vector)
+ .cpu0_reset_vector
+                0x00fa0004        0x4 ./src/flashrchw.o
+                0x00fa0004                RCHW2
+
+.startup        0x01000000      0x1fe
+                0x01000000                __start = .
+ *(.startup)
+ .startup       0x01000000      0x1fe ./Project_Settings/Startup_Code/startup.o
+                0x01000000                _start
+
+.core_exceptions_table
+                0x01001000       0xf4
+                0x01001000                __IVPR_VALUE = .
+ *(.core_exceptions_table)
+ .core_exceptions_table
+                0x01001000       0xf4 ./src/Vector.o
+                0x01001000                VTABLE
+                0x01001000                IVOR0_Vector
+                0x01001010                IVOR1_Vector
+                0x01001020                IVOR2_Vector
+                0x01001030                IVOR3_Vector
+                0x01001040                IVOR4_Vector
+                0x01001050                IVOR5_Vector
+                0x01001060                IVOR6_Vector
+                0x01001070                IVOR7_Vector
+                0x01001080                IVOR8_Vector
+                0x01001090                IVOR9_Vector
+                0x010010a0                IVOR10_Vector
+                0x010010b0                IVOR11_Vector
+                0x010010c0                IVOR12_Vector
+                0x010010d0                IVOR13_Vector
+                0x010010e0                IVOR14_Vector
+                0x010010f0                IVOR15_Vector
+
+.intc_vector_table
+                0x01002000      0xb78
+ *(.intc_vector_table)
+ .intc_vector_table
+                0x01002000      0xb78 ./src/intc_SW_mode_isr_vectors_MPC5744P.o
+                0x01002000                IntcIsrVectorTable
+
+.text           0x01002b78     0x4c08
+ *(.text.startup)
+ *(.text)
+ .text          0x01002b78      0x16c d:/nxp/s32ds_power_v1.2/cross_tools/powerpc-eabivle-4_9/bin/../lib/gcc/powerpc-eabivle/4.9.4/e200z4/fp/crtbegin.o
+ .text          0x01002ce4      0x5f8 ./src/os_cpu_a.o
+                0x01002ce4                OS_CPU_SR_Save
+                0x01002cee                OS_CPU_SR_Restore
+                0x01002cf4                OSStartHighRdy
+                0x01002dda                OS_ExceptHandler_CriticalInput
+                0x01002dde                OS_ExceptHandler_MachineCheck
+                0x01002de2                OS_ExceptHandler_DataStorage
+                0x01002de6                OS_ExceptHandler_InstructionStorage
+                0x01002dea                OS_ExceptHandler_ExternalInput
+                0x01002fec                OSIntCtxSw
+                0x010030ea                OS_ExceptHandler_Alignment
+                0x010030ee                OS_ExceptHandler_Program
+                0x010030f2                OS_ExceptHandler_PerformanceMonitor
+                0x010030f6                OS_ExceptHandler_SystemCall
+                0x010030fa                OSCtxSw
+                0x010032c0                OS_ExceptHandler_Debug
+                0x010032c4                OS_ExceptHandler_EFPUDataException
+                0x010032c8                OS_ExceptHandler_EFPURoundException
+                0x010032cc                OS_ExceptHandler_EFPUUnavailable
+                0x010032d0                OS_ExceptHandler_IVOR13
+                0x010032d4                OS_ExceptHandler_IVOR14
+                0x010032d8                OS_ExceptHandler_IVOR15
+ .text          0x010032dc       0xd2 ./src/cpu_cache_powerpc_e200z4204n3_a.o
+                0x010032dc                CPU_DCache_LineSizeGet
+                0x010032ee                CPU_DCache_RangeInv
+                0x0100334e                CPU_DCache_RangeFlush
+ .text          0x010033ae       0x22 ./src/cpu_a.o
+                0x010033ae                CPU_SR_Save
+                0x010033b8                CPU_SR_Restore
+                0x010033be                CPU_SR_Rd
+                0x010033c4                CPU_IntDis
+                0x010033ca                CPU_IntEn
+ .text          0x010033d0       0x4a d:/nxp/s32ds_power_v1.2/cross_tools/powerpc-eabivle-4_9/bin/../lib/gcc/powerpc-eabivle/4.9.4/e200z4/fp\libgcc.a(eabivle.o)
+                0x010033d0                __eabi
+ *fill*         0x0100341a        0x2 
+ .text          0x0100341c       0x48 d:/nxp/s32ds_power_v1.2/cross_tools/powerpc-eabivle-4_9/bin/../lib/gcc/powerpc-eabivle/4.9.4/e200z4/fp/crtend.o
+ *(.text.*)
+ .text.OSTmrSignal
+                0x01003464       0x36 ./src/os_tmr.o
+                0x01003464                OSTmrSignal
+ *fill*         0x0100349a        0x2 
+ .text.OSTmr_Init
+                0x0100349c      0x17e ./src/os_tmr.o
+                0x0100349c                OSTmr_Init
+ *fill*         0x0100361a        0x2 
+ .text.OSTmr_InitTask
+                0x0100361c       0x62 ./src/os_tmr.o
+ *fill*         0x0100367e        0x2 
+ .text.OSTmr_Link
+                0x01003680      0x120 ./src/os_tmr.o
+ .text.OSTmr_Unlink
+                0x010037a0       0xde ./src/os_tmr.o
+ *fill*         0x0100387e        0x2 
+ .text.OSTmr_Task
+                0x01003880      0x122 ./src/os_tmr.o
+ *fill*         0x010039a2        0x2 
+ .text.OSTimeDly
+                0x010039a4      0x13e ./src/os_time.o
+                0x010039a4                OSTimeDly
+ *fill*         0x01003ae2        0x2 
+ .text.OSTimeDlyHMSM
+                0x01003ae4      0x1b2 ./src/os_time.o
+                0x01003ae4                OSTimeDlyHMSM
+ *fill*         0x01003c96        0x2 
+ .text.OSTaskCreateExt
+                0x01003c98      0x1ae ./src/os_task.o
+                0x01003c98                OSTaskCreateExt
+ *fill*         0x01003e46        0x2 
+ .text.OSTaskDel
+                0x01003e48      0x3b8 ./src/os_task.o
+                0x01003e48                OSTaskDel
+ .text.OSTaskNameSet
+                0x01004200      0x16e ./src/os_task.o
+                0x01004200                OSTaskNameSet
+ *fill*         0x0100436e        0x2 
+ .text.OSTaskStkChk
+                0x01004370      0x1a8 ./src/os_task.o
+                0x01004370                OSTaskStkChk
+ .text.OSTaskSuspend
+                0x01004518      0x22e ./src/os_task.o
+                0x01004518                OSTaskSuspend
+ *fill*         0x01004746        0x2 
+ .text.OS_TaskReturn
+                0x01004748       0x32 ./src/os_task.o
+                0x01004748                OS_TaskReturn
+ *fill*         0x0100477a        0x2 
+ .text.OS_TaskStkClr
+                0x0100477c       0x84 ./src/os_task.o
+                0x0100477c                OS_TaskStkClr
+ .text.OSSemCreate
+                0x01004800       0xd2 ./src/os_sem.o
+                0x01004800                OSSemCreate
+ *fill*         0x010048d2        0x2 
+ .text.OSSemPend
+                0x010048d4      0x1fa ./src/os_sem.o
+                0x010048d4                OSSemPend
+ *fill*         0x01004ace        0x2 
+ .text.OSSemPost
+                0x01004ad0       0xe6 ./src/os_sem.o
+                0x01004ad0                OSSemPost
+ *fill*         0x01004bb6        0x2 
+ .text.OS_QInit
+                0x01004bb8       0xd2 ./src/os_q.o
+                0x01004bb8                OS_QInit
+ *fill*         0x01004c8a        0x2 
+ .text.OS_MemInit
+                0x01004c8c       0xe4 ./src/os_mem.o
+                0x01004c8c                OS_MemInit
+ .text.OS_FlagInit
+                0x01004d70       0xde ./src/os_flag.o
+                0x01004d70                OS_FlagInit
+ *fill*         0x01004e4e        0x2 
+ .text.OS_FlagUnlink
+                0x01004e50       0x98 ./src/os_flag.o
+                0x01004e50                OS_FlagUnlink
+ .text.OSDebugInit
+                0x01004ee8      0x24e ./src/os_dbg_r.o
+                0x01004ee8                OSDebugInit
+ *fill*         0x01005136        0x2 
+ .text.OSInitHookBegin
+                0x01005138       0x82 ./src/os_cpu_c.o
+                0x01005138                OSInitHookBegin
+ *fill*         0x010051ba        0x2 
+ .text.OSInitHookEnd
+                0x010051bc       0x14 ./src/os_cpu_c.o
+                0x010051bc                OSInitHookEnd
+ .text.OSTaskCreateHook
+                0x010051d0       0x26 ./src/os_cpu_c.o
+                0x010051d0                OSTaskCreateHook
+ *fill*         0x010051f6        0x2 
+ .text.OSTaskDelHook
+                0x010051f8       0x26 ./src/os_cpu_c.o
+                0x010051f8                OSTaskDelHook
+ *fill*         0x0100521e        0x2 
+ .text.OSTaskIdleHook
+                0x01005220       0x22 ./src/os_cpu_c.o
+                0x01005220                OSTaskIdleHook
+ *fill*         0x01005242        0x2 
+ .text.OSTaskReturnHook
+                0x01005244       0x26 ./src/os_cpu_c.o
+                0x01005244                OSTaskReturnHook
+ *fill*         0x0100526a        0x2 
+ .text.OSTaskStatHook
+                0x0100526c       0x22 ./src/os_cpu_c.o
+                0x0100526c                OSTaskStatHook
+ *fill*         0x0100528e        0x2 
+ .text.OSTaskStkInit
+                0x01005290      0x2da ./src/os_cpu_c.o
+                0x01005290                OSTaskStkInit
+ *fill*         0x0100556a        0x2 
+ .text.OSTaskSwHook
+                0x0100556c       0x22 ./src/os_cpu_c.o
+                0x0100556c                OSTaskSwHook
+ *fill*         0x0100558e        0x2 
+ .text.OSTCBInitHook
+                0x01005590       0x26 ./src/os_cpu_c.o
+                0x01005590                OSTCBInitHook
+ *fill*         0x010055b6        0x2 
+ .text.OSTimeTickHook
+                0x010055b8       0x6a ./src/os_cpu_c.o
+                0x010055b8                OSTimeTickHook
+ *fill*         0x01005622        0x2 
+ .text.OSEventNameSet
+                0x01005624       0xda ./src/os_core.o
+                0x01005624                OSEventNameSet
+ *fill*         0x010056fe        0x2 
+ .text.OSInit   0x01005700       0x52 ./src/os_core.o
+                0x01005700                OSInit
+ *fill*         0x01005752        0x2 
+ .text.OSIntEnter
+                0x01005754       0x6e ./src/os_core.o
+                0x01005754                OSIntEnter
+ *fill*         0x010057c2        0x2 
+ .text.OSIntExit
+                0x010057c4      0x142 ./src/os_core.o
+                0x010057c4                OSIntExit
+ *fill*         0x01005906        0x2 
+ .text.OSSchedLock
+                0x01005908       0xa8 ./src/os_core.o
+                0x01005908                OSSchedLock
+ .text.OSSchedUnlock
+                0x010059b0       0xea ./src/os_core.o
+                0x010059b0                OSSchedUnlock
+ *fill*         0x01005a9a        0x2 
+ .text.OSStart  0x01005a9c       0x90 ./src/os_core.o
+                0x01005a9c                OSStart
+ .text.OSStatInit
+                0x01005b2c       0x6a ./src/os_core.o
+                0x01005b2c                OSStatInit
+ *fill*         0x01005b96        0x2 
+ .text.OSTimeTick
+                0x01005b98      0x252 ./src/os_core.o
+                0x01005b98                OSTimeTick
+ *fill*         0x01005dea        0x2 
+ .text.OS_Dummy
+                0x01005dec       0x14 ./src/os_core.o
+                0x01005dec                OS_Dummy
+ .text.OS_EventTaskRdy
+                0x01005e00      0x168 ./src/os_core.o
+                0x01005e00                OS_EventTaskRdy
+ .text.OS_EventTaskWait
+                0x01005f68      0x124 ./src/os_core.o
+                0x01005f68                OS_EventTaskWait
+ .text.OS_EventTaskRemove
+                0x0100608c       0x94 ./src/os_core.o
+                0x0100608c                OS_EventTaskRemove
+ .text.OS_EventTaskRemoveMulti
+                0x01006120       0xd4 ./src/os_core.o
+                0x01006120                OS_EventTaskRemoveMulti
+ .text.OS_EventWaitListInit
+                0x010061f4       0x54 ./src/os_core.o
+                0x010061f4                OS_EventWaitListInit
+ .text.OS_InitEventList
+                0x01006248       0xf8 ./src/os_core.o
+ .text.OS_InitMisc
+                0x01006340       0x82 ./src/os_core.o
+ *fill*         0x010063c2        0x2 
+ .text.OS_InitRdyList
+                0x010063c4       0x82 ./src/os_core.o
+ *fill*         0x01006446        0x2 
+ .text.OS_InitTaskIdle
+                0x01006448       0x60 ./src/os_core.o
+ .text.OS_InitTaskStat
+                0x010064a8       0x62 ./src/os_core.o
+ *fill*         0x0100650a        0x2 
+ .text.OS_InitTCBList
+                0x0100650c       0xf0 ./src/os_core.o
+ .text.OS_MemClr
+                0x010065fc       0x4e ./src/os_core.o
+                0x010065fc                OS_MemClr
+ *fill*         0x0100664a        0x2 
+ .text.OS_Sched
+                0x0100664c       0xe6 ./src/os_core.o
+                0x0100664c                OS_Sched
+ *fill*         0x01006732        0x2 
+ .text.OS_SchedNew
+                0x01006734       0x68 ./src/os_core.o
+ .text.OS_TaskIdle
+                0x0100679c       0x3a ./src/os_core.o
+                0x0100679c                OS_TaskIdle
+ *fill*         0x010067d6        0x2 
+ .text.OS_TaskStat
+                0x010067d8      0x10a ./src/os_core.o
+                0x010067d8                OS_TaskStat
+ *fill*         0x010068e2        0x2 
+ .text.OS_TaskStatStkChk
+                0x010068e4       0xda ./src/os_core.o
+                0x010068e4                OS_TaskStatStkChk
+ *fill*         0x010069be        0x2 
+ .text.OS_TCBInit
+                0x010069c0      0x2a4 ./src/os_core.o
+                0x010069c0                OS_TCBInit
+ .text.main     0x01006c64       0x7a ./src/main.o
+                0x01006c64                main
+ *fill*         0x01006cde        0x2 
+ .text.StartupTask
+                0x01006ce0       0x30 ./src/main.o
+ .text.Mem_Init
+                0x01006d10       0x1e ./src/lib_mem.o
+                0x01006d10                Mem_Init
+ *fill*         0x01006d2e        0x2 
+ .text.dummy    0x01006d30        0xc ./src/intc_SW_mode_isr_vectors_MPC5744P.o
+                0x01006d30                dummy
+ .text.CPU_Init
+                0x01006d3c       0x22 ./src/cpu_core.o
+                0x01006d3c                CPU_Init
+ *fill*         0x01006d5e        0x2 
+ .text.CPU_Cache_Init
+                0x01006d60       0x2c ./src/cpu_cache_powerpc_e200z4204n3.o
+                0x01006d60                CPU_Cache_Init
+ .text.BSP_OS_TickInit
+                0x01006d8c       0x74 ./src/bsp_os.o
+                0x01006d8c                BSP_OS_TickInit
+ .text.BSP_OS_TickEnable
+                0x01006e00       0x38 ./src/bsp_os.o
+                0x01006e00                BSP_OS_TickEnable
+ .text.BSP_OS_TickISR
+                0x01006e38       0x34 ./src/bsp_os.o
+ .text.BSP_LED_Init
+                0x01006e6c       0xb4 ./src/bsp_led.o
+                0x01006e6c                BSP_LED_Init
+ .text.BSP_LED_Off
+                0x01006f20      0x118 ./src/bsp_led.o
+                0x01006f20                BSP_LED_Off
+ .text.BSP_LED_Toggle
+                0x01007038      0x128 ./src/bsp_led.o
+                0x01007038                BSP_LED_Toggle
+ .text.BSP_IntInit
+                0x01007160       0xa8 ./src/bsp_int.o
+                0x01007160                BSP_IntInit
+ .text.BSP_IntVectSet
+                0x01007208       0x88 ./src/bsp_int.o
+                0x01007208                BSP_IntVectSet
+ .text.BSP_IntPrioSet
+                0x01007290       0xa2 ./src/bsp_int.o
+                0x01007290                BSP_IntPrioSet
+ *fill*         0x01007332        0x2 
+ .text.OS_CPU_IntHandler
+                0x01007334       0xc2 ./src/bsp_int.o
+                0x01007334                OS_CPU_IntHandler
+ *fill*         0x010073f6        0x2 
+ .text.BSP_IntHandlerDummy
+                0x010073f8       0x10 ./src/bsp_int.o
+ .text.BSP_ClkInit
+                0x01007408      0x1e8 ./src/bsp_clk.o
+                0x01007408                BSP_ClkInit
+ .text.App_TaskCreateHook
+                0x010075f0       0x16 ./src/app_hooks.o
+                0x010075f0                App_TaskCreateHook
+ *fill*         0x01007606        0x2 
+ .text.App_TaskDelHook
+                0x01007608       0x16 ./src/app_hooks.o
+                0x01007608                App_TaskDelHook
+ *fill*         0x0100761e        0x2 
+ .text.App_TaskIdleHook
+                0x01007620       0x14 ./src/app_hooks.o
+                0x01007620                App_TaskIdleHook
+ .text.App_TaskStatHook
+                0x01007634       0x14 ./src/app_hooks.o
+                0x01007634                App_TaskStatHook
+ .text.App_TaskReturnHook
+                0x01007648       0x16 ./src/app_hooks.o
+                0x01007648                App_TaskReturnHook
+ *fill*         0x0100765e        0x2 
+ .text.App_TaskSwHook
+                0x01007660       0x14 ./src/app_hooks.o
+                0x01007660                App_TaskSwHook
+ .text.App_TCBInitHook
+                0x01007674       0x16 ./src/app_hooks.o
+                0x01007674                App_TCBInitHook
+ *fill*         0x0100768a        0x2 
+ .text.App_TimeTickHook
+                0x0100768c       0x14 ./src/app_hooks.o
+                0x0100768c                App_TimeTickHook
+ .text.SetIVPR  0x010076a0       0x1a ./src/MPC57xx__Interrupt_Init.o
+                0x010076a0                SetIVPR
+ *fill*         0x010076ba        0x2 
+ .text.InitINTC
+                0x010076bc       0x32 ./src/MPC57xx__Interrupt_Init.o
+                0x010076bc                InitINTC
+ *fill*         0x010076ee        0x2 
+ .text.enableIrq
+                0x010076f0       0x20 ./src/MPC57xx__Interrupt_Init.o
+                0x010076f0                enableIrq
+ .text.xcptn_xmpl
+                0x01007710       0x34 ./src/MPC57xx__Interrupt_Init.o
+                0x01007710                xcptn_xmpl
+ *(.init)
+ .init          0x01007744        0xa d:/nxp/s32ds_power_v1.2/cross_tools/powerpc-eabivle-4_9/bin/../lib/gcc/powerpc-eabivle/4.9.4/e200z4/fp/ecrti.o
+                0x01007744                __init
+ .init          0x0100774e        0x4 d:/nxp/s32ds_power_v1.2/cross_tools/powerpc-eabivle-4_9/bin/../lib/gcc/powerpc-eabivle/4.9.4/e200z4/fp/crtbegin.o
+ .init          0x01007752        0x4 d:/nxp/s32ds_power_v1.2/cross_tools/powerpc-eabivle-4_9/bin/../lib/gcc/powerpc-eabivle/4.9.4/e200z4/fp/crtend.o
+ .init          0x01007756        0xa d:/nxp/s32ds_power_v1.2/cross_tools/powerpc-eabivle-4_9/bin/../lib/gcc/powerpc-eabivle/4.9.4/e200z4/fp/ecrtn.o
+ *(.fini)
+ .fini          0x01007760        0xa d:/nxp/s32ds_power_v1.2/cross_tools/powerpc-eabivle-4_9/bin/../lib/gcc/powerpc-eabivle/4.9.4/e200z4/fp/ecrti.o
+                0x01007760                __fini
+ .fini          0x0100776a        0x4 d:/nxp/s32ds_power_v1.2/cross_tools/powerpc-eabivle-4_9/bin/../lib/gcc/powerpc-eabivle/4.9.4/e200z4/fp/crtbegin.o
+ .fini          0x0100776e        0xa d:/nxp/s32ds_power_v1.2/cross_tools/powerpc-eabivle-4_9/bin/../lib/gcc/powerpc-eabivle/4.9.4/e200z4/fp/ecrtn.o
+                0x01007780                . = ALIGN (0x10)
+ *fill*         0x01007778        0x8 
+
+.glink          0x01007780        0x0
+ .glink         0x01007780        0x0 d:/nxp/s32ds_power_v1.2/cross_tools/powerpc-eabivle-4_9/bin/../lib/gcc/powerpc-eabivle/4.9.4/e200z4/fp/crtbegin.o
+
+.ctors          0x01007780        0x8
+                0x01007780                __CTOR_LIST__ = .
+ *crtbegin.o(.ctors)
+ .ctors         0x01007780        0x4 d:/nxp/s32ds_power_v1.2/cross_tools/powerpc-eabivle-4_9/bin/../lib/gcc/powerpc-eabivle/4.9.4/e200z4/fp/crtbegin.o
+ *crtbegin?.o(.ctors)
+ *(EXCLUDE_FILE(*crtend.o *crtend?.o) .ctors)
+ .ctors         0x01007784        0x0 d:/nxp/s32ds_power_v1.2/cross_tools/powerpc-eabivle-4_9/bin/../lib/gcc/powerpc-eabivle/4.9.4/e200z4/fp/ecrti.o
+ .ctors         0x01007784        0x0 d:/nxp/s32ds_power_v1.2/cross_tools/powerpc-eabivle-4_9/bin/../lib/gcc/powerpc-eabivle/4.9.4/e200z4/fp/ecrtn.o
+ *(SORT(.ctors.*))
+ *(.ctors)
+ .ctors         0x01007784        0x4 d:/nxp/s32ds_power_v1.2/cross_tools/powerpc-eabivle-4_9/bin/../lib/gcc/powerpc-eabivle/4.9.4/e200z4/fp/crtend.o
+                0x01007788                __CTOR_END__ = .
+
+.dtors          0x01007788        0x8
+                0x01007788                __DTOR_LIST__ = .
+ *crtbegin.o(.dtors)
+ .dtors         0x01007788        0x4 d:/nxp/s32ds_power_v1.2/cross_tools/powerpc-eabivle-4_9/bin/../lib/gcc/powerpc-eabivle/4.9.4/e200z4/fp/crtbegin.o
+ *crtbegin?.o(.dtors)
+ *(EXCLUDE_FILE(*crtend.o *crtend?.o) .dtors)
+ .dtors         0x0100778c        0x0 d:/nxp/s32ds_power_v1.2/cross_tools/powerpc-eabivle-4_9/bin/../lib/gcc/powerpc-eabivle/4.9.4/e200z4/fp/ecrti.o
+ .dtors         0x0100778c        0x0 d:/nxp/s32ds_power_v1.2/cross_tools/powerpc-eabivle-4_9/bin/../lib/gcc/powerpc-eabivle/4.9.4/e200z4/fp/ecrtn.o
+ *(SORT(.dtors.*))
+ *(.dtors)
+ .dtors         0x0100778c        0x4 d:/nxp/s32ds_power_v1.2/cross_tools/powerpc-eabivle-4_9/bin/../lib/gcc/powerpc-eabivle/4.9.4/e200z4/fp/crtend.o
+                0x01007790                __DTOR_END__ = .
+
+.preinit_array  0x01007790        0x0
+                [!provide]                PROVIDE (__preinit_array_start, .)
+ *(.preinit_array*)
+                [!provide]                PROVIDE (__preinit_array_end, .)
+
+.init_array     0x01007790        0x0
+                [!provide]                PROVIDE (__init_array_start, .)
+ *(SORT(.init_array.*))
+ *(.init_array*)
+                [!provide]                PROVIDE (__init_array_end, .)
+
+.fini_array     0x01007790        0x0
+                [!provide]                PROVIDE (__fini_array_start, .)
+ *(SORT(.fini_array.*))
+ *(.fini_array*)
+                [!provide]                PROVIDE (__fini_array_end, .)
+
+.rodata         0x01007790      0x1a8
+ *(.rodata)
+ .rodata        0x01007790       0x39 ./src/os_tmr.o
+ *fill*         0x010077c9        0x3 
+ .rodata        0x010077cc        0x2 ./src/os_task.o
+ *fill*         0x010077ce        0x2 
+ .rodata        0x010077d0        0x2 ./src/os_sem.o
+ *fill*         0x010077d2        0x2 
+ .rodata        0x010077d4        0x2 ./src/os_mem.o
+ *fill*         0x010077d6        0x2 
+ .rodata        0x010077d8        0x2 ./src/os_flag.o
+ *fill*         0x010077da        0x2 
+ .rodata        0x010077dc       0x22 ./src/os_core.o
+ *fill*         0x010077fe        0x2 
+ .rodata        0x01007800        0xd ./src/main.o
+ *(.rodata.*)
+ *fill*         0x0100780d        0x3 
+ .rodata.OSUnMapTbl
+                0x01007810      0x100 ./src/os_core.o
+                0x01007810                OSUnMapTbl
+ .rodata.BSP_LED_Off
+                0x01007910       0x14 ./src/bsp_led.o
+ .rodata.BSP_LED_Toggle
+                0x01007924       0x14 ./src/bsp_led.o
+
+.eh_frame_hdr
+ *(.eh_frame_hdr)
+
+.eh_frame       0x01007938        0x8
+ *(.eh_frame)
+ .eh_frame      0x01007938        0x0 d:/nxp/s32ds_power_v1.2/cross_tools/powerpc-eabivle-4_9/bin/../lib/gcc/powerpc-eabivle/4.9.4/e200z4/fp/ecrti.o
+                0x01007938                __EH_FRAME_BEGIN__
+ .eh_frame      0x01007938        0x0 d:/nxp/s32ds_power_v1.2/cross_tools/powerpc-eabivle-4_9/bin/../lib/gcc/powerpc-eabivle/4.9.4/e200z4/fp/crtbegin.o
+ .eh_frame      0x01007938        0x0 d:/nxp/s32ds_power_v1.2/cross_tools/powerpc-eabivle-4_9/bin/../lib/gcc/powerpc-eabivle/4.9.4/e200z4/fp/crtbegin.o
+ .eh_frame      0x01007938        0x4 d:/nxp/s32ds_power_v1.2/cross_tools/powerpc-eabivle-4_9/bin/../lib/gcc/powerpc-eabivle/4.9.4/e200z4/fp/crtend.o
+ .eh_frame      0x0100793c        0x4 d:/nxp/s32ds_power_v1.2/cross_tools/powerpc-eabivle-4_9/bin/../lib/gcc/powerpc-eabivle/4.9.4/e200z4/fp/ecrtn.o
+                0x0100793c                __EH_FRAME_END__
+
+.data           0x40000000        0x4 load address 0x01007940
+ *(.data)
+ .data          0x40000000        0x4 d:/nxp/s32ds_power_v1.2/cross_tools/powerpc-eabivle-4_9/bin/../lib/gcc/powerpc-eabivle/4.9.4/e200z4/fp\libgcc.a(eabivle.o)
+ *(.data.*)
+
+.jcr            0x40000004        0x0 load address 0x01007944
+ .jcr           0x40000004        0x0 d:/nxp/s32ds_power_v1.2/cross_tools/powerpc-eabivle-4_9/bin/../lib/gcc/powerpc-eabivle/4.9.4/e200z4/fp/crtbegin.o
+
+.tm_clone_table
+                0x40000004        0x0 load address 0x01007944
+ .tm_clone_table
+                0x40000004        0x0 d:/nxp/s32ds_power_v1.2/cross_tools/powerpc-eabivle-4_9/bin/../lib/gcc/powerpc-eabivle/4.9.4/e200z4/fp/crtbegin.o
+ .tm_clone_table
+                0x40000004        0x0 d:/nxp/s32ds_power_v1.2/cross_tools/powerpc-eabivle-4_9/bin/../lib/gcc/powerpc-eabivle/4.9.4/e200z4/fp/crtend.o
+
+.got2           0x40000004       0x1c load address 0x01007944
+ .got2          0x40000004       0x1c d:/nxp/s32ds_power_v1.2/cross_tools/powerpc-eabivle-4_9/bin/../lib/gcc/powerpc-eabivle/4.9.4/e200z4/fp\libgcc.a(eabivle.o)
+
+.sdata2         0x40000020        0x0 load address 0x01007960
+ *(.sdata2)
+ .sdata2        0x40000020        0x0 d:/nxp/s32ds_power_v1.2/cross_tools/powerpc-eabivle-4_9/bin/../lib/gcc/powerpc-eabivle/4.9.4/e200z4/fp/ecrti.o
+ .sdata2        0x40000020        0x0 d:/nxp/s32ds_power_v1.2/cross_tools/powerpc-eabivle-4_9/bin/../lib/gcc/powerpc-eabivle/4.9.4/e200z4/fp/crtbegin.o
+ *(.sdata2.*)
+
+.sbss2          0x40000020        0x0 load address 0x01007960
+ *(.sbss2)
+ .sbss2         0x40000020        0x0 d:/nxp/s32ds_power_v1.2/cross_tools/powerpc-eabivle-4_9/bin/../lib/gcc/powerpc-eabivle/4.9.4/e200z4/fp/ecrtn.o
+ *(.sbss2.*)
+
+.rela.dyn       0x40000020        0x0 load address 0x01007960
+ .rela.iplt     0x40000020        0x0 d:/nxp/s32ds_power_v1.2/cross_tools/powerpc-eabivle-4_9/bin/../lib/gcc/powerpc-eabivle/4.9.4/e200z4/fp/crtbegin.o
+ .rela.text     0x40000020        0x0 d:/nxp/s32ds_power_v1.2/cross_tools/powerpc-eabivle-4_9/bin/../lib/gcc/powerpc-eabivle/4.9.4/e200z4/fp/crtbegin.o
+ .rela.text.OSTmrCreate
+                0x40000020        0x0 d:/nxp/s32ds_power_v1.2/cross_tools/powerpc-eabivle-4_9/bin/../lib/gcc/powerpc-eabivle/4.9.4/e200z4/fp/crtbegin.o
+ .rela.text.OSTmrDel
+                0x40000020        0x0 d:/nxp/s32ds_power_v1.2/cross_tools/powerpc-eabivle-4_9/bin/../lib/gcc/powerpc-eabivle/4.9.4/e200z4/fp/crtbegin.o
+ .rela.text.OSTmrNameGet
+                0x40000020        0x0 d:/nxp/s32ds_power_v1.2/cross_tools/powerpc-eabivle-4_9/bin/../lib/gcc/powerpc-eabivle/4.9.4/e200z4/fp/crtbegin.o
+ .rela.text.OSTmrRemainGet
+                0x40000020        0x0 d:/nxp/s32ds_power_v1.2/cross_tools/powerpc-eabivle-4_9/bin/../lib/gcc/powerpc-eabivle/4.9.4/e200z4/fp/crtbegin.o
+ .rela.text.OSTmrStateGet
+                0x40000020        0x0 d:/nxp/s32ds_power_v1.2/cross_tools/powerpc-eabivle-4_9/bin/../lib/gcc/powerpc-eabivle/4.9.4/e200z4/fp/crtbegin.o
+ .rela.text.OSTmrStart
+                0x40000020        0x0 d:/nxp/s32ds_power_v1.2/cross_tools/powerpc-eabivle-4_9/bin/../lib/gcc/powerpc-eabivle/4.9.4/e200z4/fp/crtbegin.o
+ .rela.text.OSTmrStop
+                0x40000020        0x0 d:/nxp/s32ds_power_v1.2/cross_tools/powerpc-eabivle-4_9/bin/../lib/gcc/powerpc-eabivle/4.9.4/e200z4/fp/crtbegin.o
+ .rela.text.OSTmrSignal
+                0x40000020        0x0 d:/nxp/s32ds_power_v1.2/cross_tools/powerpc-eabivle-4_9/bin/../lib/gcc/powerpc-eabivle/4.9.4/e200z4/fp/crtbegin.o
+ .rela.text.OSTmr_Alloc
+                0x40000020        0x0 d:/nxp/s32ds_power_v1.2/cross_tools/powerpc-eabivle-4_9/bin/../lib/gcc/powerpc-eabivle/4.9.4/e200z4/fp/crtbegin.o
+ .rela.text.OSTmr_Free
+                0x40000020        0x0 d:/nxp/s32ds_power_v1.2/cross_tools/powerpc-eabivle-4_9/bin/../lib/gcc/powerpc-eabivle/4.9.4/e200z4/fp/crtbegin.o
+ .rela.text.OSTmr_Init
+                0x40000020        0x0 d:/nxp/s32ds_power_v1.2/cross_tools/powerpc-eabivle-4_9/bin/../lib/gcc/powerpc-eabivle/4.9.4/e200z4/fp/crtbegin.o
+ .rela.text.OSTmr_InitTask
+                0x40000020        0x0 d:/nxp/s32ds_power_v1.2/cross_tools/powerpc-eabivle-4_9/bin/../lib/gcc/powerpc-eabivle/4.9.4/e200z4/fp/crtbegin.o
+ .rela.text.OSTmr_Link
+                0x40000020        0x0 d:/nxp/s32ds_power_v1.2/cross_tools/powerpc-eabivle-4_9/bin/../lib/gcc/powerpc-eabivle/4.9.4/e200z4/fp/crtbegin.o
+ .rela.text.OSTmr_Unlink
+                0x40000020        0x0 d:/nxp/s32ds_power_v1.2/cross_tools/powerpc-eabivle-4_9/bin/../lib/gcc/powerpc-eabivle/4.9.4/e200z4/fp/crtbegin.o
+ .rela.text.OSTmr_Task
+                0x40000020        0x0 d:/nxp/s32ds_power_v1.2/cross_tools/powerpc-eabivle-4_9/bin/../lib/gcc/powerpc-eabivle/4.9.4/e200z4/fp/crtbegin.o
+ .rela.text.OSTimeDly
+                0x40000020        0x0 d:/nxp/s32ds_power_v1.2/cross_tools/powerpc-eabivle-4_9/bin/../lib/gcc/powerpc-eabivle/4.9.4/e200z4/fp/crtbegin.o
+ .rela.text.OSTimeDlyHMSM
+                0x40000020        0x0 d:/nxp/s32ds_power_v1.2/cross_tools/powerpc-eabivle-4_9/bin/../lib/gcc/powerpc-eabivle/4.9.4/e200z4/fp/crtbegin.o
+ .rela.text.OSTimeDlyResume
+                0x40000020        0x0 d:/nxp/s32ds_power_v1.2/cross_tools/powerpc-eabivle-4_9/bin/../lib/gcc/powerpc-eabivle/4.9.4/e200z4/fp/crtbegin.o
+ .rela.text.OSTimeGet
+                0x40000020        0x0 d:/nxp/s32ds_power_v1.2/cross_tools/powerpc-eabivle-4_9/bin/../lib/gcc/powerpc-eabivle/4.9.4/e200z4/fp/crtbegin.o
+ .rela.text.OSTimeSet
+                0x40000020        0x0 d:/nxp/s32ds_power_v1.2/cross_tools/powerpc-eabivle-4_9/bin/../lib/gcc/powerpc-eabivle/4.9.4/e200z4/fp/crtbegin.o
+ .rela.text.OSTaskChangePrio
+                0x40000020        0x0 d:/nxp/s32ds_power_v1.2/cross_tools/powerpc-eabivle-4_9/bin/../lib/gcc/powerpc-eabivle/4.9.4/e200z4/fp/crtbegin.o
+ .rela.text.OSTaskCreate
+                0x40000020        0x0 d:/nxp/s32ds_power_v1.2/cross_tools/powerpc-eabivle-4_9/bin/../lib/gcc/powerpc-eabivle/4.9.4/e200z4/fp/crtbegin.o
+ .rela.text.OSTaskCreateExt
+                0x40000020        0x0 d:/nxp/s32ds_power_v1.2/cross_tools/powerpc-eabivle-4_9/bin/../lib/gcc/powerpc-eabivle/4.9.4/e200z4/fp/crtbegin.o
+ .rela.text.OSTaskDel
+                0x40000020        0x0 d:/nxp/s32ds_power_v1.2/cross_tools/powerpc-eabivle-4_9/bin/../lib/gcc/powerpc-eabivle/4.9.4/e200z4/fp/crtbegin.o
+ .rela.text.OSTaskDelReq
+                0x40000020        0x0 d:/nxp/s32ds_power_v1.2/cross_tools/powerpc-eabivle-4_9/bin/../lib/gcc/powerpc-eabivle/4.9.4/e200z4/fp/crtbegin.o
+ .rela.text.OSTaskNameGet
+                0x40000020        0x0 d:/nxp/s32ds_power_v1.2/cross_tools/powerpc-eabivle-4_9/bin/../lib/gcc/powerpc-eabivle/4.9.4/e200z4/fp/crtbegin.o
+ .rela.text.OSTaskNameSet
+                0x40000020        0x0 d:/nxp/s32ds_power_v1.2/cross_tools/powerpc-eabivle-4_9/bin/../lib/gcc/powerpc-eabivle/4.9.4/e200z4/fp/crtbegin.o
+ .rela.text.OSTaskResume
+                0x40000020        0x0 d:/nxp/s32ds_power_v1.2/cross_tools/powerpc-eabivle-4_9/bin/../lib/gcc/powerpc-eabivle/4.9.4/e200z4/fp/crtbegin.o
+ .rela.text.OSTaskStkChk
+                0x40000020        0x0 d:/nxp/s32ds_power_v1.2/cross_tools/powerpc-eabivle-4_9/bin/../lib/gcc/powerpc-eabivle/4.9.4/e200z4/fp/crtbegin.o
+ .rela.text.OSTaskSuspend
+                0x40000020        0x0 d:/nxp/s32ds_power_v1.2/cross_tools/powerpc-eabivle-4_9/bin/../lib/gcc/powerpc-eabivle/4.9.4/e200z4/fp/crtbegin.o
+ .rela.text.OSTaskQuery
+                0x40000020        0x0 d:/nxp/s32ds_power_v1.2/cross_tools/powerpc-eabivle-4_9/bin/../lib/gcc/powerpc-eabivle/4.9.4/e200z4/fp/crtbegin.o
+ .rela.text.OSTaskRegGet
+                0x40000020        0x0 d:/nxp/s32ds_power_v1.2/cross_tools/powerpc-eabivle-4_9/bin/../lib/gcc/powerpc-eabivle/4.9.4/e200z4/fp/crtbegin.o
+ .rela.text.OSTaskRegGetID
+                0x40000020        0x0 d:/nxp/s32ds_power_v1.2/cross_tools/powerpc-eabivle-4_9/bin/../lib/gcc/powerpc-eabivle/4.9.4/e200z4/fp/crtbegin.o
+ .rela.text.OSTaskRegSet
+                0x40000020        0x0 d:/nxp/s32ds_power_v1.2/cross_tools/powerpc-eabivle-4_9/bin/../lib/gcc/powerpc-eabivle/4.9.4/e200z4/fp/crtbegin.o
+ .rela.text.OS_TaskReturn
+                0x40000020        0x0 d:/nxp/s32ds_power_v1.2/cross_tools/powerpc-eabivle-4_9/bin/../lib/gcc/powerpc-eabivle/4.9.4/e200z4/fp/crtbegin.o
+ .rela.text.OSSemCreate
+                0x40000020        0x0 d:/nxp/s32ds_power_v1.2/cross_tools/powerpc-eabivle-4_9/bin/../lib/gcc/powerpc-eabivle/4.9.4/e200z4/fp/crtbegin.o
+ .rela.text.OSSemDel
+                0x40000020        0x0 d:/nxp/s32ds_power_v1.2/cross_tools/powerpc-eabivle-4_9/bin/../lib/gcc/powerpc-eabivle/4.9.4/e200z4/fp/crtbegin.o
+ .rela.text.OSSemPend
+                0x40000020        0x0 d:/nxp/s32ds_power_v1.2/cross_tools/powerpc-eabivle-4_9/bin/../lib/gcc/powerpc-eabivle/4.9.4/e200z4/fp/crtbegin.o
+ .rela.text.OSQCreate
+                0x40000020        0x0 d:/nxp/s32ds_power_v1.2/cross_tools/powerpc-eabivle-4_9/bin/../lib/gcc/powerpc-eabivle/4.9.4/e200z4/fp/crtbegin.o
+ .rela.text.OSQDel
+                0x40000020        0x0 d:/nxp/s32ds_power_v1.2/cross_tools/powerpc-eabivle-4_9/bin/../lib/gcc/powerpc-eabivle/4.9.4/e200z4/fp/crtbegin.o
+ .rela.text.OSQPend
+                0x40000020        0x0 d:/nxp/s32ds_power_v1.2/cross_tools/powerpc-eabivle-4_9/bin/../lib/gcc/powerpc-eabivle/4.9.4/e200z4/fp/crtbegin.o
+ .rela.text.OS_QInit
+                0x40000020        0x0 d:/nxp/s32ds_power_v1.2/cross_tools/powerpc-eabivle-4_9/bin/../lib/gcc/powerpc-eabivle/4.9.4/e200z4/fp/crtbegin.o
+ .rela.text.OSMutexAccept
+                0x40000020        0x0 d:/nxp/s32ds_power_v1.2/cross_tools/powerpc-eabivle-4_9/bin/../lib/gcc/powerpc-eabivle/4.9.4/e200z4/fp/crtbegin.o
+ .rela.text.OSMutexCreate
+                0x40000020        0x0 d:/nxp/s32ds_power_v1.2/cross_tools/powerpc-eabivle-4_9/bin/../lib/gcc/powerpc-eabivle/4.9.4/e200z4/fp/crtbegin.o
+ .rela.text.OSMutexDel
+                0x40000020        0x0 d:/nxp/s32ds_power_v1.2/cross_tools/powerpc-eabivle-4_9/bin/../lib/gcc/powerpc-eabivle/4.9.4/e200z4/fp/crtbegin.o
+ .rela.text.OSMutexPend
+                0x40000020        0x0 d:/nxp/s32ds_power_v1.2/cross_tools/powerpc-eabivle-4_9/bin/../lib/gcc/powerpc-eabivle/4.9.4/e200z4/fp/crtbegin.o
+ .rela.text.OSMutexPost
+                0x40000020        0x0 d:/nxp/s32ds_power_v1.2/cross_tools/powerpc-eabivle-4_9/bin/../lib/gcc/powerpc-eabivle/4.9.4/e200z4/fp/crtbegin.o
+ .rela.text.OSMutexQuery
+                0x40000020        0x0 d:/nxp/s32ds_power_v1.2/cross_tools/powerpc-eabivle-4_9/bin/../lib/gcc/powerpc-eabivle/4.9.4/e200z4/fp/crtbegin.o
+ .rela.text.OSMutex_RdyAtPrio
+                0x40000020        0x0 d:/nxp/s32ds_power_v1.2/cross_tools/powerpc-eabivle-4_9/bin/../lib/gcc/powerpc-eabivle/4.9.4/e200z4/fp/crtbegin.o
+ .rela.text.OSMemCreate
+                0x40000020        0x0 d:/nxp/s32ds_power_v1.2/cross_tools/powerpc-eabivle-4_9/bin/../lib/gcc/powerpc-eabivle/4.9.4/e200z4/fp/crtbegin.o
+ .rela.text.OSMemNameGet
+                0x40000020        0x0 d:/nxp/s32ds_power_v1.2/cross_tools/powerpc-eabivle-4_9/bin/../lib/gcc/powerpc-eabivle/4.9.4/e200z4/fp/crtbegin.o
+ .rela.text.OSMemNameSet
+                0x40000020        0x0 d:/nxp/s32ds_power_v1.2/cross_tools/powerpc-eabivle-4_9/bin/../lib/gcc/powerpc-eabivle/4.9.4/e200z4/fp/crtbegin.o
+ .rela.text.OS_MemInit
+                0x40000020        0x0 d:/nxp/s32ds_power_v1.2/cross_tools/powerpc-eabivle-4_9/bin/../lib/gcc/powerpc-eabivle/4.9.4/e200z4/fp/crtbegin.o
+ .rela.text.OSMboxCreate
+                0x40000020        0x0 d:/nxp/s32ds_power_v1.2/cross_tools/powerpc-eabivle-4_9/bin/../lib/gcc/powerpc-eabivle/4.9.4/e200z4/fp/crtbegin.o
+ .rela.text.OSMboxDel
+                0x40000020        0x0 d:/nxp/s32ds_power_v1.2/cross_tools/powerpc-eabivle-4_9/bin/../lib/gcc/powerpc-eabivle/4.9.4/e200z4/fp/crtbegin.o
+ .rela.text.OSMboxPend
+                0x40000020        0x0 d:/nxp/s32ds_power_v1.2/cross_tools/powerpc-eabivle-4_9/bin/../lib/gcc/powerpc-eabivle/4.9.4/e200z4/fp/crtbegin.o
+ .rela.text.OSFlagCreate
+                0x40000020        0x0 d:/nxp/s32ds_power_v1.2/cross_tools/powerpc-eabivle-4_9/bin/../lib/gcc/powerpc-eabivle/4.9.4/e200z4/fp/crtbegin.o
+ .rela.text.OSFlagDel
+                0x40000020        0x0 d:/nxp/s32ds_power_v1.2/cross_tools/powerpc-eabivle-4_9/bin/../lib/gcc/powerpc-eabivle/4.9.4/e200z4/fp/crtbegin.o
+ .rela.text.OSFlagNameGet
+                0x40000020        0x0 d:/nxp/s32ds_power_v1.2/cross_tools/powerpc-eabivle-4_9/bin/../lib/gcc/powerpc-eabivle/4.9.4/e200z4/fp/crtbegin.o
+ .rela.text.OSFlagNameSet
+                0x40000020        0x0 d:/nxp/s32ds_power_v1.2/cross_tools/powerpc-eabivle-4_9/bin/../lib/gcc/powerpc-eabivle/4.9.4/e200z4/fp/crtbegin.o
+ .rela.text.OSFlagPend
+                0x40000020        0x0 d:/nxp/s32ds_power_v1.2/cross_tools/powerpc-eabivle-4_9/bin/../lib/gcc/powerpc-eabivle/4.9.4/e200z4/fp/crtbegin.o
+ .rela.text.OSFlagPendGetFlagsRdy
+                0x40000020        0x0 d:/nxp/s32ds_power_v1.2/cross_tools/powerpc-eabivle-4_9/bin/../lib/gcc/powerpc-eabivle/4.9.4/e200z4/fp/crtbegin.o
+ .rela.text.OS_FlagBlock
+                0x40000020        0x0 d:/nxp/s32ds_power_v1.2/cross_tools/powerpc-eabivle-4_9/bin/../lib/gcc/powerpc-eabivle/4.9.4/e200z4/fp/crtbegin.o
+ .rela.text.OS_FlagInit
+                0x40000020        0x0 d:/nxp/s32ds_power_v1.2/cross_tools/powerpc-eabivle-4_9/bin/../lib/gcc/powerpc-eabivle/4.9.4/e200z4/fp/crtbegin.o
+ .rela.text.OS_FlagTaskRdy
+                0x40000020        0x0 d:/nxp/s32ds_power_v1.2/cross_tools/powerpc-eabivle-4_9/bin/../lib/gcc/powerpc-eabivle/4.9.4/e200z4/fp/crtbegin.o
+ .rela.text.OSDebugInit
+                0x40000020        0x0 d:/nxp/s32ds_power_v1.2/cross_tools/powerpc-eabivle-4_9/bin/../lib/gcc/powerpc-eabivle/4.9.4/e200z4/fp/crtbegin.o
+ .rela.text.OSInitHookBegin
+                0x40000020        0x0 d:/nxp/s32ds_power_v1.2/cross_tools/powerpc-eabivle-4_9/bin/../lib/gcc/powerpc-eabivle/4.9.4/e200z4/fp/crtbegin.o
+ .rela.text.OSEventNameGet
+                0x40000020        0x0 d:/nxp/s32ds_power_v1.2/cross_tools/powerpc-eabivle-4_9/bin/../lib/gcc/powerpc-eabivle/4.9.4/e200z4/fp/crtbegin.o
+ .rela.text.OSEventNameSet
+                0x40000020        0x0 d:/nxp/s32ds_power_v1.2/cross_tools/powerpc-eabivle-4_9/bin/../lib/gcc/powerpc-eabivle/4.9.4/e200z4/fp/crtbegin.o
+ .rela.text.OSEventPendMulti
+                0x40000020        0x0 d:/nxp/s32ds_power_v1.2/cross_tools/powerpc-eabivle-4_9/bin/../lib/gcc/powerpc-eabivle/4.9.4/e200z4/fp/crtbegin.o
+ .rela.text.OSIntEnter
+                0x40000020        0x0 d:/nxp/s32ds_power_v1.2/cross_tools/powerpc-eabivle-4_9/bin/../lib/gcc/powerpc-eabivle/4.9.4/e200z4/fp/crtbegin.o
+ .rela.text.OSIntExit
+                0x40000020        0x0 d:/nxp/s32ds_power_v1.2/cross_tools/powerpc-eabivle-4_9/bin/../lib/gcc/powerpc-eabivle/4.9.4/e200z4/fp/crtbegin.o
+ .rela.text.OSSchedLock
+                0x40000020        0x0 d:/nxp/s32ds_power_v1.2/cross_tools/powerpc-eabivle-4_9/bin/../lib/gcc/powerpc-eabivle/4.9.4/e200z4/fp/crtbegin.o
+ .rela.text.OSSchedUnlock
+                0x40000020        0x0 d:/nxp/s32ds_power_v1.2/cross_tools/powerpc-eabivle-4_9/bin/../lib/gcc/powerpc-eabivle/4.9.4/e200z4/fp/crtbegin.o
+ .rela.text.OSStart
+                0x40000020        0x0 d:/nxp/s32ds_power_v1.2/cross_tools/powerpc-eabivle-4_9/bin/../lib/gcc/powerpc-eabivle/4.9.4/e200z4/fp/crtbegin.o
+ .rela.text.OSStatInit
+                0x40000020        0x0 d:/nxp/s32ds_power_v1.2/cross_tools/powerpc-eabivle-4_9/bin/../lib/gcc/powerpc-eabivle/4.9.4/e200z4/fp/crtbegin.o
+ .rela.text.OSTimeTick
+                0x40000020        0x0 d:/nxp/s32ds_power_v1.2/cross_tools/powerpc-eabivle-4_9/bin/../lib/gcc/powerpc-eabivle/4.9.4/e200z4/fp/crtbegin.o
+ .rela.text.OS_EventTaskRdy
+                0x40000020        0x0 d:/nxp/s32ds_power_v1.2/cross_tools/powerpc-eabivle-4_9/bin/../lib/gcc/powerpc-eabivle/4.9.4/e200z4/fp/crtbegin.o
+ .rela.text.OS_EventTaskWait
+                0x40000020        0x0 d:/nxp/s32ds_power_v1.2/cross_tools/powerpc-eabivle-4_9/bin/../lib/gcc/powerpc-eabivle/4.9.4/e200z4/fp/crtbegin.o
+ .rela.text.OS_EventTaskWaitMulti
+                0x40000020        0x0 d:/nxp/s32ds_power_v1.2/cross_tools/powerpc-eabivle-4_9/bin/../lib/gcc/powerpc-eabivle/4.9.4/e200z4/fp/crtbegin.o
+ .rela.text.OS_InitEventList
+                0x40000020        0x0 d:/nxp/s32ds_power_v1.2/cross_tools/powerpc-eabivle-4_9/bin/../lib/gcc/powerpc-eabivle/4.9.4/e200z4/fp/crtbegin.o
+ .rela.text.OS_InitMisc
+                0x40000020        0x0 d:/nxp/s32ds_power_v1.2/cross_tools/powerpc-eabivle-4_9/bin/../lib/gcc/powerpc-eabivle/4.9.4/e200z4/fp/crtbegin.o
+ .rela.text.OS_InitRdyList
+                0x40000020        0x0 d:/nxp/s32ds_power_v1.2/cross_tools/powerpc-eabivle-4_9/bin/../lib/gcc/powerpc-eabivle/4.9.4/e200z4/fp/crtbegin.o
+ .rela.text.OS_InitTaskIdle
+                0x40000020        0x0 d:/nxp/s32ds_power_v1.2/cross_tools/powerpc-eabivle-4_9/bin/../lib/gcc/powerpc-eabivle/4.9.4/e200z4/fp/crtbegin.o
+ .rela.text.OS_InitTaskStat
+                0x40000020        0x0 d:/nxp/s32ds_power_v1.2/cross_tools/powerpc-eabivle-4_9/bin/../lib/gcc/powerpc-eabivle/4.9.4/e200z4/fp/crtbegin.o
+ .rela.text.OS_InitTCBList
+                0x40000020        0x0 d:/nxp/s32ds_power_v1.2/cross_tools/powerpc-eabivle-4_9/bin/../lib/gcc/powerpc-eabivle/4.9.4/e200z4/fp/crtbegin.o
+ .rela.text.OS_Sched
+                0x40000020        0x0 d:/nxp/s32ds_power_v1.2/cross_tools/powerpc-eabivle-4_9/bin/../lib/gcc/powerpc-eabivle/4.9.4/e200z4/fp/crtbegin.o
+ .rela.text.OS_SchedNew
+                0x40000020        0x0 d:/nxp/s32ds_power_v1.2/cross_tools/powerpc-eabivle-4_9/bin/../lib/gcc/powerpc-eabivle/4.9.4/e200z4/fp/crtbegin.o
+ .rela.text.OS_TaskIdle
+                0x40000020        0x0 d:/nxp/s32ds_power_v1.2/cross_tools/powerpc-eabivle-4_9/bin/../lib/gcc/powerpc-eabivle/4.9.4/e200z4/fp/crtbegin.o
+ .rela.text.OS_TaskStat
+                0x40000020        0x0 d:/nxp/s32ds_power_v1.2/cross_tools/powerpc-eabivle-4_9/bin/../lib/gcc/powerpc-eabivle/4.9.4/e200z4/fp/crtbegin.o
+ .rela.text.OS_TaskStatStkChk
+                0x40000020        0x0 d:/nxp/s32ds_power_v1.2/cross_tools/powerpc-eabivle-4_9/bin/../lib/gcc/powerpc-eabivle/4.9.4/e200z4/fp/crtbegin.o
+ .rela.text.OS_TCBInit
+                0x40000020        0x0 d:/nxp/s32ds_power_v1.2/cross_tools/powerpc-eabivle-4_9/bin/../lib/gcc/powerpc-eabivle/4.9.4/e200z4/fp/crtbegin.o
+ .rela.text.Mem_Init
+                0x40000020        0x0 d:/nxp/s32ds_power_v1.2/cross_tools/powerpc-eabivle-4_9/bin/../lib/gcc/powerpc-eabivle/4.9.4/e200z4/fp/crtbegin.o
+ .rela.text.Mem_SegCreateCritical
+                0x40000020        0x0 d:/nxp/s32ds_power_v1.2/cross_tools/powerpc-eabivle-4_9/bin/../lib/gcc/powerpc-eabivle/4.9.4/e200z4/fp/crtbegin.o
+ .rela.text.Math_RandSetSeed
+                0x40000020        0x0 d:/nxp/s32ds_power_v1.2/cross_tools/powerpc-eabivle-4_9/bin/../lib/gcc/powerpc-eabivle/4.9.4/e200z4/fp/crtbegin.o
+ .rela.text.Math_Rand
+                0x40000020        0x0 d:/nxp/s32ds_power_v1.2/cross_tools/powerpc-eabivle-4_9/bin/../lib/gcc/powerpc-eabivle/4.9.4/e200z4/fp/crtbegin.o
+ .rela.intc_vector_table
+                0x40000020        0x0 d:/nxp/s32ds_power_v1.2/cross_tools/powerpc-eabivle-4_9/bin/../lib/gcc/powerpc-eabivle/4.9.4/e200z4/fp/crtbegin.o
+ .rela.text.CPU_Cache_Init
+                0x40000020        0x0 d:/nxp/s32ds_power_v1.2/cross_tools/powerpc-eabivle-4_9/bin/../lib/gcc/powerpc-eabivle/4.9.4/e200z4/fp/crtbegin.o
+ .rela.text.BSP_SMPU_Init
+                0x40000020        0x0 d:/nxp/s32ds_power_v1.2/cross_tools/powerpc-eabivle-4_9/bin/../lib/gcc/powerpc-eabivle/4.9.4/e200z4/fp/crtbegin.o
+ .rela.got2     0x40000020        0x0 d:/nxp/s32ds_power_v1.2/cross_tools/powerpc-eabivle-4_9/bin/../lib/gcc/powerpc-eabivle/4.9.4/e200z4/fp/crtbegin.o
+
+.sdata          0x40000020       0x72 load address 0x01007960
+ *(.sdata)
+ .sdata         0x40000020        0x0 d:/nxp/s32ds_power_v1.2/cross_tools/powerpc-eabivle-4_9/bin/../lib/gcc/powerpc-eabivle/4.9.4/e200z4/fp/ecrti.o
+                0x40000020                __SDATA_START__
+ .sdata         0x40000020        0x0 d:/nxp/s32ds_power_v1.2/cross_tools/powerpc-eabivle-4_9/bin/../lib/gcc/powerpc-eabivle/4.9.4/e200z4/fp/crtbegin.o
+                0x40008020                _SDA_BASE_
+ *(.sdata.*)
+ .sdata.OSDebugEn
+                0x40000020        0x2 ./src/os_dbg_r.o
+                0x40000020                OSDebugEn
+ *fill*         0x40000022        0x2 
+ .sdata.OSEndiannessTest
+                0x40000024        0x4 ./src/os_dbg_r.o
+                0x40000024                OSEndiannessTest
+ .sdata.OSEventEn
+                0x40000028        0x2 ./src/os_dbg_r.o
+                0x40000028                OSEventEn
+ .sdata.OSEventMax
+                0x4000002a        0x2 ./src/os_dbg_r.o
+                0x4000002a                OSEventMax
+ .sdata.OSEventNameEn
+                0x4000002c        0x2 ./src/os_dbg_r.o
+                0x4000002c                OSEventNameEn
+ .sdata.OSEventSize
+                0x4000002e        0x2 ./src/os_dbg_r.o
+                0x4000002e                OSEventSize
+ .sdata.OSEventTblSize
+                0x40000030        0x2 ./src/os_dbg_r.o
+                0x40000030                OSEventTblSize
+ .sdata.OSEventMultiEn
+                0x40000032        0x2 ./src/os_dbg_r.o
+                0x40000032                OSEventMultiEn
+ .sdata.OSFlagEn
+                0x40000034        0x2 ./src/os_dbg_r.o
+                0x40000034                OSFlagEn
+ .sdata.OSFlagGrpSize
+                0x40000036        0x2 ./src/os_dbg_r.o
+                0x40000036                OSFlagGrpSize
+ .sdata.OSFlagNodeSize
+                0x40000038        0x2 ./src/os_dbg_r.o
+                0x40000038                OSFlagNodeSize
+ .sdata.OSFlagWidth
+                0x4000003a        0x2 ./src/os_dbg_r.o
+                0x4000003a                OSFlagWidth
+ .sdata.OSFlagMax
+                0x4000003c        0x2 ./src/os_dbg_r.o
+                0x4000003c                OSFlagMax
+ .sdata.OSFlagNameEn
+                0x4000003e        0x2 ./src/os_dbg_r.o
+                0x4000003e                OSFlagNameEn
+ .sdata.OSLowestPrio
+                0x40000040        0x2 ./src/os_dbg_r.o
+                0x40000040                OSLowestPrio
+ .sdata.OSMboxEn
+                0x40000042        0x2 ./src/os_dbg_r.o
+                0x40000042                OSMboxEn
+ .sdata.OSMemEn
+                0x40000044        0x2 ./src/os_dbg_r.o
+                0x40000044                OSMemEn
+ .sdata.OSMemMax
+                0x40000046        0x2 ./src/os_dbg_r.o
+                0x40000046                OSMemMax
+ .sdata.OSMemNameEn
+                0x40000048        0x2 ./src/os_dbg_r.o
+                0x40000048                OSMemNameEn
+ .sdata.OSMemSize
+                0x4000004a        0x2 ./src/os_dbg_r.o
+                0x4000004a                OSMemSize
+ .sdata.OSMemTblSize
+                0x4000004c        0x2 ./src/os_dbg_r.o
+                0x4000004c                OSMemTblSize
+ .sdata.OSMutexEn
+                0x4000004e        0x2 ./src/os_dbg_r.o
+                0x4000004e                OSMutexEn
+ .sdata.OSPtrSize
+                0x40000050        0x2 ./src/os_dbg_r.o
+                0x40000050                OSPtrSize
+ .sdata.OSQEn   0x40000052        0x2 ./src/os_dbg_r.o
+                0x40000052                OSQEn
+ .sdata.OSQMax  0x40000054        0x2 ./src/os_dbg_r.o
+                0x40000054                OSQMax
+ .sdata.OSQSize
+                0x40000056        0x2 ./src/os_dbg_r.o
+                0x40000056                OSQSize
+ .sdata.OSRdyTblSize
+                0x40000058        0x2 ./src/os_dbg_r.o
+                0x40000058                OSRdyTblSize
+ .sdata.OSSemEn
+                0x4000005a        0x2 ./src/os_dbg_r.o
+                0x4000005a                OSSemEn
+ .sdata.OSStkWidth
+                0x4000005c        0x2 ./src/os_dbg_r.o
+                0x4000005c                OSStkWidth
+ .sdata.OSTaskCreateEn
+                0x4000005e        0x2 ./src/os_dbg_r.o
+                0x4000005e                OSTaskCreateEn
+ .sdata.OSTaskCreateExtEn
+                0x40000060        0x2 ./src/os_dbg_r.o
+                0x40000060                OSTaskCreateExtEn
+ .sdata.OSTaskDelEn
+                0x40000062        0x2 ./src/os_dbg_r.o
+                0x40000062                OSTaskDelEn
+ .sdata.OSTaskIdleStkSize
+                0x40000064        0x2 ./src/os_dbg_r.o
+                0x40000064                OSTaskIdleStkSize
+ .sdata.OSTaskProfileEn
+                0x40000066        0x2 ./src/os_dbg_r.o
+                0x40000066                OSTaskProfileEn
+ .sdata.OSTaskMax
+                0x40000068        0x2 ./src/os_dbg_r.o
+                0x40000068                OSTaskMax
+ .sdata.OSTaskNameEn
+                0x4000006a        0x2 ./src/os_dbg_r.o
+                0x4000006a                OSTaskNameEn
+ .sdata.OSTaskStatEn
+                0x4000006c        0x2 ./src/os_dbg_r.o
+                0x4000006c                OSTaskStatEn
+ .sdata.OSTaskStatStkSize
+                0x4000006e        0x2 ./src/os_dbg_r.o
+                0x4000006e                OSTaskStatStkSize
+ .sdata.OSTaskStatStkChkEn
+                0x40000070        0x2 ./src/os_dbg_r.o
+                0x40000070                OSTaskStatStkChkEn
+ .sdata.OSTaskSwHookEn
+                0x40000072        0x2 ./src/os_dbg_r.o
+                0x40000072                OSTaskSwHookEn
+ .sdata.OSTCBPrioTblMax
+                0x40000074        0x2 ./src/os_dbg_r.o
+                0x40000074                OSTCBPrioTblMax
+ .sdata.OSTCBSize
+                0x40000076        0x2 ./src/os_dbg_r.o
+                0x40000076                OSTCBSize
+ .sdata.OSTicksPerSec
+                0x40000078        0x2 ./src/os_dbg_r.o
+                0x40000078                OSTicksPerSec
+ .sdata.OSTimeTickHookEn
+                0x4000007a        0x2 ./src/os_dbg_r.o
+                0x4000007a                OSTimeTickHookEn
+ .sdata.OSVersionNbr
+                0x4000007c        0x2 ./src/os_dbg_r.o
+                0x4000007c                OSVersionNbr
+ .sdata.OSTmrEn
+                0x4000007e        0x2 ./src/os_dbg_r.o
+                0x4000007e                OSTmrEn
+ .sdata.OSTmrCfgMax
+                0x40000080        0x2 ./src/os_dbg_r.o
+                0x40000080                OSTmrCfgMax
+ .sdata.OSTmrCfgNameEn
+                0x40000082        0x2 ./src/os_dbg_r.o
+                0x40000082                OSTmrCfgNameEn
+ .sdata.OSTmrCfgWheelSize
+                0x40000084        0x2 ./src/os_dbg_r.o
+                0x40000084                OSTmrCfgWheelSize
+ .sdata.OSTmrCfgTicksPerSec
+                0x40000086        0x2 ./src/os_dbg_r.o
+                0x40000086                OSTmrCfgTicksPerSec
+ .sdata.OSTmrSize
+                0x40000088        0x2 ./src/os_dbg_r.o
+                0x40000088                OSTmrSize
+ .sdata.OSTmrTblSize
+                0x4000008a        0x2 ./src/os_dbg_r.o
+                0x4000008a                OSTmrTblSize
+ .sdata.OSTmrWheelSize
+                0x4000008c        0x2 ./src/os_dbg_r.o
+                0x4000008c                OSTmrWheelSize
+ .sdata.OSTmrWheelTblSize
+                0x4000008e        0x2 ./src/os_dbg_r.o
+                0x4000008e                OSTmrWheelTblSize
+ .sdata.OSDataSize
+                0x40000090        0x2 ./src/os_dbg_r.o
+                0x40000090                OSDataSize
+
+.bss            0x40000094     0x3394 load address 0x010079d2
+                0x40000094                __BSS_START = .
+ *(.sbss)
+ .sbss          0x40000094        0x0 d:/nxp/s32ds_power_v1.2/cross_tools/powerpc-eabivle-4_9/bin/../lib/gcc/powerpc-eabivle/4.9.4/e200z4/fp/crtbegin.o
+ .sbss          0x40000094        0x8 ./src/os_cpu_c.o
+                0x40000094                OS_CPU_ISRStkBase
+                0x40000098                OS_CPU_ISRNestingCtr
+ .sbss          0x4000009c       0x70 ./src/os_core.o
+                0x4000009c                OSTmrFreeList
+                0x400000a0                OSLockNesting
+                0x400000a4                OSTmrSemSignal
+                0x400000a8                OSTaskRegNextAvailID
+                0x400000a9                OSRunning
+                0x400000ac                OSIdleCtr
+                0x400000b0                OSTmrUsed
+                0x400000b2                OSPrioHighRdy
+                0x400000b3                OSPrioCur
+                0x400000b4                OSTCBList
+                0x400000b8                OSTickStepState
+                0x400000bc                OSCtxSwCtr
+                0x400000c0                OSTmrFree
+                0x400000c4                OSIdleCtrMax
+                0x400000c8                OSTCBFreeList
+                0x400000cc                OSCPUUsage
+                0x400000cd                OSTaskCtr
+                0x400000d0                OSMemFreeList
+                0x400000d4                OSTCBHighRdy
+                0x400000d8                OSQFreeList
+                0x400000dc                OSRdyGrp
+                0x400000e0                OSRdyTbl
+                0x400000e8                OSEventFreeList
+                0x400000ec                OSIntNesting
+                0x400000f0                OSTCBCur
+                0x400000f4                OSTmrTime
+                0x400000f8                OSTime
+                0x400000fc                OSTmrSem
+                0x40000100                OSFlagFreeList
+                0x40000104                OSStatRdy
+                0x40000108                OSIdleCtrRun
+ .sbss          0x4000010c        0x4 ./src/lib_mem.o
+                0x4000010c                Mem_SegHeadPtr
+ .sbss          0x40000110        0x4 ./src/cpu_cache_powerpc_e200z4204n3.o
+                0x40000110                CPU_Cache_Linesize
+ .sbss          0x40000114        0x0 d:/nxp/s32ds_power_v1.2/cross_tools/powerpc-eabivle-4_9/bin/../lib/gcc/powerpc-eabivle/4.9.4/e200z4/fp/ecrtn.o
+                0x40000114                __SBSS_END__
+ *(.sbss.*)
+ *(.bss)
+ .bss           0x40000114       0x20 d:/nxp/s32ds_power_v1.2/cross_tools/powerpc-eabivle-4_9/bin/../lib/gcc/powerpc-eabivle/4.9.4/e200z4/fp/crtbegin.o
+ *(.bss.*)
+ .bss.OSTmrCtr  0x40000134        0x2 ./src/os_cpu_c.o
+ *fill*         0x40000136        0x2 
+ .bss.StartupTaskStk
+                0x40000138      0x400 ./src/main.o
+ .bss.BSP_IntVectTbl
+                0x40000538     0x1790 ./src/bsp_int.o
+ *(COMMON)
+ COMMON         0x40001cc8      0x400 ./src/os_cpu_c.o
+                0x40001cc8                OS_CPU_ISRStk
+ COMMON         0x400020c8     0x1360 ./src/os_core.o
+                0x400020c8                OSTmrWheelTbl
+                0x40002100                OSFlagTbl
+                0x40002150                OSTmrTbl
+                0x400023d0                OSMemTbl
+                0x40002448                OSTaskStatStk
+                0x40002648                OSQTbl
+                0x400026a8                OSTmrTaskStk
+                0x400028a8                OSTaskIdleStk
+                0x40002aa8                OSEventTbl
+                0x40002b98                OSTCBTbl
+                0x40003328                OSTCBPrioTbl
+                0x40003428                __BSS_END = .
+
+.iplt           0x40003430        0x0 load address 0x010079d2
+ .iplt          0x40003430        0x0 d:/nxp/s32ds_power_v1.2/cross_tools/powerpc-eabivle-4_9/bin/../lib/gcc/powerpc-eabivle/4.9.4/e200z4/fp/crtbegin.o
+
+.stack          0x50800000     0x1004
+                0x50800000                __HEAP = .
+                [!provide]                PROVIDE (_end, .)
+                [!provide]                PROVIDE (end, .)
+                0x50800000                . = (. + __HEAP_SIZE)
+                0x50800000                __HEAP_END = .
+                0x50800000                _stack_end = .
+                0x50801000                . = (. + __STACK_SIZE)
+ *fill*         0x50800000     0x1000 
+                0x50801000                _stack_addr = .
+                0x50801000                __SP_INIT = .
+                0x50801004                . = (. + 0x4)
+ *fill*         0x50801000        0x4 
+                0x40000000                __DATA_SRAM_ADDR = ADDR (.data)
+                0x40000020                __SDATA_SRAM_ADDR = ADDR (.sdata)
+                0x00000004                __DATA_SIZE = SIZEOF (.data)
+                0x00000072                __SDATA_SIZE = SIZEOF (.sdata)
+                0x01007940                __DATA_ROM_ADDR = LOADADDR (.data)
+                0x01007960                __SDATA_ROM_ADDR = LOADADDR (.sdata)
+                0x00060000                __SRAM_SIZE = SRAM_SIZE
+                0x40000000                __SRAM_BASE_ADDR = SRAM_BASE_ADDR
+                0x00010000                __LOCAL_DMEM_SIZE = LOCALDMEM_SIZE
+                0x50800000                __LOCAL_DMEM_BASE_ADDR = LOCALDMEM_BASE_ADDR
+                0x4003e000                __MPU_NOCACHE_BASE_ADDR = MPU_NOCACHE_BASE_ADDR
+                0x00002000                __MPU_NOCACHE_SIZE = MPU_NOCACHE_SIZE
+                0x00003394                __BSS_SIZE = (__BSS_END - __BSS_START)
+OUTPUT(UCOS_II_MPC5744.elf elf32-powerpc)
+
+.PPC.EMB.apuinfo
+                0x00000000       0x1c
+ .PPC.EMB.apuinfo
+                0x00000000       0x18 d:/nxp/s32ds_power_v1.2/cross_tools/powerpc-eabivle-4_9/bin/../lib/gcc/powerpc-eabivle/4.9.4/e200z4/fp/ecrti.o
+ .PPC.EMB.apuinfo
+                0x00000018       0x18 d:/nxp/s32ds_power_v1.2/cross_tools/powerpc-eabivle-4_9/bin/../lib/gcc/powerpc-eabivle/4.9.4/e200z4/fp/crtbegin.o
+ .PPC.EMB.apuinfo
+                0x00000030       0x18 ./Project_Settings/Startup_Code/startup.o
+ .PPC.EMB.apuinfo
+                0x00000048       0x18 ./src/os_tmr.o
+ .PPC.EMB.apuinfo
+                0x00000060       0x18 ./src/os_time.o
+ .PPC.EMB.apuinfo
+                0x00000078       0x18 ./src/os_task.o
+ .PPC.EMB.apuinfo
+                0x00000090       0x18 ./src/os_sem.o
+ .PPC.EMB.apuinfo
+                0x000000a8       0x18 ./src/os_q.o
+ .PPC.EMB.apuinfo
+                0x000000c0       0x18 ./src/os_mutex.o
+ .PPC.EMB.apuinfo
+                0x000000d8       0x18 ./src/os_mem.o
+ .PPC.EMB.apuinfo
+                0x000000f0       0x18 ./src/os_mbox.o
+ .PPC.EMB.apuinfo
+                0x00000108       0x18 ./src/os_flag.o
+ .PPC.EMB.apuinfo
+                0x00000120       0x18 ./src/os_dbg_r.o
+ .PPC.EMB.apuinfo
+                0x00000138       0x18 ./src/os_cpu_c.o
+ .PPC.EMB.apuinfo
+                0x00000150       0x18 ./src/os_cpu_a.o
+ .PPC.EMB.apuinfo
+                0x00000168       0x18 ./src/os_core.o
+ .PPC.EMB.apuinfo
+                0x00000180       0x18 ./src/main.o
+ .PPC.EMB.apuinfo
+                0x00000198       0x18 ./src/lib_str.o
+ .PPC.EMB.apuinfo
+                0x000001b0       0x1c ./src/lib_mem.o
+ .PPC.EMB.apuinfo
+                0x000001cc       0x18 ./src/lib_math.o
+ .PPC.EMB.apuinfo
+                0x000001e4       0x18 ./src/lib_ascii.o
+ .PPC.EMB.apuinfo
+                0x000001fc       0x18 ./src/intc_sw_handlers.o
+ .PPC.EMB.apuinfo
+                0x00000214       0x18 ./src/intc_SW_mode_isr_vectors_MPC5744P.o
+ .PPC.EMB.apuinfo
+                0x0000022c       0x18 ./src/cpu_core.o
+ .PPC.EMB.apuinfo
+                0x00000244       0x18 ./src/cpu_cache_powerpc_e200z4204n3_a.o
+ .PPC.EMB.apuinfo
+                0x0000025c       0x18 ./src/cpu_cache_powerpc_e200z4204n3.o
+ .PPC.EMB.apuinfo
+                0x00000274       0x18 ./src/cpu_a.o
+ .PPC.EMB.apuinfo
+                0x0000028c       0x18 ./src/bsp_smpu.o
+ .PPC.EMB.apuinfo
+                0x000002a4       0x18 ./src/bsp_os.o
+ .PPC.EMB.apuinfo
+                0x000002bc       0x18 ./src/bsp_led.o
+ .PPC.EMB.apuinfo
+                0x000002d4       0x18 ./src/bsp_int.o
+ .PPC.EMB.apuinfo
+                0x000002ec       0x18 ./src/bsp_clk.o
+ .PPC.EMB.apuinfo
+                0x00000304       0x18 ./src/app_hooks.o
+ .PPC.EMB.apuinfo
+                0x0000031c       0x18 ./src/Vector.o
+ .PPC.EMB.apuinfo
+                0x00000334       0x18 ./src/MPC57xx__Interrupt_Init.o
+ .PPC.EMB.apuinfo
+                0x0000034c       0x18 d:/nxp/s32ds_power_v1.2/cross_tools/powerpc-eabivle-4_9/bin/../lib/gcc/powerpc-eabivle/4.9.4/e200z4/fp\libgcc.a(eabivle.o)
+ .PPC.EMB.apuinfo
+                0x00000364       0x18 d:/nxp/s32ds_power_v1.2/cross_tools/powerpc-eabivle-4_9/bin/../lib/gcc/powerpc-eabivle/4.9.4/e200z4/fp/crtend.o
+ .PPC.EMB.apuinfo
+                0x0000037c       0x18 d:/nxp/s32ds_power_v1.2/cross_tools/powerpc-eabivle-4_9/bin/../lib/gcc/powerpc-eabivle/4.9.4/e200z4/fp/ecrtn.o
+
+.comment        0x00000000       0x8e
+ .comment       0x00000000       0x8e ./src/os_tmr.o
+                                 0x8f (size before relaxing)
+ .comment       0x0000008e       0x8f ./src/os_time.o
+ .comment       0x0000008e       0x8f ./src/os_task.o
+ .comment       0x0000008e       0x8f ./src/os_sem.o
+ .comment       0x0000008e       0x8f ./src/os_q.o
+ .comment       0x0000008e       0x8f ./src/os_mutex.o
+ .comment       0x0000008e       0x8f ./src/os_mem.o
+ .comment       0x0000008e       0x8f ./src/os_mbox.o
+ .comment       0x0000008e       0x8f ./src/os_flag.o
+ .comment       0x0000008e       0x8f ./src/os_dbg_r.o
+ .comment       0x0000008e       0x8f ./src/os_cpu_c.o
+ .comment       0x0000008e       0x8f ./src/os_core.o
+ .comment       0x0000008e       0x8f ./src/main.o
+ .comment       0x0000008e       0x8f ./src/lib_str.o
+ .comment       0x0000008e       0x8f ./src/lib_mem.o
+ .comment       0x0000008e       0x8f ./src/lib_math.o
+ .comment       0x0000008e       0x8f ./src/lib_ascii.o
+ .comment       0x0000008e       0x8f ./src/intc_SW_mode_isr_vectors_MPC5744P.o
+ .comment       0x0000008e       0x8f ./src/flashrchw.o
+ .comment       0x0000008e       0x8f ./src/cpu_core.o
+ .comment       0x0000008e       0x8f ./src/cpu_cache_powerpc_e200z4204n3.o
+ .comment       0x0000008e       0x8f ./src/bsp_smpu.o
+ .comment       0x0000008e       0x8f ./src/bsp_os.o
+ .comment       0x0000008e       0x8f ./src/bsp_led.o
+ .comment       0x0000008e       0x8f ./src/bsp_int.o
+ .comment       0x0000008e       0x8f ./src/bsp_clk.o
+ .comment       0x0000008e       0x8f ./src/app_hooks.o
+ .comment       0x0000008e       0x8f ./src/Vector.o
+ .comment       0x0000008e       0x8f ./src/MPC57xx__Interrupt_Init.o
+
+.debug_line     0x00000000     0x64d8
+ .debug_line    0x00000000       0xdb ./Project_Settings/Startup_Code/startup.o
+ .debug_line    0x000000db      0x4d6 ./src/os_tmr.o
+ .debug_line    0x000005b1      0x2fc ./src/os_time.o
+ .debug_line    0x000008ad      0x521 ./src/os_task.o
+ .debug_line    0x00000dce      0x3b4 ./src/os_sem.o
+ .debug_line    0x00001182      0x471 ./src/os_q.o
+ .debug_line    0x000015f3      0x421 ./src/os_mutex.o
+ .debug_line    0x00001a14      0x37f ./src/os_mem.o
+ .debug_line    0x00001d93      0x3c3 ./src/os_mbox.o
+ .debug_line    0x00002156      0x505 ./src/os_flag.o
+ .debug_line    0x0000265b      0x2a3 ./src/os_dbg_r.o
+ .debug_line    0x000028fe      0x36e ./src/os_cpu_c.o
+ .debug_line    0x00002c6c       0xd2 ./src/os_cpu_a.o
+ .debug_line    0x00002d3e      0x7a5 ./src/os_core.o
+ .debug_line    0x000034e3      0x33c ./src/main.o
+ .debug_line    0x0000381f      0x5d8 ./src/lib_str.o
+ .debug_line    0x00003df7      0x512 ./src/lib_mem.o
+ .debug_line    0x00004309      0x170 ./src/lib_math.o
+ .debug_line    0x00004479      0x488 ./src/lib_ascii.o
+ .debug_line    0x00004901       0x5d ./src/intc_sw_handlers.o
+ .debug_line    0x0000495e      0x1d8 ./src/intc_SW_mode_isr_vectors_MPC5744P.o
+ .debug_line    0x00004b36      0x1ab ./src/flashrchw.o
+ .debug_line    0x00004ce1      0x297 ./src/cpu_core.o
+ .debug_line    0x00004f78       0x93 ./src/cpu_cache_powerpc_e200z4204n3_a.o
+ .debug_line    0x0000500b      0x138 ./src/cpu_cache_powerpc_e200z4204n3.o
+ .debug_line    0x00005143       0x4d ./src/cpu_a.o
+ .debug_line    0x00005190      0x1db ./src/bsp_smpu.o
+ .debug_line    0x0000536b      0x33b ./src/bsp_os.o
+ .debug_line    0x000056a6      0x241 ./src/bsp_led.o
+ .debug_line    0x000058e7      0x3b9 ./src/bsp_int.o
+ .debug_line    0x00005ca0      0x277 ./src/bsp_clk.o
+ .debug_line    0x00005f17      0x2ea ./src/app_hooks.o
+ .debug_line    0x00006201       0x9c ./src/Vector.o
+ .debug_line    0x0000629d      0x23b ./src/MPC57xx__Interrupt_Init.o
+
+.debug_info     0x00000000    0x100f6
+ .debug_info    0x00000000       0x83 ./Project_Settings/Startup_Code/startup.o
+ .debug_info    0x00000083      0x9ba ./src/os_tmr.o
+ .debug_info    0x00000a3d      0x531 ./src/os_time.o
+ .debug_info    0x00000f6e      0xb13 ./src/os_task.o
+ .debug_info    0x00001a81      0x6b2 ./src/os_sem.o
+ .debug_info    0x00002133      0x90b ./src/os_q.o
+ .debug_info    0x00002a3e      0x75b ./src/os_mutex.o
+ .debug_info    0x00003199      0x43a ./src/os_mem.o
+ .debug_info    0x000035d3      0x6d8 ./src/os_mbox.o
+ .debug_info    0x00003cab      0x9f9 ./src/os_flag.o
+ .debug_info    0x000046a4      0xc55 ./src/os_dbg_r.o
+ .debug_info    0x000052f9      0x577 ./src/os_cpu_c.o
+ .debug_info    0x00005870       0x6a ./src/os_cpu_a.o
+ .debug_info    0x000058da     0x1207 ./src/os_core.o
+ .debug_info    0x00006ae1      0x147 ./src/main.o
+ .debug_info    0x00006c28      0xd54 ./src/lib_str.o
+ .debug_info    0x0000797c      0xe55 ./src/lib_mem.o
+ .debug_info    0x000087d1      0x16a ./src/lib_math.o
+ .debug_info    0x0000893b      0x425 ./src/lib_ascii.o
+ .debug_info    0x00008d60       0x72 ./src/intc_sw_handlers.o
+ .debug_info    0x00008dd2       0xb4 ./src/intc_SW_mode_isr_vectors_MPC5744P.o
+ .debug_info    0x00008e86       0x93 ./src/flashrchw.o
+ .debug_info    0x00008f19      0x472 ./src/cpu_core.o
+ .debug_info    0x0000938b       0x81 ./src/cpu_cache_powerpc_e200z4204n3_a.o
+ .debug_info    0x0000940c       0xa4 ./src/cpu_cache_powerpc_e200z4204n3.o
+ .debug_info    0x000094b0       0x67 ./src/cpu_a.o
+ .debug_info    0x00009517      0x5c5 ./src/bsp_smpu.o
+ .debug_info    0x00009adc      0x3fa ./src/bsp_os.o
+ .debug_info    0x00009ed6     0x15a6 ./src/bsp_led.o
+ .debug_info    0x0000b47c      0x794 ./src/bsp_int.o
+ .debug_info    0x0000bc10     0x3a94 ./src/bsp_clk.o
+ .debug_info    0x0000f6a4      0x446 ./src/app_hooks.o
+ .debug_info    0x0000faea       0x21 ./src/Vector.o
+ .debug_info    0x0000fb0b      0x5eb ./src/MPC57xx__Interrupt_Init.o
+
+.debug_abbrev   0x00000000     0x2372
+ .debug_abbrev  0x00000000       0x14 ./Project_Settings/Startup_Code/startup.o
+ .debug_abbrev  0x00000014      0x1ad ./src/os_tmr.o
+ .debug_abbrev  0x000001c1      0x149 ./src/os_time.o
+ .debug_abbrev  0x0000030a      0x195 ./src/os_task.o
+ .debug_abbrev  0x0000049f      0x162 ./src/os_sem.o
+ .debug_abbrev  0x00000601      0x162 ./src/os_q.o
+ .debug_abbrev  0x00000763      0x16b ./src/os_mutex.o
+ .debug_abbrev  0x000008ce      0x144 ./src/os_mem.o
+ .debug_abbrev  0x00000a12      0x139 ./src/os_mbox.o
+ .debug_abbrev  0x00000b4b      0x190 ./src/os_flag.o
+ .debug_abbrev  0x00000cdb       0xf5 ./src/os_dbg_r.o
+ .debug_abbrev  0x00000dd0      0x1ca ./src/os_cpu_c.o
+ .debug_abbrev  0x00000f9a       0x14 ./src/os_cpu_a.o
+ .debug_abbrev  0x00000fae      0x262 ./src/os_core.o
+ .debug_abbrev  0x00001210       0xbd ./src/main.o
+ .debug_abbrev  0x000012cd      0x128 ./src/lib_str.o
+ .debug_abbrev  0x000013f5      0x1bd ./src/lib_mem.o
+ .debug_abbrev  0x000015b2       0xf3 ./src/lib_math.o
+ .debug_abbrev  0x000016a5       0xcc ./src/lib_ascii.o
+ .debug_abbrev  0x00001771       0x14 ./src/intc_sw_handlers.o
+ .debug_abbrev  0x00001785       0x7c ./src/intc_SW_mode_isr_vectors_MPC5744P.o
+ .debug_abbrev  0x00001801       0x4e ./src/flashrchw.o
+ .debug_abbrev  0x0000184f      0x10c ./src/cpu_core.o
+ .debug_abbrev  0x0000195b       0x14 ./src/cpu_cache_powerpc_e200z4204n3_a.o
+ .debug_abbrev  0x0000196f       0x58 ./src/cpu_cache_powerpc_e200z4204n3.o
+ .debug_abbrev  0x000019c7       0x14 ./src/cpu_a.o
+ .debug_abbrev  0x000019db      0x150 ./src/bsp_smpu.o
+ .debug_abbrev  0x00001b2b      0x144 ./src/bsp_os.o
+ .debug_abbrev  0x00001c6f      0x15a ./src/bsp_led.o
+ .debug_abbrev  0x00001dc9      0x1ca ./src/bsp_int.o
+ .debug_abbrev  0x00001f93      0x16f ./src/bsp_clk.o
+ .debug_abbrev  0x00002102       0xe0 ./src/app_hooks.o
+ .debug_abbrev  0x000021e2       0x13 ./src/Vector.o
+ .debug_abbrev  0x000021f5      0x17d ./src/MPC57xx__Interrupt_Init.o
+
+.debug_aranges  0x00000000      0xb28
+ .debug_aranges
+                0x00000000       0x20 ./Project_Settings/Startup_Code/startup.o
+ .debug_aranges
+                0x00000020       0x90 ./src/os_tmr.o
+ .debug_aranges
+                0x000000b0       0x40 ./src/os_time.o
+ .debug_aranges
+                0x000000f0       0x98 ./src/os_task.o
+ .debug_aranges
+                0x00000188       0x58 ./src/os_sem.o
+ .debug_aranges
+                0x000001e0       0x70 ./src/os_q.o
+ .debug_aranges
+                0x00000250       0x50 ./src/os_mutex.o
+ .debug_aranges
+                0x000002a0       0x50 ./src/os_mem.o
+ .debug_aranges
+                0x000002f0       0x58 ./src/os_mbox.o
+ .debug_aranges
+                0x00000348       0x80 ./src/os_flag.o
+ .debug_aranges
+                0x000003c8       0x20 ./src/os_dbg_r.o
+ .debug_aranges
+                0x000003e8       0x70 ./src/os_cpu_c.o
+ .debug_aranges
+                0x00000458       0x20 ./src/os_cpu_a.o
+ .debug_aranges
+                0x00000478      0x128 ./src/os_core.o
+ .debug_aranges
+                0x000005a0       0x28 ./src/main.o
+ .debug_aranges
+                0x000005c8       0xd8 ./src/lib_str.o
+ .debug_aranges
+                0x000006a0       0xc0 ./src/lib_mem.o
+ .debug_aranges
+                0x00000760       0x38 ./src/lib_math.o
+ .debug_aranges
+                0x00000798       0x98 ./src/lib_ascii.o
+ .debug_aranges
+                0x00000830       0x20 ./src/intc_sw_handlers.o
+ .debug_aranges
+                0x00000850       0x20 ./src/intc_SW_mode_isr_vectors_MPC5744P.o
+ .debug_aranges
+                0x00000870       0x18 ./src/flashrchw.o
+ .debug_aranges
+                0x00000888       0x80 ./src/cpu_core.o
+ .debug_aranges
+                0x00000908       0x20 ./src/cpu_cache_powerpc_e200z4204n3_a.o
+ .debug_aranges
+                0x00000928       0x20 ./src/cpu_cache_powerpc_e200z4204n3.o
+ .debug_aranges
+                0x00000948       0x20 ./src/cpu_a.o
+ .debug_aranges
+                0x00000968       0x20 ./src/bsp_smpu.o
+ .debug_aranges
+                0x00000988       0x38 ./src/bsp_os.o
+ .debug_aranges
+                0x000009c0       0x38 ./src/bsp_led.o
+ .debug_aranges
+                0x000009f8       0x50 ./src/bsp_int.o
+ .debug_aranges
+                0x00000a48       0x38 ./src/bsp_clk.o
+ .debug_aranges
+                0x00000a80       0x58 ./src/app_hooks.o
+ .debug_aranges
+                0x00000ad8       0x18 ./src/Vector.o
+ .debug_aranges
+                0x00000af0       0x38 ./src/MPC57xx__Interrupt_Init.o
+
+.debug_ranges   0x00000000      0x8a8
+ .debug_ranges  0x00000000       0x80 ./src/os_tmr.o
+ .debug_ranges  0x00000080       0x30 ./src/os_time.o
+ .debug_ranges  0x000000b0       0x88 ./src/os_task.o
+ .debug_ranges  0x00000138       0x48 ./src/os_sem.o
+ .debug_ranges  0x00000180       0x60 ./src/os_q.o
+ .debug_ranges  0x000001e0       0x40 ./src/os_mutex.o
+ .debug_ranges  0x00000220       0x40 ./src/os_mem.o
+ .debug_ranges  0x00000260       0x48 ./src/os_mbox.o
+ .debug_ranges  0x000002a8       0x70 ./src/os_flag.o
+ .debug_ranges  0x00000318       0x10 ./src/os_dbg_r.o
+ .debug_ranges  0x00000328       0x60 ./src/os_cpu_c.o
+ .debug_ranges  0x00000388      0x118 ./src/os_core.o
+ .debug_ranges  0x000004a0       0x18 ./src/main.o
+ .debug_ranges  0x000004b8       0xc8 ./src/lib_str.o
+ .debug_ranges  0x00000580       0xb0 ./src/lib_mem.o
+ .debug_ranges  0x00000630       0x28 ./src/lib_math.o
+ .debug_ranges  0x00000658       0x88 ./src/lib_ascii.o
+ .debug_ranges  0x000006e0       0x10 ./src/intc_SW_mode_isr_vectors_MPC5744P.o
+ .debug_ranges  0x000006f0       0x70 ./src/cpu_core.o
+ .debug_ranges  0x00000760       0x10 ./src/cpu_cache_powerpc_e200z4204n3.o
+ .debug_ranges  0x00000770       0x10 ./src/bsp_smpu.o
+ .debug_ranges  0x00000780       0x28 ./src/bsp_os.o
+ .debug_ranges  0x000007a8       0x28 ./src/bsp_led.o
+ .debug_ranges  0x000007d0       0x40 ./src/bsp_int.o
+ .debug_ranges  0x00000810       0x28 ./src/bsp_clk.o
+ .debug_ranges  0x00000838       0x48 ./src/app_hooks.o
+ .debug_ranges  0x00000880       0x28 ./src/MPC57xx__Interrupt_Init.o
+
+.debug_macro    0x00000000    0x10e4e
+ .debug_macro   0x00000000      0x147 ./src/os_tmr.o
+ .debug_macro   0x00000147      0x616 ./src/os_tmr.o
+ .debug_macro   0x0000075d       0x52 ./src/os_tmr.o
+ .debug_macro   0x000007af       0xa0 ./src/os_tmr.o
+ .debug_macro   0x0000084f       0x16 ./src/os_tmr.o
+ .debug_macro   0x00000865       0x10 ./src/os_tmr.o
+ .debug_macro   0x00000875       0x64 ./src/os_tmr.o
+ .debug_macro   0x000008d9      0x1a3 ./src/os_tmr.o
+ .debug_macro   0x00000a7c      0x133 ./src/os_tmr.o
+ .debug_macro   0x00000baf       0x16 ./src/os_tmr.o
+ .debug_macro   0x00000bc5       0x22 ./src/os_tmr.o
+ .debug_macro   0x00000be7       0x16 ./src/os_tmr.o
+ .debug_macro   0x00000bfd       0x28 ./src/os_tmr.o
+ .debug_macro   0x00000c25       0x10 ./src/os_tmr.o
+ .debug_macro   0x00000c35       0x16 ./src/os_tmr.o
+ .debug_macro   0x00000c4b       0x16 ./src/os_tmr.o
+ .debug_macro   0x00000c61       0x8b ./src/os_tmr.o
+ .debug_macro   0x00000cec       0x16 ./src/os_tmr.o
+ .debug_macro   0x00000d02       0x20 ./src/os_tmr.o
+ .debug_macro   0x00000d22       0x2e ./src/os_tmr.o
+ .debug_macro   0x00000d50      0x1f1 ./src/os_tmr.o
+ .debug_macro   0x00000f41       0x36 ./src/os_tmr.o
+ .debug_macro   0x00000f77      0x2e3 ./src/os_tmr.o
+ .debug_macro   0x0000125a      0x43d ./src/os_tmr.o
+ .debug_macro   0x00001697      0x13b ./src/os_time.o
+ .debug_macro   0x000017d2      0x13b ./src/os_task.o
+ .debug_macro   0x0000190d      0x13b ./src/os_sem.o
+ .debug_macro   0x00001a48      0x13b ./src/os_q.o
+ .debug_macro   0x00001b83      0x14d ./src/os_mutex.o
+ .debug_macro   0x00001cd0      0x13b ./src/os_mem.o
+ .debug_macro   0x00001e0b      0x13b ./src/os_mbox.o
+ .debug_macro   0x00001f46      0x13b ./src/os_flag.o
+ .debug_macro   0x00002081      0x13b ./src/os_dbg_r.o
+ .debug_macro   0x000021bc      0x13f ./src/os_cpu_c.o
+ .debug_macro   0x000022fb       0x36 ./src/os_cpu_c.o
+ .debug_macro   0x00002331      0x141 ./src/os_core.o
+ .debug_macro   0x00002472      0x43d ./src/os_core.o
+ .debug_macro   0x000028af      0x1c5 ./src/main.o
+ .debug_macro   0x00002a74       0x69 ./src/main.o
+ .debug_macro   0x00002add       0x36 ./src/main.o
+ .debug_macro   0x00002b13       0x66 ./src/main.o
+ .debug_macro   0x00002b79       0x10 ./src/main.o
+ .debug_macro   0x00002b89      0x5f8 ./src/main.o
+ .debug_macro   0x00003181       0x43 ./src/main.o
+ .debug_macro   0x000031c4       0x36 ./src/main.o
+ .debug_macro   0x000031fa      0x1ae ./src/main.o
+ .debug_macro   0x000033a8       0x86 ./src/lib_str.o
+ .debug_macro   0x0000342e       0x1c ./src/lib_str.o
+ .debug_macro   0x0000344a      0x5b3 ./src/lib_str.o
+ .debug_macro   0x000039fd       0x51 ./src/lib_str.o
+ .debug_macro   0x00003a4e       0xa9 ./src/lib_mem.o
+ .debug_macro   0x00003af7      0x1ae ./src/lib_mem.o
+ .debug_macro   0x00003ca5       0x41 ./src/lib_mem.o
+ .debug_macro   0x00003ce6       0x51 ./src/lib_mem.o
+ .debug_macro   0x00003d37       0x7f ./src/lib_math.o
+ .debug_macro   0x00003db6       0x3b ./src/lib_math.o
+ .debug_macro   0x00003df1       0x71 ./src/lib_ascii.o
+ .debug_macro   0x00003e62      0x5ad ./src/lib_ascii.o
+ .debug_macro   0x0000440f       0xa1 ./src/intc_SW_mode_isr_vectors_MPC5744P.o
+ .debug_macro   0x000044b0       0x9d ./src/intc_SW_mode_isr_vectors_MPC5744P.o
+ .debug_macro   0x0000454d      0x15b ./src/intc_SW_mode_isr_vectors_MPC5744P.o
+ .debug_macro   0x000046a8       0x58 ./src/intc_SW_mode_isr_vectors_MPC5744P.o
+ .debug_macro   0x00004700       0xd1 ./src/flashrchw.o
+ .debug_macro   0x000047d1       0x91 ./src/cpu_core.o
+ .debug_macro   0x00004862       0x10 ./src/cpu_core.o
+ .debug_macro   0x00004872       0x1c ./src/cpu_core.o
+ .debug_macro   0x0000488e       0x64 ./src/cpu_cache_powerpc_e200z4204n3.o
+ .debug_macro   0x000048f2       0x10 ./src/cpu_cache_powerpc_e200z4204n3.o
+ .debug_macro   0x00004902       0x10 ./src/cpu_cache_powerpc_e200z4204n3.o
+ .debug_macro   0x00004912       0xb2 ./src/bsp_smpu.o
+ .debug_macro   0x000049c4     0xb50a ./src/bsp_smpu.o
+ .debug_macro   0x0000fece      0x1c8 ./src/bsp_os.o
+ .debug_macro   0x00010096      0x1af ./src/bsp_os.o
+ .debug_macro   0x00010245       0xbc ./src/bsp_led.o
+ .debug_macro   0x00010301      0x1d6 ./src/bsp_int.o
+ .debug_macro   0x000104d7       0xff ./src/bsp_clk.o
+ .debug_macro   0x000105d6       0x10 ./src/bsp_clk.o
+ .debug_macro   0x000105e6      0x5ec ./src/bsp_clk.o
+ .debug_macro   0x00010bd2      0x139 ./src/app_hooks.o
+ .debug_macro   0x00010d0b       0x44 ./src/Vector.o
+ .debug_macro   0x00010d4f       0xd1 ./src/MPC57xx__Interrupt_Init.o
+ .debug_macro   0x00010e20       0x2e ./src/MPC57xx__Interrupt_Init.o
+
+.debug_str      0x00000000    0x47438
+ .debug_str     0x00000000     0x60ff ./src/os_tmr.o
+                               0x618a (size before relaxing)
+ .debug_str     0x000060ff       0xbc ./src/os_time.o
+                               0x5fa5 (size before relaxing)
+ .debug_str     0x000061bb      0x1da ./src/os_task.o
+                               0x614f (size before relaxing)
+ .debug_str     0x00006395       0xd4 ./src/os_sem.o
+                               0x5ffa (size before relaxing)
+ .debug_str     0x00006469       0xfd ./src/os_q.o
+                               0x6079 (size before relaxing)
+ .debug_str     0x00006566      0x145 ./src/os_mutex.o
+                               0x60cd (size before relaxing)
+ .debug_str     0x000066ab      0x135 ./src/os_mem.o
+                               0x5de9 (size before relaxing)
+ .debug_str     0x000067e0       0x9b ./src/os_mbox.o
+                               0x600f (size before relaxing)
+ .debug_str     0x0000687b      0x197 ./src/os_flag.o
+                               0x60f6 (size before relaxing)
+ .debug_str     0x00006a12      0x38d ./src/os_dbg_r.o
+                               0x6556 (size before relaxing)
+ .debug_str     0x00006d9f      0x140 ./src/os_cpu_c.o
+                               0x5ffb (size before relaxing)
+ .debug_str     0x00006edf      0x27d ./src/os_core.o
+                               0x6590 (size before relaxing)
+ .debug_str     0x0000715c     0x55f4 ./src/main.o
+                               0xb293 (size before relaxing)
+ .debug_str     0x0000c750     0x28d6 ./src/lib_str.o
+                               0x79ba (size before relaxing)
+ .debug_str     0x0000f026      0x8ab ./src/lib_mem.o
+                               0xa60f (size before relaxing)
+ .debug_str     0x0000f8d1       0x8c ./src/lib_math.o
+                               0x53e1 (size before relaxing)
+ .debug_str     0x0000f95d      0x15b ./src/lib_ascii.o
+                               0x733a (size before relaxing)
+ .debug_str     0x0000fab8      0x973 ./src/intc_SW_mode_isr_vectors_MPC5744P.o
+                               0x3a56 (size before relaxing)
+ .debug_str     0x0001042b       0xe1 ./src/flashrchw.o
+                               0x3aea (size before relaxing)
+ .debug_str     0x0001050c      0x307 ./src/cpu_core.o
+                               0x54e3 (size before relaxing)
+ .debug_str     0x00010813       0x49 ./src/cpu_cache_powerpc_e200z4204n3.o
+                               0x505b (size before relaxing)
+ .debug_str     0x0001085c    0x33afc ./src/bsp_smpu.o
+                              0x37516 (size before relaxing)
+ .debug_str     0x00044358      0x20a ./src/bsp_os.o
+                              0x3cbdc (size before relaxing)
+ .debug_str     0x00044562      0x969 ./src/bsp_led.o
+                              0x37c34 (size before relaxing)
+ .debug_str     0x00044ecb      0x35d ./src/bsp_int.o
+                              0x3cd7e (size before relaxing)
+ .debug_str     0x00045228     0x1f20 ./src/bsp_clk.o
+                              0x3bd77 (size before relaxing)
+ .debug_str     0x00047148       0x9b ./src/app_hooks.o
+                               0x5f67 (size before relaxing)
+ .debug_str     0x000471e3       0x9b ./src/Vector.o
+                               0x23c0 (size before relaxing)
+ .debug_str     0x0004727e      0x1ba ./src/MPC57xx__Interrupt_Init.o
+                              0x376b2 (size before relaxing)
+
+.debug_frame    0x00000000     0x263c
+ .debug_frame   0x00000000      0x244 ./src/os_tmr.o
+ .debug_frame   0x00000244       0xd0 ./src/os_time.o
+ .debug_frame   0x00000314      0x288 ./src/os_task.o
+ .debug_frame   0x0000059c      0x150 ./src/os_sem.o
+ .debug_frame   0x000006ec      0x1c8 ./src/os_q.o
+ .debug_frame   0x000008b4      0x124 ./src/os_mutex.o
+ .debug_frame   0x000009d8      0x128 ./src/os_mem.o
+ .debug_frame   0x00000b00      0x14c ./src/os_mbox.o
+ .debug_frame   0x00000c4c      0x20c ./src/os_flag.o
+ .debug_frame   0x00000e58       0x34 ./src/os_dbg_r.o
+ .debug_frame   0x00000e8c      0x19c ./src/os_cpu_c.o
+ .debug_frame   0x00001028      0x500 ./src/os_core.o
+ .debug_frame   0x00001528       0x48 ./src/main.o
+ .debug_frame   0x00001570      0x390 ./src/lib_str.o
+ .debug_frame   0x00001900      0x318 ./src/lib_mem.o
+ .debug_frame   0x00001c18       0xa0 ./src/lib_math.o
+ .debug_frame   0x00001cb8      0x250 ./src/lib_ascii.o
+ .debug_frame   0x00001f08       0x2c ./src/intc_SW_mode_isr_vectors_MPC5744P.o
+ .debug_frame   0x00001f34      0x1dc ./src/cpu_core.o
+ .debug_frame   0x00002110       0x34 ./src/cpu_cache_powerpc_e200z4204n3.o
+ .debug_frame   0x00002144       0x34 ./src/bsp_smpu.o
+ .debug_frame   0x00002178       0xa0 ./src/bsp_os.o
+ .debug_frame   0x00002218       0xa4 ./src/bsp_led.o
+ .debug_frame   0x000022bc      0x110 ./src/bsp_int.o
+ .debug_frame   0x000023cc       0xa0 ./src/bsp_clk.o
+ .debug_frame   0x0000246c      0x130 ./src/app_hooks.o
+ .debug_frame   0x0000259c       0xa0 ./src/MPC57xx__Interrupt_Init.o
